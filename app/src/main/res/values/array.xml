@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_font_arab_titles">
+        <item>Umum</item>
+        <item>Casual</item>
+        <item>Times new Roman</item>
+    </string-array>
+    <string-array name="settings_font_arab_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="settings_font_arab_titles_size">
+        <item>14sp</item>
+        <item>18sp</item>
+        <item>22sp</item>
+        <item>28sp</item>
+        <item>36sp</item>
+        <item>48sp</item>
+    </string-array>
+    <string-array name="settings_font_arab_value_size">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

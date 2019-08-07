@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.basantandevloper.geo.muslimamaliyah">
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.sensor.accelerometer"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.sensor.compass"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_my_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_my_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".Waktu.WaktuShalatActivity"
+            android:label="Jadwal Shalat"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Quran.QuranActivity"
+            android:label="Al-Qur an"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+
+        <receiver android:name=".notification.AlarmBroadcastRecevier" />
+        <receiver
+            android:name=".notification.AlarmBootReceiver"
+            android:enabled="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".notification.NotificatioSoundBroadcast" >
+            <intent-filter>
+                <action android:name="com.basantandevloper.geo.muslimamaliyah.previous" />
+                <action android:name="com.basantandevloper.geo.muslimamaliyah.delete" />
+                <action android:name="com.basantandevloper.geo.muslimamaliyah.pause" />
+                <action android:name="com.basantandevloper.geo.muslimamaliyah.next" />
+                <action android:name="com.basantandevloper.geo.muslimamaliyah.play" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".Qosidah.QosidahActivity"
+            android:label="Qosidah, Maulid dan Sholawat"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Kompas.KompasActivity"
+            android:label="Kompas Arah Kilat"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Dzikir.DzikirActivity"
+            android:label="Dzikir dan Bertasbih"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Doa.DoaActivity"
+            android:label="Do&apos;a"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Qosidah.DetailQosidahActivity"
+            android:label="Qosidah"
+            android:parentActivityName=".Qosidah.QosidahActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Qosidah.QosidahActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Asmaul.AsmaulHusnaActivity"
+            android:label="Asmaul Husna"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Dzikir.TambahDzikirActivity"
+            android:label="Tambah Dzikir"
+            android:parentActivityName=".Dzikir.DzikirActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Dzikir.DzikirActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Dzikir.UbahDzikirActivity"
+            android:label="Edit Dzikir"
+            android:parentActivityName=".Dzikir.DzikirActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Dzikir.DzikirActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Dzikir.MulaiDzikirActivity"
+            android:label="Mulai Berdzikir"
+            android:parentActivityName=".Dzikir.DzikirActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Dzikir.DzikirActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Doa.DetailDoaActivity"
+            android:label="Detail Doa"
+            android:parentActivityName=".Doa.DoaActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Doa.DoaActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Tentang"
+            android:label="Tentang"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Sholat.SholatActivity"
+            android:label="Cara Sholat dan Wirid"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5914624441048150~1438549841" />
+
+        <activity
+            android:name=".Sholat.DetailSholatActivity"
+            android:label="Detail Sholat"
+            android:parentActivityName=".Sholat.SholatActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Sholat.SholatActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Quran.AyatActivity"
+            android:label="Ayat"
+            android:parentActivityName=".Quran.QuranActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Quran.QuranActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="Pengaturan"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".Quran.JuzActivity"
+            android:label="Juz"
+            android:parentActivityName=".Quran.QuranActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.basantandevloper.geo.muslimamaliyah.Quran.QuranActivity" />
+            >
+        </activity>
+        <activity android:name=".Asmaul.DetailAsmaulHusnaActivity" />
+        <activity android:name=".Quran.LastAyatActivity" />
+        <activity android:name=".MediaPlayer.SongActivity"></activity>
+    </application>
+
+</manifest>

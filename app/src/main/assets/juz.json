@@ -1,0 +1,274 @@
+[
+  {
+    "index": "01",
+    "start_surah" : "1",
+    "start_ayat"  : "1",
+    "end_surah"   : "2",
+    "end_ayat"    : "141",
+    "start_name": "Al-Fatiha",
+    "end_name": "Al-Baqara"
+  },
+  {
+    "index": "02",
+    "start_surah" : "2",
+    "start_ayat"  : "142",
+    "end_surah"   : "2",
+    "end_ayat"    : "252",
+    "start_name": "Al-Baqara",
+    "end_name": "Al-Baqara"
+  },
+  {
+    "index": "03",
+    "start_surah" : "2",
+    "start_ayat"  : "253",
+    "end_surah"   : "3",
+    "end_ayat"    : "92",
+    "start_name": "Al-Baqara",
+    "end_name": "Aal-Imran"
+  },
+  {
+    "index": "04",
+    "start_surah" : "3",
+    "start_ayat"  : "93",
+    "end_surah"   : "4",
+    "end_ayat"    : "23",
+    "start_name": "Aal-Imran",
+    "end_name": "An-Nisaa"
+  },
+  {
+    "index": "05",
+    "start_surah" : "4",
+    "start_ayat"  : "24",
+    "end_surah"   : "4",
+    "end_ayat"    : "147",
+    "start_name": "An-Nisaa",
+    "end_name": "An-Nisaa"
+  },
+  {
+    "index": "06",
+    "start_surah" : "4",
+    "start_ayat"  : "148",
+    "end_surah"   : "5",
+    "end_ayat"    : "81",
+    "start_name": "An-Nisaa",
+    "end_name": "Al-Ma'ida"
+  },
+  {
+    "index": "07",
+    "start_surah" : "5",
+    "start_ayat"  : "82",
+    "end_surah"   : "6",
+    "end_ayat"    : "110",
+    "start_name": "Al-Ma'ida",
+    "end_name": "Al-An'am"
+  },
+  {
+    "index": "08",
+    "start_surah" : "6",
+    "start_ayat"  : "111",
+    "end_surah"   : "7",
+    "end_ayat"    : "87",
+    "start_name": "Al-An'am",
+    "end_name": "Al-A'raf"
+  },
+  {
+    "index": "09",
+    "start_surah" : "7",
+    "start_ayat"  : "88",
+    "end_surah"   : "8",
+    "end_ayat"    : "40",
+    "start_name": "Al-A'raf",
+    "end_name": "Al-Anfal"
+  },
+  {
+    "index": "10",
+    "start_surah": "8",
+    "start_ayat": "41",
+    "end_surah": "9",
+    "end_ayat": "92",
+    "start_name": "Al-Anfal",
+    "end_name": "Al-Tawba"
+  },
+  {
+    "index": "11",
+    "start_surah" : "9",
+    "start_ayat"  : "93",
+    "end_surah"   : "11",
+    "end_ayat"    : "5",
+    "start_name": "Al-Tawba",
+    "end_name": "Hud"
+  },
+  {
+    "index": "12",
+    "start_surah" : "11",
+    "start_ayat"  : "6",
+    "end_surah"   : "12",
+    "end_ayat"    : "52",
+    "start_name": "Hud",
+    "end_name": "Yusuf"
+
+  },
+  {
+    "index": "13",
+    "start_surah" : "12",
+    "start_ayat"  : "53",
+    "end_surah"   : "14",
+    "end_ayat"    : "52",
+    "start_name": "Yusuf",
+    "end_name": "Ibrahim"
+  },
+  {
+    "index": "14",
+    "start_surah" : "15",
+    "start_ayat"  : "1",
+    "end_surah"   : "16",
+    "end_ayat"    : "128",
+    "start_name": "Al-Hijr",
+    "end_name": "An-Nahl"
+  },
+  {
+    "index": "15",
+    "start_surah" : "17",
+    "start_ayat"  : "1",
+    "end_surah"   : "18",
+    "end_ayat"    : "74",
+    "start_name": "Al-Israa",
+    "end_name": "Al-Kahf"
+
+  },
+  {
+    "index": "16",
+    "start_surah" : "18",
+    "start_ayat"  : "75",
+    "end_surah"   : "20",
+    "end_ayat"    : "134",
+    "start_name": "Al-Kahf",
+    "end_name": "Ta-Ha"
+  },
+  {
+    "index": "17",
+    "start_surah" : "21",
+    "start_ayat"  : "1",
+    "end_surah"   : "22",
+    "end_ayat"    : "78",
+    "start_name": "Al-Anbiya",
+    "end_name": "Al-Hajj"
+  },
+  {
+    "index": "18",
+    "start_surah" : "23",
+    "start_ayat"  : "1",
+    "end_surah"   : "25",
+    "end_ayat"    : "20",
+    "start_name": "Al-Muminun",
+    "end_name": "Al-Furqan"
+  },
+  {
+    "index": "19",
+    "start_surah" : "25",
+    "start_ayat"  : "21",
+    "end_surah"   : "27",
+    "end_ayat"    : "55",
+    "start_name": "Al-Furqan",
+    "end_name": "Al-Naml"
+  },
+  {
+    "index": "20",
+    "start_surah" : "27",
+    "start_ayat"  : "56",
+    "end_surah"   : "29",
+    "end_ayat"    : "45",
+    "start_name": "Al-Naml",
+    "end_name": "Al-Ankabut"
+  },
+  {
+    "index": "21",
+    "start_surah" : "29",
+    "start_ayat"  : "46",
+    "end_surah"   : "33",
+    "end_ayat"    : "30",
+    "start_name": "Al-Ankabut",
+    "end_name": "Al-Ahzab"
+  },
+  {
+    "index": "22",
+    "start_surah" : "33",
+    "start_ayat"  : "31",
+    "end_surah"   : "36",
+    "end_ayat"    : "27",
+    "start_name": "Al-Ahzab",
+    "end_name": "Yasin"
+  },
+  {
+    "index": "23",
+    "start_surah" : "36",
+    "start_ayat"  : "28",
+    "end_surah"   : "39",
+    "end_ayat"    : "31",
+    "start_name": "Yasin",
+    "end_name": "Az-Zumar"
+  },
+  {
+    "index": "24",
+    "start_surah" : "39",
+    "start_ayat"  : "32",
+    "end_surah"   : "41",
+    "end_ayat"    : "46",
+    "start_name": "Az-Zumar",
+    "end_name": "Fussilat"
+  },
+  {
+    "index": "25",
+    "start_surah" : "41",
+    "start_ayat"  : "47",
+    "end_surah"   : "45",
+    "end_ayat"    : "37",
+    "start_name": "Fussilat",
+    "end_name": "Al-Jathiya"
+  },
+  {
+    "index": "26",
+    "start_surah" : "46",
+    "start_ayat"  : "1",
+    "end_surah"   : "51",
+    "end_ayat"    : "30",
+    "start_name": "Al-Ahqaf",
+    "end_name": "Al-Zariyat"
+  },
+  {
+    "index": "27",
+    "start_surah" : "51",
+    "start_ayat"  : "31",
+    "end_surah"   : "57",
+    "end_ayat"    : "29",
+    "start_name": "Al-Zariyat",
+    "end_name": "Al-Hadid"
+  },
+  {
+    "index": "28",
+    "start_surah" : "58",
+    "start_ayat"  : "1",
+    "end_surah"   : "66",
+    "end_ayat"    : "12",
+    "start_name": "Al-Mujadilah",
+    "end_name": "Al-Tahrim"
+  },
+  {
+    "index": "29",
+    "start_surah" : "67",
+    "start_ayat"  : "1",
+    "end_surah"   : "77",
+    "end_ayat"    : "50",
+    "start_name": "Al-Mulk",
+    "end_name": "Al-Mursalat"
+  },
+  {
+    "index": "30",
+    "start_surah" : "78",
+    "start_ayat"  : "1",
+    "end_surah"   : "114",
+    "end_ayat"    : "6",
+    "start_name": "An-Naba",
+    "end_name": "An-Nas"
+  }
+]

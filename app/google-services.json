@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "263638489934",
+    "firebase_url": "https://muslimamaliyah.firebaseio.com",
+    "project_id": "muslimamaliyah",
+    "storage_bucket": "muslimamaliyah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263638489934:android:4651d88408209f72",
+        "android_client_info": {
+          "package_name": "com.basantandevloper.geo.muslimamaliyah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263638489934-ghpghabg7cgrb68th8diobdmgktu8rc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basantandevloper.geo.muslimamaliyah",
+            "certificate_hash": "31c8ae02b122688dd260b06718d16f7fcf8651be"
+          }
+        },
+        {
+          "client_id": "263638489934-skpruqda8o7t7e3c61rb9koof9r9uooa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMoKuH36N7pubsR9oJ3m0LqQSjIrw8FU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263638489934-skpruqda8o7t7e3c61rb9koof9r9uooa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

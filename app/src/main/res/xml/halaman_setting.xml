@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory
+        android:title="Pengaturan">
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Arabic">
+        <ListPreference
+            android:dialogTitle="Pilih Jenis Font"
+            android:entries="@array/settings_font_arab_titles"
+            android:entryValues="@array/settings_font_arab_values"
+            android:key="@string/key_list_arabic"
+            android:summary="Klik menampilkan font arabic"
+            android:defaultValue="1"
+            android:title="Font Arabic" />
+        <ListPreference
+            android:dialogTitle="Pilih Ukuran Font"
+            android:entries="@array/settings_font_arab_titles_size"
+            android:entryValues="@array/settings_font_arab_value_size"
+            android:key="@string/key_list_arabic_size"
+            android:summary="Klik menampilkan ukuran font"
+            android:title="Ukuran Font Arabic"
+            android:defaultValue="3"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Latin (Transliterasi)">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:title="Aktifkan Latin "
+            android:key="@string/key_latin"/>
+        <ListPreference
+            android:dialogTitle="Pilih Ukuran Font"
+            android:entries="@array/settings_font_arab_titles_size"
+            android:entryValues="@array/settings_font_arab_value_size"
+            android:key="@string/key_list_latin_size"
+            android:summary="Klik menampilkan ukuran font"
+            android:title="Ukuran Font Latin"
+            android:defaultValue="1"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="Terjemahan">
+        <SwitchPreference
+            android:defaultValue="true"
+            android:title="Aktifkan Terjemahan"
+            android:key="@string/key_terjemahan"/>
+        <ListPreference
+            android:dialogTitle="Pilih Ukuran Font"
+            android:entries="@array/settings_font_arab_titles_size"
+            android:entryValues="@array/settings_font_arab_value_size"
+            android:key="@string/key_list_terjemahan_size"
+            android:summary="Klik menampilkan ukuran font"
+            android:title="Ukuran Font Terjemahan"
+            android:defaultValue="1"/>
+    </PreferenceCategory>
+</PreferenceScreen>

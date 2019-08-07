@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundcolor"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary" >
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@color/backgroundcolor"
+                android:gravity="center"
+                android:id="@+id/ll">
+                <android.support.v7.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:id="@+id/gambarHari"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/mesjidsiang"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+                        <TextView
+                            android:id="@+id/tanggal"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Senin 14 Januari 2019"
+                            android:textStyle="bold"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                            android:textColor="@android:color/white"/>
+                        <TextView
+                            android:id="@+id/txt_hijri"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="14 Rabiul Awal 1437 Hijriah"
+                            android:textStyle="bold"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                            android:textColor="@android:color/white"/>
+                        <TextView
+                            android:id="@+id/waktuShalat"
+                            android:layout_marginTop="20dp"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:textStyle="bold"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:textColor="@android:color/white"/>
+                        <TextView
+                            android:id="@+id/waktu"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:textStyle="bold"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                            android:textColor="@android:color/white"/>
+                        <TextView
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Waktu Tersisa"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+                            android:textColor="@android:color/white"/>
+                        <TextView
+                            android:id="@+id/countdownText"
+                            android:textAlignment="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text=""
+                            android:textStyle="bold"
+                            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                            android:textColor="@android:color/white"/>
+
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <GridLayout
+                    android:id="@+id/mainGrid"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="12"
+                    android:alignmentMode="alignMargins"
+                    android:columnCount="3"
+                    android:columnOrderPreserved="false"
+                    android:padding="1dp"
+                    android:rowCount="3"
+                    >
+
+
+                    <!-- Baris 1 -->
+                    <!-- Kolum 1 -->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:onClick="jadwalShalat"
+                        android:id="@+id/jadwalShalat"
+                        android:layout_width="100dp"
+                        android:layout_columnWeight="1"
+                        android:layout_height="100dp"
+                        app:cardCornerRadius="8dp"
+                        app:cardElevation="8dp"
+                        android:layout_margin="5dp">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:background="@color/yello"
+                                android:layout_height="60dp"
+                                android:src="@drawable/ic_time"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:padding="2dp"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Jadwal Shalat"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <!-- Kolum 2 -->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:onClick="alQuran"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_columnWeight="1"
+                        app:cardCornerRadius="8dp"
+                        app:cardElevation="8dp"
+                        android:layout_margin="4dp">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/colorPrimaryDark"
+                                android:src="@drawable/ic_quran"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:textAlignment="center"
+                                android:padding="2dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Al-Qur'an"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <!-- Baris 1 -->
+                    <!-- Kolum 3 -->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        app:cardCornerRadius="8dp"
+                        android:layout_columnWeight="1"
+                        app:cardElevation="8dp"
+                        android:onClick="Kompas"
+                        android:layout_margin="5dp">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/colorBlue"
+                                android:src="@drawable/ic_kompas"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:padding="2dp"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="10dp"
+                                android:text="Kompas"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <!-- Baris 2-->
+                    <!-- Kolum 1 -->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        app:cardCornerRadius="8dp"
+                        app:cardElevation="8dp"
+                        android:layout_columnWeight="1"
+                        android:onClick="dzikir"
+                        android:layout_margin="5dp">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/deeppurple"
+                                android:src="@drawable/ic_tasbih"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:padding="2dp"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Dzikir"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <!-- Kolum 2-->
+                    <android.support.v7.widget.CardView
+                        android:onClick="qosidah"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_columnWeight="1"
+                        app:cardElevation="8dp"
+                        app:cardCornerRadius="8dp"
+                        android:layout_margin="5dp">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/colorAccent"
+                                android:src="@drawable/ic_book"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:textAlignment="center"
+                                android:padding="2dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Qosidah"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+                    <!-- Kolum 3-->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:id="@+id/Istilah"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:onClick="Doa"
+                        android:layout_margin="5dp"
+                        android:layout_columnWeight="1"
+                        app:cardCornerRadius="8dp"
+                        app:cardElevation="8dp"
+                        tools:ignore="OnClick">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/deeppurple"
+                                android:src="@drawable/ic_doa"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:padding="2dp"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="10dp"
+                                android:text="Do'a"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+                    <!-- Baris 3-->
+                    <!--Kolum 1-->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:id="@+id/asma"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:onClick="asma"
+                        android:layout_margin="5dp"
+                        android:layout_columnWeight="1"
+                        app:cardElevation="8dp"
+                        app:cardCornerRadius="8dp"
+                        tools:ignore="OnClick">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/colorBlue"
+                                android:padding="10dp"
+                                android:src="@drawable/ic_asma" />
+                            <TextView
+                                android:padding="2dp"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Asmaul Husna"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+                    <!-- Kolum 2-->
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:onClick="sholat"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="5dp"
+                        android:layout_columnWeight="1"
+                        app:cardElevation="8dp"
+                        app:cardCornerRadius="8dp"
+                        tools:ignore="OnClick">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/colorPrimaryDark"
+                                android:src="@drawable/ic_sholat"
+                                />
+                            <TextView
+                                android:textAlignment="center"
+                                android:padding="2dp"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Sholat &amp;Wirid"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+                    <android.support.v7.widget.CardView
+                        android:onClick="tentang"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="5dp"
+                        android:layout_columnWeight="1"
+                        app:cardElevation="8dp"
+                        app:cardCornerRadius="8dp"
+                        tools:ignore="OnClick">
+                        <LinearLayout
+                            android:background="@color/backgrounddalamcolor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+                            <ImageView
+                                android:layout_marginTop="8dp"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:background="@color/yello"
+                                android:src="@drawable/ic_info"
+                                android:padding="10dp"/>
+                            <TextView
+                                android:padding="2dp"
+                                android:textAlignment="center"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="Tentang"/>
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                </GridLayout>
+
+            </LinearLayout>
+
+        </android.support.v4.widget.NestedScrollView>
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,146 @@
+[ {
+  "ar" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ",
+  "id" : "Apabila matahari digulung,",
+  "nomor" : "1",
+  "tr" : "i<u>dzaa</u> <strong>al</strong>sysyamsu kuwwirat"
+}, {
+  "ar" : "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+  "id" : "dan apabila bintang-bintang berjatuhan,",
+  "nomor" : "2",
+  "tr" : "wa-i<u>dzaa</u> <strong>al</strong>nnujuumu inkadarat"
+}, {
+  "ar" : "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+  "id" : "dan apabila gunung-gunung dihancurkan,",
+  "nomor" : "3",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>ljib<u>aa</u>lu suyyirath"
+}, {
+  "ar" : "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+  "id" : "dan apabila unta-unta yang bunting ditinggalkan (tidak diperdulikan)",
+  "nomor" : "4",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>l'isy<u>aa</u>ru 'u<u>ththh</u>ilath"
+}, {
+  "ar" : "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+  "id" : "dan apabila binatang-binatang liar dikumpulkan,",
+  "nomor" : "5",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>lwu<u>h</u>uusyu <u>h</u>usyirath"
+}, {
+  "ar" : "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+  "id" : "dan apabila lautan dijadikan meluap",
+  "nomor" : "6",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>lbi<u>haa</u>ru sujjirath"
+}, {
+  "ar" : "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+  "id" : "dan apabila ruh-ruh dipertemukan (dengan tubuh)",
+  "nomor" : "7",
+  "tr" : "wa-i<u>dzaa</u> <strong>al</strong>nnufuusu zuwwijat"
+}, {
+  "ar" : "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+  "id" : "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,",
+  "nomor" : "8",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>lmawuudatu su-ilath"
+}, {
+  "ar" : "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+  "id" : "karena dosa apakah dia dibunuh,",
+  "nomor" : "9",
+  "tr" : "bi-ayyi <u>dz</u>anbin qutilath"
+}, {
+  "ar" : "وَإِذَا الصُّحُفُ نُشِرَتْ",
+  "id" : "dan apabila catatan-catatan (amal perbuatan manusia) dibuka,",
+  "nomor" : "10",
+  "tr" : "wa-i<u>dzaa</u> <strong>al</strong><u>shsh</u>u<u>h</u>ufu nusyirath"
+}, {
+  "ar" : "وَإِذَا السَّمَاءُ كُشِطَتْ",
+  "id" : "dan apabila langit dilenyapkan,",
+  "nomor" : "11",
+  "tr" : "wa-i<u>dzaa</u> <strong>al</strong>ssam<u>aa</u>u kusyi<u>th</u>ath"
+}, {
+  "ar" : "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+  "id" : "dan apabila neraka Jahim dinyalakan,",
+  "nomor" : "12",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>lja<u>h</u>iimu su''irath"
+}, {
+  "ar" : "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+  "id" : "dan apabila syurga didekatkan,",
+  "nomor" : "13",
+  "tr" : "wa-i<u>dzaa</u> <strong>a</strong>ljannatu uzlifath"
+}, {
+  "ar" : "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+  "id" : "maka tiap-tiap jiwa akan mengetahui apa yang telah dikerjakannya.",
+  "nomor" : "14",
+  "tr" : "'alimat nafsun m<u>aa</u> a<u>hd</u>arath"
+}, {
+  "ar" : "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+  "id" : "Sungguh, Aku bersumpah dengan bintang-bintang,",
+  "nomor" : "15",
+  "tr" : "fal<u>aa</u> uqsimu bi<strong>a</strong>lkhunnas<strong>i</strong>"
+}, {
+  "ar" : "الْجَوَارِ الْكُنَّسِ",
+  "id" : "yang beredar dan terbenam,",
+  "nomor" : "16",
+  "tr" : "aljaw<u>aa</u>ri <strong>a</strong>lkunnas<strong>i</strong>"
+}, {
+  "ar" : "وَاللَّيْلِ إِذَا عَسْعَسَ",
+  "id" : "demi malam apabila telah hampir meninggalkan gelapnya,",
+  "nomor" : "17",
+  "tr" : "wa<strong>a</strong>llayli i<u>dzaa</u> 'as'as<strong>a</strong>"
+}, {
+  "ar" : "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+  "id" : "dan demi subuh apabila fajarnya mulai menyingsing,",
+  "nomor" : "18",
+  "tr" : "wa<strong>al</strong><u>shsh</u>ub<u>h</u>i i<u>dzaa</u> tanaffas<strong>a</strong>"
+}, {
+  "ar" : "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+  "id" : "sesungguhnya Al Qur'aan itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),",
+  "nomor" : "19",
+  "tr" : "innahu laqawlu rasuulin kariim<strong>in</strong>"
+}, {
+  "ar" : "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+  "id" : "yang mempunyai kekuatan, yang mempunyai kedudukan tinggi di sisi Allah yang mempunyai 'Arsy,",
+  "nomor" : "20",
+  "tr" : "<u>dz</u>ii quwwatin 'inda <u>dz</u>ii <strong>a</strong>l'arsyi makiin<strong>in</strong>"
+}, {
+  "ar" : "مُطَاعٍ ثَمَّ أَمِينٍ",
+  "id" : "yang dita'ati di sana (di alam malaikat) lagi dipercaya.",
+  "nomor" : "21",
+  "tr" : "mu<u>th</u><u>aa</u>'in tsamma amiin<strong>in</strong>"
+}, {
+  "ar" : "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+  "id" : "Dan temanmu (Muhammad) itu bukanlah sekali-kali orang yang gila.",
+  "nomor" : "22",
+  "tr" : "wam<u>aa</u> <u>shaah</u>ibukum bimajnuun<strong>in</strong>"
+}, {
+  "ar" : "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+  "id" : "Dan sesungguhnya Muhammad itu melihat Jibril di ufuk yang terang.",
+  "nomor" : "23",
+  "tr" : "walaqad ra<u>aa</u>hu bi<strong>a</strong>lufuqi <strong>a</strong>lmubiin<strong>i</strong>"
+}, {
+  "ar" : "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+  "id" : "Dan dia (Muhammad) bukanlah orang yang bakhil untuk menerangkan yang ghaib.",
+  "nomor" : "24",
+  "tr" : "wam<u>aa</u> huwa 'al<u>aa</u> <strong>a</strong>lghaybi bi<u>dh</u>aniin<strong>in</strong>"
+}, {
+  "ar" : "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+  "id" : "Dan Al Qur'aan itu bukanlah perkataan syaitan yang terkutuk,",
+  "nomor" : "25",
+  "tr" : "wam<u>aa</u> huwa biqawli syay<u>th</u><u>aa</u>nin rajiim<strong>in</strong>"
+}, {
+  "ar" : "فَأَيْنَ تَذْهَبُونَ",
+  "id" : "maka ke manakah kamu akan pergi?",
+  "nomor" : "26",
+  "tr" : "fa-ayna ta<u>dz</u>habuun<strong>a</strong>"
+}, {
+  "ar" : "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+  "id" : "Al Qur'aan itu tiada lain hanyalah peringatan bagi semesta alam,",
+  "nomor" : "27",
+  "tr" : "in huwa ill<u>aa</u> <u>dz</u>ikrun lil'<u>aa</u>lamiin<strong>a</strong>"
+}, {
+  "ar" : "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+  "id" : "(yaitu) bagi siapa di antara kamu yang mau menempuh jalan yang lurus.",
+  "nomor" : "28",
+  "tr" : "liman sy<u>aa</u>-a minkum an yastaqiim<strong>a</strong>"
+}, {
+  "ar" : "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+  "id" : "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan semesta alam.",
+  "nomor" : "29",
+  "tr" : "wam<u>aa</u> tasy<u>aa</u>uuna ill<u>aa</u> an yasy<u>aa</u>-a <strong>al</strong>l<u>aa</u>hu rabbu <strong>a</strong>l'<u>aa</u>lamiin<strong>a</strong>"
+} ]

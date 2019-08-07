@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "nama": "Ar Rahman",
+        "arti": "Allah Yang Maha Pengasih",
+        "arab": "الرحمن"
+    },
+    {
+        "id": 2,
+        "nama": "Ar Rahiim",
+        "arti": "Allah Yang Maha Penyayang",
+        "arab": "الرحيم"
+    },
+    {
+        "id": 3,
+        "nama": "Al Malik",
+        "arti": "Allah Yang Maha Merajai (bisa di artikan Raja dari semua Raja)",
+        "arab": "الملك"
+    },
+    {
+        "id": 4,
+        "nama": "Al Quddus",
+        "arti": "Allah Yang Maha Suci",
+        "arab": "القدوس"
+    },
+    {
+        "id": 5,
+        "nama": "As Salaam",
+        "arti": "Allah Yang Maha Memberi Kesejahteraan",
+        "arab": "السلام"
+    },
+    {
+        "id": 6,
+        "nama": "Al Mu`min",
+        "arti": "Allah Yang Maha Memberi Keamanan",
+        "arab": "المؤمن"
+    },
+    {
+        "id": 7,
+        "nama": "Al Muhaimin",
+        "arti": "Allah Yang Maha Mengatur",
+        "arab": "المهيمن"
+    },
+    {
+        "id": 8,
+        "nama": "Al `Aziiz",
+        "arti": "Allah Yang Maha Perkasa",
+        "arab": "العزيز"
+    },
+    {
+        "id": 9,
+        "nama": "Al Jabbar",
+        "arti": "Allah Yang Memiliki Mutlak Kegagahan",
+        "arab": "الجبار"
+    },
+    {
+        "id": 10,
+        "nama": "Al Mutakabbir",
+        "arti": "Allah Yang Maha Megah, Yang Memiliki Kebesaran",
+        "arab": "المتكبر"
+    },
+    {
+        "id": 11,
+        "nama": "Al Khaliq",
+        "arti": "Allah Yang Maha Pencipta",
+        "arab": "الخالق"
+    },
+    {
+        "id": 12,
+        "nama": "Al Baari`",
+        "arti": "Allah Yang Maha Melepaskan (Membuat, Membentuk, Menyeimbangkan)",
+        "arab": "البارئ"
+    },
+    {
+        "id": 13,
+        "nama": "Al Mushawwir",
+        "arti": "Allah Yang Maha Membentuk Rupa (makhluknya)",
+        "arab": "المصور"
+    },
+    {
+        "id": 14,
+        "nama": "Al Ghaffaar",
+        "arti": "Allah Yang Maha Pengampun",
+        "arab": "الغفار"
+    },
+    {
+        "id": 15,
+        "nama": "Al Qahhaar",
+        "arti": "Allah Yang Maha Menundukkan / Menaklukkan Segala Sesuatu",
+        "arab": "القهار"
+    },
+    {
+        "id": 16,
+        "nama": "Al Wahhaab",
+        "arti": "Allah Yang Maha Pemberi Karunia",
+        "arab": "الوهاب"
+    },
+    {
+        "id": 17,
+        "nama": "Ar Razzaaq",
+        "arti": "Allah Yang Maha Pemberi Rezeki",
+        "arab": "الرزاق"
+    },
+    {
+        "id": 18,
+        "nama": "Al Fattaah",
+        "arti": "Allah Yang Maha Pembuka Rahmat",
+        "arab": "الفتاح"
+    },
+    {
+        "id": 19,
+        "nama": "Al `Aliim",
+        "arti": "Allah Yang Maha Mengetahui (Memiliki Ilmu)",
+        "arab": "العليم"
+    },
+    {
+        "id": 20,
+        "nama": "Al Qaabidh",
+        "arti": "Allah Yang Maha Menyempitkan (makhluknya)",
+        "arab": "القابض"
+    },
+    {
+        "id": 21,
+        "nama": "Al Baasith",
+        "arti": "Allah Yang Maha Melapangkan (makhluknya)",
+        "arab": "الباسط"
+    },
+    {
+        "id": 22,
+        "nama": "Al Khaafidh",
+        "arti": "Allah Yang Maha Merendahkan (makhluknya)",
+        "arab": "الخافض"
+    },
+    {
+        "id": 23,
+        "nama": "Ar Raafi`",
+        "arti": "Allah Yang Maha Meninggikan (makhluknya)",
+        "arab": "الرافع"
+    },
+    {
+        "id": 24,
+        "nama": "Al Mu`izz",
+        "arti": "Allah Yang Maha Memuliakan (makhluknya)",
+        "arab": "المعز"
+    },
+    {
+        "id": 25,
+        "nama": "Al Mudzil",
+        "arti": "Allah Yang Maha Menghinakan (makhluknya)",
+        "arab": "المذل"
+    },
+    {
+        "id": 26,
+        "nama": "Al Samii`",
+        "arti": "Allah Yang Maha Mendengar",
+        "arab": "السميع"
+    },
+    {
+        "id": 27,
+        "nama": "Al Bashiir",
+        "arti": "Allah Yang Maha Melihat",
+        "arab": "البصير"
+    },
+    {
+        "id": 28,
+        "nama": "Al Hakam",
+        "arti": "Allah Yang Maha Menetapkan",
+        "arab": "الحكم"
+    },
+    {
+        "id": 29,
+        "nama": "Al `Adl",
+        "arti": "Allah Yang Maha Adil",
+        "arab": "العدل"
+    },
+    {
+        "id": 30,
+        "nama": "Al Lathiif",
+        "arti": "Allah Yang Maha Lembut",
+        "arab": "اللطيف"
+    },
+    {
+        "id": 31,
+        "nama": "Al Khabiir",
+        "arti": "Allah Yang Maha Mengenal",
+        "arab": "الخبير"
+    },
+    {
+        "id": 32,
+        "nama": "Al Haliim",
+        "arti": "Allah Yang Maha Penyantun",
+        "arab": "الحليم"
+    },
+    {
+        "id": 33,
+        "nama": "Al `Azhiim",
+        "arti": "Allah Yang Maha Agung",
+        "arab": "العظيم"
+    },
+    {
+        "id": 34,
+        "nama": "Al Ghafuur",
+        "arti": "Allah Yang Maha Memberi Pengampunan",
+        "arab": "الغفور"
+    },
+    {
+        "id": 35,
+        "nama": "As Syakuur",
+        "arti": "Allah Yang Maha Pembalas Budi (Menghargai)",
+        "arab": "الشكور"
+    },
+    {
+        "id": 36,
+        "nama": "Al `Aliy",
+        "arti": "Allah Yang Maha Tinggi",
+        "arab": "العلى"
+    },
+    {
+        "id": 37,
+        "nama": "Al Kabiir",
+        "arti": "Allah Yang Maha Besar",
+        "arab": "الكبير"
+    },
+    {
+        "id": 38,
+        "nama": "Al Hafizh",
+        "arti": "Allah Yang Maha Memelihara",
+        "arab": "الحفيظ"
+    },
+    {
+        "id": 39,
+        "nama": "Al Muqiit",
+        "arti": "Allah Yang Maha Pemberi Kecukupan",
+        "arab": "المقيت"
+    },
+    {
+        "id": 40,
+        "nama": "Al Hasiib",
+        "arti": "Allah Yang Maha Membuat Perhitungan",
+        "arab": "الحسيب"
+    },
+    {
+        "id": 41,
+        "nama": "Al Jaliil",
+        "arti": "Allah Yang Maha Luhur",
+        "arab": "الجليل"
+    },
+    {
+        "id": 42,
+        "nama": "Al Kariim",
+        "arti": "Allah Yang Maha Pemurah",
+        "arab": "الكريم"
+    },
+    {
+        "id": 43,
+        "nama": "Ar Raqiib",
+        "arti": "Allah Yang Maha Mengawasi",
+        "arab": "الرقيب"
+    },
+    {
+        "id": 44,
+        "nama": "Al Mujiib",
+        "arti": "Allah Yang Maha Mengabulkan",
+        "arab": "المجيب"
+    },
+    {
+        "id": 45,
+        "nama": "Al Waasi`",
+        "arti": "Allah Yang Maha Luas",
+        "arab": "الواسع"
+    },
+    {
+        "id": 46,
+        "nama": "Al Hakim",
+        "arti": "Allah Yang Maha Bijaksana",
+        "arab": "الحكيم"
+    },
+    {
+        "id": 47,
+        "nama": "Al Waduud",
+        "arti": "Allah Yang Maha Mengasihi",
+        "arab": "الودود"
+    },
+    {
+        "id": 48,
+        "nama": "Al Majiid",
+        "arti": "Allah Yang Maha Mulia",
+        "arab": "المجيد"
+    },
+    {
+        "id": 49,
+        "nama": "Al Baa`its",
+        "arti": "Allah Yang Maha Membangkitkan",
+        "arab": "الباعث"
+    },
+    {
+        "id": 50,
+        "nama": "As Syahiid",
+        "arti": "Allah Yang Maha Menyaksikan",
+        "arab": "الشهيد"
+    },
+    {
+        "id": 51,
+        "nama": "Al Haqq",
+        "arti": "Allah Yang Maha Benar",
+        "arab": "الحق"
+    },
+    {
+        "id": 52,
+        "nama": "Al Wakiil",
+        "arti": "Allah Yang Maha Memelihara",
+        "arab": "الوكيل"
+    },
+    {
+        "id": 53,
+        "nama": "Al Qawiyyu",
+        "arti": "Allah Yang Maha Kuat",
+        "arab": "القوى"
+    },
+    {
+        "id": 54,
+        "nama": "Al Matiin",
+        "arti": "Allah Yang Maha Kokoh",
+        "arab": "المتين"
+    },
+    {
+        "id": 55,
+        "nama": "Al Waliyy",
+        "arti": "Allah Yang Maha Melindungi",
+        "arab": "الولى"
+    },
+    {
+        "id": 56,
+        "nama": "Al Hamiid",
+        "arti": "Allah Yang Maha Terpuji",
+        "arab": "الحميد"
+    },
+    {
+        "id": 57,
+        "nama": "Al Muhshii",
+        "arti": "Allah Yang Maha Mengalkulasi (Menghitung Segala Sesuatu)",
+        "arab": "المحصى"
+    },
+    {
+        "id": 58,
+        "nama": "Al Mubdi`",
+        "arti": "Allah Yang Maha Memulai",
+        "arab": "المبدئ"
+    },
+    {
+        "id": 59,
+        "nama": "Al Mu`iid",
+        "arti": "Allah Yang Maha Mengembalikan Kehidupan",
+        "arab": "المعيد"
+    },
+    {
+        "id": 60,
+        "nama": "Al Muhyii",
+        "arti": "Allah Yang Maha Menghidupkan",
+        "arab": "المحيى"
+    },
+    {
+        "id": 61,
+        "nama": "Al Mumiitu",
+        "arti": "Allah Yang Maha Mematikan",
+        "arab": "المميت"
+    },
+    {
+        "id": 62,
+        "nama": "Al Hayyu",
+        "arti": "Allah Yang Maha Hidup",
+        "arab": "الحي"
+    },
+    {
+        "id": 63,
+        "nama": "Al Qayyuum",
+        "arti": "Allah Yang Maha Mandiri",
+        "arab": "القيوم"
+    },
+    {
+        "id": 64,
+        "nama": "Al Waajid",
+        "arti": "Allah Yang Maha Penemu",
+        "arab": "الواجد"
+    },
+    {
+        "id": 65,
+        "nama": "Al Maajid",
+        "arti": "Allah Yang Maha Mulia",
+        "arab": "الماجد"
+    },
+    {
+        "id": 66,
+        "nama": "Al Wahid",
+        "arti": "Allah Yang Maha Tunggal",
+        "arab": "الواحد"
+    },
+    {
+        "id": 67,
+        "nama": "Al Ahad",
+        "arti": "Allah Yang Maha Esa",
+        "arab": "الاحد"
+    },
+    {
+        "id": 68,
+        "nama": "As Shamad",
+        "arti": "Allah Yang Maha Dibutuhkan, Tempat Meminta",
+        "arab": "الصمد"
+    },
+    {
+        "id": 69,
+        "nama": "Al Qaadir",
+        "arti": "Allah Yang Maha Menentukan, Maha Menyeimbangkan",
+        "arab": "القادر"
+    },
+    {
+        "id": 70,
+        "nama": "Al Muqtadir",
+        "arti": "Allah Yang Maha Berkuasa",
+        "arab": "المقتدر"
+    },
+    {
+        "id": 71,
+        "nama": "Al Muqaddim",
+        "arti": "Allah Yang Maha Mendahulukan",
+        "arab": "المقدم"
+    },
+    {
+        "id": 72,
+        "nama": "Al Mu`akkhir",
+        "arti": "Allah Yang Maha Mengakhirkan",
+        "arab": "المؤخر"
+    },
+    {
+        "id": 73,
+        "nama": "Al Awwal",
+        "arti": "Allah Yang Maha Awal",
+        "arab": "الأول"
+    },
+    {
+        "id": 74,
+        "nama": "Al Aakhir",
+        "arti": "Allah Yang Maha Akhir",
+        "arab": "الأخر"
+    },
+    {
+        "id": 75,
+        "nama": "Az Zhaahir",
+        "arti": "Allah Yang Maha Nyata",
+        "arab": "الظاهر"
+    },
+    {
+        "id": 76,
+        "nama": "Al Baathin",
+        "arti": "Allah Yang Maha Ghaib",
+        "arab": "الباطن"
+    },
+    {
+        "id": 77,
+        "nama": "Al Waali",
+        "arti": "Allah Yang Maha Memerintah",
+        "arab": "الوالي"
+    },
+    {
+        "id": 78,
+        "nama": "Al Muta`aalii",
+        "arti": "Allah Yang Maha Tinggi",
+        "arab": "المتعالي"
+    },
+    {
+        "id": 79,
+        "nama": "Al Barru",
+        "arti": "Allah Yang Maha Penderma (Maha Pemberi Kebajikan)",
+        "arab": "البر"
+    },
+    {
+        "id": 80,
+        "nama": "At Tawwaab",
+        "arti": "Allah Yang Maha Penerima Tobat",
+        "arab": "التواب"
+    },
+    {
+        "id": 81,
+        "nama": "Al Muntaqim",
+        "arti": "Allah Yang Maha Pemberi Balasan",
+        "arab": "المنتقم"
+    },
+    {
+        "id": 82,
+        "nama": "Al Afuww",
+        "arti": "Allah Yang Maha Pemaaf",
+        "arab": "العفو"
+    },
+    {
+        "id": 83,
+        "nama": "Ar Ra`uuf",
+        "arti": "Allah Yang Maha Pengasuh",
+        "arab": "الرؤوف"
+    },
+    {
+        "id": 84,
+        "nama": "Malikul Mulk",
+        "arti": "Allah Yang Maha Penguasa Kerajaan (Semesta)",
+        "arab": "مالك الملك"
+    },
+    {
+        "id": 85,
+        "nama": "Dzul Jalaali Wal Ikraam",
+        "arti": "Allah Yang Maha Pemilik Kebesaran dan Kemuliaan",
+        "arab": "ذو الجلال و الإكرام"
+    },
+    {
+        "id": 86,
+        "nama": "Al Muqsith",
+        "arti": "Allah Yang Maha Pemberi Keadilan",
+        "arab": "المقسط"
+    },
+    {
+        "id": 87,
+        "nama": "Al Jamii`",
+        "arti": "Allah Yang Maha Mengumpulkan",
+        "arab": "الجامع"
+    },
+    {
+        "id": 88,
+        "nama": "Al Ghaniyy",
+        "arti": "Allah Yang Maha Kaya",
+        "arab": "الغنى"
+    },
+    {
+        "id": 89,
+        "nama": "Al Mughnii",
+        "arti": "Allah Yang Maha Pemberi Kekayaan",
+        "arab": "المغنى"
+    },
+    {
+        "id": 90,
+        "nama": "Al Maani",
+        "arti": "Allah Yang Maha Mencegah",
+        "arab": "المانع"
+    },
+    {
+        "id": 91,
+        "nama": "Ad Dhaar",
+        "arti": "Allah Yang Maha Penimpa Kemudharatan",
+        "arab": "الضار"
+    },
+    {
+        "id": 92,
+        "nama": "An Nafii`",
+        "arti": "Allah Yang Maha Memberi Manfaat",
+        "arab": "النافع"
+    },
+    {
+        "id": 93,
+        "nama": "An Nuur",
+        "arti": "Allah Yang Maha Bercahaya (Menerangi, Memberi Cahaya)",
+        "arab": "النور"
+    },
+    {
+        "id": 94,
+        "nama": "Al Haadii",
+        "arti": "Allah Yang Maha Pemberi Petunjuk",
+        "arab": "الهادئ"
+    },
+    {
+        "id": 95,
+        "nama": "Al Badii’",
+        "arti": "Allah Yang Maha Pencipta Yang Tiada Bandingannya",
+        "arab": "البديع"
+    },
+    {
+        "id": 96,
+        "nama": "Al Baaqii",
+        "arti": "Allah Yang Maha Kekal",
+        "arab": "الباقي"
+    },
+    {
+        "id": 97,
+        "nama": "Al Waarits",
+        "arti": "Allah Yang Maha Pewaris",
+        "arab": "الوارث"
+    },
+    {
+        "id": 98,
+        "nama": "Ar Rasyiid",
+        "arti": "Allah Yang Maha Pandai",
+        "arab": "الرشيد"
+    },
+    {
+        "id": 99,
+        "nama": "As Shabuur",
+        "arti": "Allah Yang Maha Sabar",
+        "arab": "الصبور"
+    }
+]

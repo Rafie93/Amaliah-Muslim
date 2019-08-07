@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MediaPlayer.SongActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:background="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fitsSystemWindows="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:layout_collapseMode="pin"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <ListView
+        android:layout_marginTop="55dp"
+        android:layout_width="match_parent"
+        android:listSelector="@color/black_overlay"
+        android:layout_alignParentTop="true"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/relMusik"
+        android:id="@+id/AllSongs"
+        />
+
+    <RelativeLayout
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:id="@+id/relMusik"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/darkblue">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:visibility="gone"
+                android:id="@+id/txtMemuat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sedang Memuat audio"
+                android:textColor="@color/putih"
+                android:gravity="center"/>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:id="@+id/linearLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:textColor="@color/putih"
+                    android:text="00:00"
+                    android:id="@+id/musicCurrentLoc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp" >
+                </TextView>
+
+                <SeekBar
+                    android:background="@color/black_overlay"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/musicSeekBar"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5px"
+                    android:layout_weight="1" >
+                </SeekBar>
+
+                <TextView
+                    android:textColor="@color/putih"
+                    android:text="00:00"
+                    android:id="@+id/musicDuration"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="10dp" >
+                </TextView>
+
+            </LinearLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:onClick="mediaStop"
+                    android:visibility="visible"
+                    android:id="@+id/img_Stop"
+                    android:layout_centerInParent="true"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:padding="2dp"
+                    android:src="@mipmap/ic_stop"
+                    tools:ignore="OnClick" />
+
+                <!--<ImageView-->
+                    <!--android:visibility="gone"-->
+                    <!--android:id="@+id/img_Play"-->
+                    <!--android:layout_centerInParent="true"-->
+                    <!--android:layout_width="50dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_centerHorizontal="true"-->
+                    <!--android:padding="2dp"-->
+                    <!--android:src="@mipmap/ic_play" />-->
+
+                <ImageView
+                    android:onClick="mediaNext"
+                    android:visibility="visible"
+                    android:layout_toRightOf="@+id/img_Stop"
+                    android:id="@+id/img_Next"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:padding="2dp"
+                    android:src="@mipmap/ic_next"
+                    tools:ignore="OnClick" />
+
+                <ImageView
+                    android:onClick="mediaPrev"
+                    android:visibility="visible"
+                    android:layout_toLeftOf="@+id/img_Stop"
+                    android:id="@+id/img_Prev"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:padding="2dp"
+                    android:src="@mipmap/ic_prev"
+                    tools:ignore="OnClick" />
+
+                <TextView
+                    android:textColor="@color/putih"
+                    android:text=""
+                    android:layout_toLeftOf="@+id/img_Prev"
+                    android:id="@+id/txtJudul"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp" >
+                </TextView>
+
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

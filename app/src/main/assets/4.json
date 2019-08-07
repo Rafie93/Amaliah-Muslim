@@ -1,0 +1,881 @@
+[ {
+  "ar" : "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَاءً ۚ وَاتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالْأَرْحَامَ ۚ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+  "id" : "Hai sekalian manusia, bertakwalah kepada Tuhan-mu yang telah menciptakan kamu dari seorang diri, dan dari padanya Allah menciptakan isterinya; dan dari pada keduanya Allah memperkembang biakkan laki-laki dan perempuan yang banyak. Dan bertakwalah kepada Allah yang dengan (mempergunakan) nama-Nya kamu saling meminta satu sama lain, dan (peliharalah) hubungan silaturrahim. Sesungguhnya Allah selalu menjaga dan mengawasi kamu.",
+  "nomor" : "1",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nn<u>aa</u>su ittaquu rabbakumu <strong>al</strong>la<u>dz</u>ii khalaqakum min nafsin w<u>aah</u>idatin wakhalaqa minh<u>aa</u> zawjah<u>aa</u> wabatstsa minhum<u>aa</u> rij<u>aa</u>lan katsiiran wanis<u>aa</u>-an wa<strong>i</strong>ttaquu <strong>al</strong>l<u>aa</u>ha <strong>al</strong>la<u>dz</u>ii tas<u>aa</u>-aluuna bihi wa<strong>a</strong>l-ar<u>haa</u>ma inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'alaykum raqiib<strong>an</strong>"
+}, {
+  "ar" : "وَآتُوا الْيَتَامَىٰ أَمْوَالَهُمْ ۖ وَلَا تَتَبَدَّلُوا الْخَبِيثَ بِالطَّيِّبِ ۖ وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَىٰ أَمْوَالِكُمْ ۚ إِنَّهُ كَانَ حُوبًا كَبِيرًا",
+  "id" : "Dan berikanlah kepada anak-anak yatim (yang sudah balig) harta mereka, jangan kamu menukar yang baik dengan yang buruk dan jangan kamu makan harta mereka bersama hartamu. Sesungguhnya tindakan-tindakan (menukar dan memakan) itu, adalah dosa yang besar.",
+  "nomor" : "2",
+  "tr" : "wa<u>aa</u>tuu <strong>a</strong>lyat<u>aa</u>m<u>aa</u> amw<u>aa</u>lahum wal<u>aa</u> tatabaddaluu <strong>a</strong>lkhabiitsa bi<strong>al</strong><u>ththh</u>ayyibi wal<u>aa</u> ta/kuluu amw<u>aa</u>lahum il<u>aa</u> amw<u>aa</u>likum innahu k<u>aa</u>na <u>h</u>uuban kabiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا فِي الْيَتَامَىٰ فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَاءِ مَثْنَىٰ وَثُلَاثَ وَرُبَاعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا فَوَاحِدَةً أَوْ مَا مَلَكَتْ أَيْمَانُكُمْ ۚ ذَٰلِكَ أَدْنَىٰ أَلَّا تَعُولُوا",
+  "id" : "Dan jika kamu takut tidak akan dapat berlaku adil terhadap (hak-hak) perempuan yang yatim (bilamana kamu mengawininya), maka kawinilah wanita-wanita (lain) yang kamu senangi : dua, tiga atau empat. Kemudian jika kamu takut tidak akan dapat berlaku adil, maka (kawinilah) seorang saja, atau budak-budak yang kamu miliki. Yang demikian itu adalah lebih dekat kepada tidak berbuat aniaya.",
+  "nomor" : "3",
+  "tr" : "wa-in khiftum <strong>al</strong>l<u>aa</u> tuqsi<u>th</u>uu fii <strong>a</strong>lyat<u>aa</u>m<u>aa</u> fa<strong>i</strong>nki<u>h</u>uu m<u>aa</u> <u>th</u><u>aa</u>ba lakum mina <strong>al</strong>nnis<u>aa</u>-i matsn<u>aa</u> watsul<u>aa</u>tsa warub<u>aa</u>'a fa-in khiftum <strong>al</strong>l<u>aa</u> ta'diluu faw<u>aah</u>idatan aw m<u>aa</u> malakat aym<u>aa</u>nukum <u>dzaa</u>lika adn<u>aa</u> <strong>al</strong>l<u>aa</u> ta'uuluu"
+}, {
+  "ar" : "وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً ۚ فَإِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَرِيئًا",
+  "id" : "Berikanlah maskawin (mahar) kepada wanita (yang kamu nikahi) sebagai pemberian dengan penuh kerelaan. Kemudian jika mereka menyerahkan kepada kamu sebagian dari maskawin itu dengan senang hati, maka makanlah (ambillah) pemberian itu (sebagai makanan) yang sedap lagi baik akibatnya.",
+  "nomor" : "4",
+  "tr" : "wa<u>aa</u>tuu <strong>al</strong>nnis<u>aa</u>-a <u>sh</u>aduq<u>aa</u>tihinna ni<u>h</u>latan fa-in <u>th</u>ibna lakum 'an syay-in minhu nafsan fakuluuhu hanii-an marii-<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَا تُؤْتُوا السُّفَهَاءَ أَمْوَالَكُمُ الَّتِي جَعَلَ اللَّهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ فِيهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+  "id" : "Dan janganlah kamu serahkan kepada orang-orang yang belum sempurna akalnya, harta (mereka yang ada dalam kekuasaanmu) yang dijadikan Allah sebagai pokok kehidupan. Berilah mereka belanja dan pakaian (dari hasil harta itu) dan ucapkanlah kepada mereka kata-kata yang baik.",
+  "nomor" : "5",
+  "tr" : "wal<u>aa</u> tu/tuu <strong>al</strong>ssufah<u>aa</u>-a amw<u>aa</u>lakumu <strong>al</strong>latii ja'ala <strong>al</strong>l<u>aa</u>hu lakum qiy<u>aa</u>man wa<strong>u</strong>rzuquuhum fiih<u>aa</u> wa<strong>u</strong>ksuuhum waquuluu lahum qawlan ma'ruuf<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَنْ يَكْبَرُوا ۚ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَنْ كَانَ فَقِيرًا فَلْيَأْكُلْ بِالْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَالَهُمْ فَأَشْهِدُوا عَلَيْهِمْ ۚ وَكَفَىٰ بِاللَّهِ حَسِيبًا",
+  "id" : "Dan ujilah anak yatim itu sampai mereka cukup umur untuk kawin. Kemudian jika menurut pendapatmu mereka telah cerdas (pandai memelihara harta), maka serahkanlah kepada mereka harta-hartanya. Dan janganlah kamu makan harta anak yatim lebih dari batas kepatutan dan (janganlah kamu) tergesa-gesa (membelanjakannya) sebelum mereka dewasa. Barang siapa (di antara pemelihara itu) mampu, maka hendaklah ia menahan diri (dari memakan harta anak yatim itu) dan barangsiapa yang miskin, maka bolehlah ia makan harta itu menurut yang patut. Kemudian apabila kamu menyerahkan harta kepada mereka, maka hendaklah kamu adakan saksi-saksi (tentang penyerahan itu) bagi mereka. Dan cukuplah Allah sebagai Pengawas (atas persaksian itu).",
+  "nomor" : "6",
+  "tr" : "wa<strong>i</strong>btaluu <strong>a</strong>lyat<u>aa</u>m<u>aa</u> <u>h</u>att<u>aa</u> i<u>dzaa</u> balaghuu <strong>al</strong>nnik<u>aah</u>a fa-in <u>aa</u>nastum minhum rusydan fa<strong>i</strong>dfa'uu ilayhim amw<u>aa</u>lahum wal<u>aa</u> ta/kuluuh<u>aa</u> isr<u>aa</u>fan wabid<u>aa</u>ran an yakbaruu waman k<u>aa</u>na ghaniyyan falyasta'fif waman k<u>aa</u>na faqiiran falya/kul bi<strong>a</strong>lma'ruufi fa-i<u>dzaa</u> dafa'tum ilayhim amw<u>aa</u>lahum fa-asyhiduu 'alayhim wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi <u>h</u>asiib<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لِلرِّجَالِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَفْرُوضًا",
+  "id" : "Bagi orang laki-laki ada hak bagian dari harta peninggalan ibu-bapa dan kerabatnya, dan bagi orang wanita ada hak bagian (pula) dari harta peninggalan ibu-bapa dan kerabatnya, baik sedikit atau banyak menurut bahagian yang telah ditetapkan.",
+  "nomor" : "7",
+  "tr" : "li<strong>l</strong>rrij<u>aa</u>li na<u>sh</u>iibun mimm<u>aa</u> taraka <strong>a</strong>lw<u>aa</u>lid<u>aa</u>ni wa<strong>a</strong>l-aqrabuuna wali<strong>l</strong>nnis<u>aa</u>-i na<u>sh</u>iibun mimm<u>aa</u> taraka <strong>a</strong>lw<u>aa</u>lid<u>aa</u>ni wa<strong>a</strong>l-aqrabuuna mimm<u>aa</u> qalla minhu aw katsura na<u>sh</u>iiban mafruu<u>daa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذَا حَضَرَ الْقِسْمَةَ أُولُو الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينُ فَارْزُقُوهُمْ مِنْهُ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+  "id" : "Dan apabila sewaktu pembagian itu hadir kerabat, anak yatim dan orang miskin, maka berilah mereka dari harta itu (sekedarnya) dan ucapkanlah kepada mereka perkataan yang baik.",
+  "nomor" : "8",
+  "tr" : "wa-i<u>dzaa</u> <u>h</u>a<u>dh</u>ara <strong>a</strong>lqismata uluu <strong>a</strong>lqurb<u>aa</u> wa<strong>a</strong>lyat<u>aa</u>m<u>aa</u> wa<strong>a</strong>lmas<u>aa</u>kiinu fa<strong>u</strong>rzuquuhum minhu waquuluu lahum qawlan ma'ruuf<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا",
+  "id" : "Dan hendaklah takut kepada Allah orang-orang yang seandainya meninggalkan dibelakang mereka anak-anak yang lemah, yang mereka khawatir terhadap (kesejahteraan) mereka. Oleh sebab itu hendaklah mereka bertakwa kepada Allah dan hendaklah mereka mengucapkan perkataan yang benar.",
+  "nomor" : "9",
+  "tr" : "walyakhsya <strong>al</strong>la<u>dz</u>iina law tarakuu min khalfihim <u>dz</u>urriyyatan <u>dh</u>i'<u>aa</u>fan kh<u>aa</u>fuu 'alayhim falyattaquu <strong>al</strong>l<u>aa</u>ha walyaquuluu qawlan sadiid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+  "id" : "Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api sepenuh perutnya dan mereka akan masuk ke dalam api yang menyala-nyala (neraka).",
+  "nomor" : "10",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina ya/kuluuna amw<u>aa</u>la <strong>a</strong>lyat<u>aa</u>m<u>aa</u> <u>zh</u>ulman innam<u>aa</u> ya/kuluuna fii bu<u>th</u>uunihim n<u>aa</u>ran wasaya<u>sh</u>lawna sa'iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يُوصِيكُمُ اللَّهُ فِي أَوْلَادِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۚ فَإِنْ كُنَّ نِسَاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ إِنْ كَانَ لَهُ وَلَدٌ ۚ فَإِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُ أَبَوَاهُ فَلِأُمِّهِ الثُّلُثُ ۚ فَإِنْ كَانَ لَهُ إِخْوَةٌ فَلِأُمِّهِ السُّدُسُ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِي بِهَا أَوْ دَيْنٍ ۗ آبَاؤُكُمْ وَأَبْنَاؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِنَ اللَّهِ ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+  "id" : "Allah mensyari'atkan bagimu tentang (pembagian pusaka untuk) anak-anakmu. Yaitu : bahagian seorang anak lelaki sama dengan bagahian dua orang anak perempuan; dan jika anak itu semuanya perempuan lebih dari dua, maka bagi mereka dua pertiga dari harta yang ditinggalkan; jika anak perempuan itu seorang saja, maka ia memperoleh separo harta. Dan untuk dua orang ibu-bapa, bagi masing-masingnya seperenam dari harta yang ditinggalkan, jika yang meninggal itu mempunyai anak; jika orang yang meninggal tidak mempunyai anak dan ia diwarisi oleh ibu-bapanya (saja), maka ibunya mendapat sepertiga; jika yang meninggal itu mempunyai beberapa saudara, maka ibunya mendapat seperenam. (Pembagian-pembagian tersebut di atas) sesudah dipenuhi wasiat yang ia buat atau (dan) sesudah dibayar hutangnya. (Tentang) orang tuamu dan anak-anakmu, kamu tidak mengetahui siapa di antara mereka yang lebih dekat (banyak) manfa'atnya bagimu. Ini adalah ketetapan dari Allah. Sesungguhnya Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "11",
+  "tr" : "yuu<u>sh</u>iikumu <strong>al</strong>l<u>aa</u>hu fii awl<u>aa</u>dikum li<strong>l</strong><u>dzdz</u>akari mitslu <u>h</u>a<u>zhzh</u>i <strong>a</strong>luntsayayni fa-in kunna nis<u>aa</u>-an fawqa itsnatayni falahunna tsuluts<u>aa</u> m<u>aa</u> taraka wa-in k<u>aa</u>nat w<u>aah</u>idatan falah<u>aa</u> <strong>al</strong>nni<u>sh</u>fu wali-abawayhi likulli w<u>aah</u>idin minhum<u>aa</u> <strong>al</strong>ssudusu mimm<u>aa</u> taraka in k<u>aa</u>na lahu waladun fa-in lam yakun lahu waladun wawaritsahu abaw<u>aa</u>hu fali-ummihi <strong>al</strong>tstsulutsu fa-in k<u>aa</u>na lahu ikhwatun fali-ummihi <strong>al</strong>ssudusu min ba'di wa<u>sh</u>iyyatin yuu<u>sh</u>ii bih<u>aa</u> aw daynin <u>aa</u>b<u>aa</u>ukum wa-abn<u>aa</u>ukum l<u>aa</u> tadruuna ayyuhum aqrabu lakum naf'an farii<u>dh</u>atan mina <strong>al</strong>l<u>aa</u>hi inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَاجُكُمْ إِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌ ۚ فَإِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَا أَوْ دَيْنٍ ۚ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ إِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌ ۚ فَإِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ ۚ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَا أَوْ دَيْنٍ ۗ وَإِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً أَوِ امْرَأَةٌ وَلَهُ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ ۚ فَإِنْ كَانُوا أَكْثَرَ مِنْ ذَٰلِكَ فَهُمْ شُرَكَاءُ فِي الثُّلُثِ ۚ مِنْ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَا أَوْ دَيْنٍ غَيْرَ مُضَارٍّ ۚ وَصِيَّةً مِنَ اللَّهِ ۗ وَاللَّهُ عَلِيمٌ حَلِيمٌ",
+  "id" : "Dan bagimu (suami-suami) seperdua dari harta yang ditinggalkan oleh isteri-isterimu, jika mereka tidak mempunyai anak. Jika isteri-isterimu itu mempunyai anak, maka kamu mendapat seperempat dari harta yang ditinggalkannya sesudah dipenuhi wasiat yang mereka buat atau (dan) seduah dibayar hutangnya. Para isteri memperoleh seperempat harta yang kamu tinggalkan jika kamu tidak mempunyai anak. Jika kamu mempunyai anak, maka para isteri memperoleh seperdelapan dari harta yang kamu tinggalkan sesudah dipenuhi wasiat yang kamu buat atau (dan) sesudah dibayar hutang-hutangmu. Jika seseorang mati, baik laki-laki maupun perempuan yang tidak meninggalkan ayah dan tidak meninggalkan anak, tetapi mempunyai seorang saudara laki-laki (seibu saja) atau seorang saudara perempuan (seibu saja), maka bagi masing-masing dari kedua jenis saudara itu seperenam harta. Tetapi jika saudara-saudara seibu itu lebih dari seorang, maka mereka bersekutu dalam yang sepertiga itu, sesudah dipenuhi wasiat yang dibuat olehnya atau sesudah dibayar hutangnya dengan tidak memberi mudharat (kepada ahli waris). (Allah menetapkan yang demikian itu sebagai) syari'at yang benar-benar dari Allah, dan Allah Maha Mengetahui lagi Maha Penyantun.",
+  "nomor" : "12",
+  "tr" : "walakum ni<u>sh</u>fu m<u>aa</u> taraka azw<u>aa</u>jukum in lam yakun lahunna waladun fa-in k<u>aa</u>na lahunna waladun falakumu <strong>al</strong>rrubu'u mimm<u>aa</u> tarakna min ba'di wa<u>sh</u>iyyatin yuu<u>sh</u>iina bih<u>aa</u> aw daynin walahunna <strong>al</strong>rrubu'u mimm<u>aa</u> taraktum in lam yakun lakum waladun fa-in k<u>aa</u>na lakum waladun falahunna <strong>al</strong>tstsumunu mimm<u>aa</u> taraktum min ba'di wa<u>sh</u>iyyatin tuu<u>sh</u>uuna bih<u>aa</u> aw daynin wa-in k<u>aa</u>na rajulun yuuratsu kal<u>aa</u>latan awi imra-atun walahu akhun aw ukhtun falikulli w<u>aah</u>idin minhum<u>aa</u> <strong>al</strong>ssudusu fa-in k<u>aa</u>nuu aktsara min <u>dzaa</u>lika fahum syurak<u>aa</u>u fii <strong>al</strong>tstsulutsi min ba'di wa<u>sh</u>iyyatin yuu<u>shaa</u> bih<u>aa</u> aw daynin ghayra mu<u>daa</u>rrin wa<u>sh</u>iyyatan mina <strong>al</strong>l<u>aa</u>hi wa<strong>al</strong>l<u>aa</u>hu 'aliimun <u>h</u>aliim<strong>un</strong>"
+}, {
+  "ar" : "تِلْكَ حُدُودُ اللَّهِ ۚ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+  "id" : "(Hukum-hukum tersebut) itu adalah ketentuan-ketentuan dari Allah. Barangsiapa taat kepada Allah dan Rasul-Nya, niscaya Allah memasukkannya kedalam syurga yang mengalir didalamnya sungai-sungai, sedang mereka kekal di dalamnya; dan itulah kemenangan yang besar.",
+  "nomor" : "13",
+  "tr" : "tilka <u>h</u>uduudu <strong>al</strong>l<u>aa</u>hi waman yu<u>th</u>i'i <strong>al</strong>l<u>aa</u>ha warasuulahu yudkhilhu jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> wa<u>dzaa</u>lika <strong>a</strong>lfawzu <strong>a</strong>l'a<u>zh</u>iim<strong>u</strong>"
+}, {
+  "ar" : "وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا فِيهَا وَلَهُ عَذَابٌ مُهِينٌ",
+  "id" : "Dan barangsiapa yang mendurhakai Allah dan Rasul-Nya dan melanggar ketentuan-ketentuan-Nya, niscaya Allah memasukkannya ke dalam api neraka sedang ia kekal di dalamnya; dan baginya siksa yang menghinakan.",
+  "nomor" : "14",
+  "tr" : "waman ya'<u>sh</u>i <strong>al</strong>l<u>aa</u>ha warasuulahu wayata'adda <u>h</u>uduudahu yudkhilhu n<u>aa</u>ran kh<u>aa</u>lidan fiih<u>aa</u> walahu 'a<u>dzaa</u>bun muhiin<strong>un</strong>"
+}, {
+  "ar" : "وَاللَّاتِي يَأْتِينَ الْفَاحِشَةَ مِنْ نِسَائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِنْكُمْ ۖ فَإِنْ شَهِدُوا فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتَّىٰ يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ اللَّهُ لَهُنَّ سَبِيلًا",
+  "id" : "Dan (terhadap) para wanita yang mengerjakan perbuatan keji, hendaklah ada empat orang saksi diantara kamu (yang menyaksikannya). Kemudian apabila mereka telah memberi persaksian, maka kurunglah mereka (wanita-wanita itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan lain kepadanya.",
+  "nomor" : "15",
+  "tr" : "wa<strong>a</strong>ll<u>aa</u>tii ya/tiina <strong>a</strong>lf<u>aah</u>isyata min nis<u>aa</u>-ikum fa<strong>i</strong>stasyhiduu 'alayhinna arba'atan minkum fa-in syahiduu fa-amsikuuhunna fii <strong>a</strong>lbuyuuti <u>h</u>att<u>aa</u> yatawaff<u>aa</u>hunna <strong>a</strong>lmawtu aw yaj'ala <strong>al</strong>l<u>aa</u>hu lahunna sabiil<u>aa</u><strong>n</strong>wa<strong>a</strong>lla<u>dzaa</u>ni ya/tiy<u>aa</u>nih<u>aa</u> minkum fa<u>aadz</u>uuhum<u>aa</u> fa-in t<u>aa</u>b<u>aa</u> wa-a<u>sh</u>la<u>haa</u> fa-a'ri<u>dh</u>uu 'anhum<u>aa</u> inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na taww<u>aa</u>ban ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَاللَّذَانِ يَأْتِيَانِهَا مِنْكُمْ فَآذُوهُمَا ۖ فَإِنْ تَابَا وَأَصْلَحَا فَأَعْرِضُوا عَنْهُمَا ۗ إِنَّ اللَّهَ كَانَ تَوَّابًا رَحِيمًا",
+  "id" : "Dan terhadap dua orang yang melakukan perbuatan keji di antara kamu, maka berilah hukuman kepada keduanya, kemudian jika keduanya bertaubat dan memperbaiki diri, maka biarkanlah mereka. Sesungguhnya Allah Maha Penerima taubat lagi Maha Penyayang.",
+  "nomor" : "16",
+  "tr" : "wa<strong>a</strong>lla<u>dzaa</u>ni ya/tiy<u>aa</u>nih<u>aa</u> minkum fa<u>aadz</u>uuhum<u>aa</u> fa-in t<u>aa</u>b<u>aa</u> wa-a<u>sh</u>la<u>haa</u> fa-a'ri<u>dh</u>uu 'anhum<u>aa</u> inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na taww<u>aa</u>ban ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَرِيبٍ فَأُولَٰئِكَ يَتُوبُ اللَّهُ عَلَيْهِمْ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+  "id" : "Sesungguhnya taubat di sisi Allah hanyalah taubat bagi orang-orang yang mengerjakan kejahatan lantaran kejahilan, yang kemudian mereka bertaubat dengan segera, maka mereka itulah yang diterima Allah taubatnya; dan Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "17",
+  "tr" : "innam<u>aa</u> <strong>al</strong>ttawbatu 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi lilla<u>dz</u>iina ya'maluuna <strong>al</strong>ssuu-a bijah<u>aa</u>latin tsumma yatuubuuna min qariibin faul<u>aa</u>-ika yatuubu <strong>al</strong>l<u>aa</u>hu 'alayhim wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَيْسَتِ التَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ حَتَّىٰ إِذَا حَضَرَ أَحَدَهُمُ الْمَوْتُ قَالَ إِنِّي تُبْتُ الْآنَ وَلَا الَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُولَٰئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+  "id" : "Dan tidaklah taubat itu diterima Allah dari orang-orang yang mengerjakan kejahatan (yang) hingga apabila datang ajal kepada seseorang di antara mereka, (barulah) ia mengatakan : \"Sesungguhnya saya bertaubat sekarang\". Dan tidak (pula diterima taubat) orang-orang yang mati sedang mereka di dalam kekafiran. Bagi orang-orang itu telah Kami sediakan siksa yang pedih.",
+  "nomor" : "18",
+  "tr" : "walaysati <strong>al</strong>ttawbatu lilla<u>dz</u>iina ya'maluuna <strong>al</strong>ssayyi-<u>aa</u>ti <u>h</u>att<u>aa</u> i<u>dzaa</u> <u>h</u>a<u>dh</u>ara a<u>h</u>adahumu <strong>a</strong>lmawtu q<u>aa</u>la innii tubtu <strong>a</strong>l-<u>aa</u>na wal<u>aa</u> <strong>al</strong>la<u>dz</u>iina yamuutuuna wahum kuff<u>aa</u>run ul<u>aa</u>-ika a'tadn<u>aa</u> lahum 'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَنْ تَرِثُوا النِّسَاءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَا آتَيْتُمُوهُنَّ إِلَّا أَنْ يَأْتِينَ بِفَاحِشَةٍ مُبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِالْمَعْرُوفِ ۚ فَإِنْ كَرِهْتُمُوهُنَّ فَعَسَىٰ أَنْ تَكْرَهُوا شَيْئًا وَيَجْعَلَ اللَّهُ فِيهِ خَيْرًا كَثِيرًا",
+  "id" : "Hai orang-orang yang beriman, tidak halal bagi kamu mempusakai wanita dengan jalan paksa dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, terkecuali bila mereka melakukan pekerjaan keji yang nyata. Dan bergaullah dengan mereka secara patut. Kemudian bila kamu tidak menyukai mereka, (maka bersabarlah) karena mungkin kamu tidak menyukai sesuatu, padahal Allah menjadikan padanya kebaikan yang banyak.",
+  "nomor" : "19",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> ya<u>h</u>illu lakum an taritsuu <strong>al</strong>nnis<u>aa</u>-a karhan wal<u>aa</u> ta'<u>dh</u>uluuhunna lita<u>dz</u>habuu biba'<u>dh</u>i m<u>aa</u> <u>aa</u>taytumuuhunna ill<u>aa</u> an ya/tiina bif<u>aah</u>isyatin mubayyinatin wa'<u>aa</u>syiruuhunna bi<strong>a</strong>lma'ruufi fa-in karihtumuuhunna fa'as<u>aa</u> an takrahuu syay-an wayaj'ala <strong>al</strong>l<u>aa</u>hu fiihi khayran katsiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِنْ أَرَدْتُمُ اسْتِبْدَالَ زَوْجٍ مَكَانَ زَوْجٍ وَآتَيْتُمْ إِحْدَاهُنَّ قِنْطَارًا فَلَا تَأْخُذُوا مِنْهُ شَيْئًا ۚ أَتَأْخُذُونَهُ بُهْتَانًا وَإِثْمًا مُبِينًا",
+  "id" : "Dan jika kamu ingin mengganti isterimu dengan isteri yang lain, sedang kamu telah memberikan kepada seseorang di antara mereka harta yang banyak, maka janganlah kamu mengambil kembali dari padanya barang sedikitpun. Apakah kamu akan mengambilnya kembali dengan jalan tuduhan yang dusta dan dengan (menanggung) dosa yang nyata ?",
+  "nomor" : "20",
+  "tr" : "wa-in aradtumu istibd<u>aa</u>la zawjin mak<u>aa</u>na zawjin wa<u>aa</u>taytum i<u>h</u>d<u>aa</u>hunna qin<u>th</u><u>aa</u>ran fal<u>aa</u> ta/khu<u>dz</u>uu minhu syay-an ata/khu<u>dz</u>uunahu buht<u>aa</u>nan wa-itsman mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَكَيْفَ تَأْخُذُونَهُ وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ وَأَخَذْنَ مِنْكُمْ مِيثَاقًا غَلِيظًا",
+  "id" : "Bagaimana kamu akan mengambilnya kembali, padahal sebagian kamu telah bergaul (bercampur) dengan yang lain sebagai suami-isteri. Dan mereka (isteri-isterimu) telah mengambil dari kamu perjanjian yang kuat.",
+  "nomor" : "21",
+  "tr" : "wakayfa ta/khu<u>dz</u>uunahu waqad af<u>daa</u> ba'<u>dh</u>ukum il<u>aa</u> ba'<u>dh</u>in wa-akha<u>dz</u>na minkum miits<u>aa</u>qan ghalii<u>zhaa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَا تَنْكِحُوا مَا نَكَحَ آبَاؤُكُمْ مِنَ النِّسَاءِ إِلَّا مَا قَدْ سَلَفَ ۚ إِنَّهُ كَانَ فَاحِشَةً وَمَقْتًا وَسَاءَ سَبِيلًا",
+  "id" : "Dan janganlah kamu kawini wanita-wanita yang telah dikawini oleh ayahmu, terkecuali pada masa yang telah lampau. Sesungguhnya perbuatan itu amat keji dan dibenci Allah dan seburuk-buruk jalan (yang ditempuh).",
+  "nomor" : "22",
+  "tr" : "wal<u>aa</u> tanki<u>h</u>uu m<u>aa</u> naka<u>h</u>a <u>aa</u>b<u>aa</u>ukum mina <strong>al</strong>nnis<u>aa</u>-i ill<u>aa</u> m<u>aa</u> qad salafa innahu k<u>aa</u>na f<u>aah</u>isyatan wamaqtan was<u>aa</u>-a sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُمْ مِنَ الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي حُجُورِكُمْ مِنْ نِسَائِكُمُ اللَّاتِي دَخَلْتُمْ بِهِنَّ فَإِنْ لَمْ تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَنْ تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+  "id" : "Diharamkan atas kamu (mengawini) ibu-ibumu; anak-anakmu yang perempuan; saudara-saudaramu yang perempuan, saudara-saudara bapakmu yang perempuan; saudara-saudara ibumu yang perempuan; anak-anak perempuan dari saudara-saudaramu yang laki-laki; anak-anak perempuan dari saudara-saudaramu yang perempuan; ibu-ibumu yang menyusui kamu; saudara perempuan sepersusuan; ibu-ibu isterimu (mertua); anak-anak isterimu yang dalam pemeliharaanmu dari isteri yang telah kamu campuri, tetapi jika kamu belum campur dengan isterimu itu (dan sudah kamu ceraikan), maka tidak berdosa kamu mengawininya; (dan diharamkan bagimu) isteri-isteri anak kandungmu (menantu); dan menghimpunkan (dalam perkawinan) dua perempuan yang bersaudara, kecuali yang telah terjadi pada masa lampau; sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "23",
+  "tr" : "<u>h</u>urrimat 'alaykum ummah<u>aa</u>tukum waban<u>aa</u>tukum wa-akhaw<u>aa</u>tukum wa'amm<u>aa</u>tukum wakh<u>aa</u>l<u>aa</u>tukum waban<u>aa</u>tu <strong>a</strong>l-akhi waban<u>aa</u>tu <strong>a</strong>l-ukhti waummah<u>aa</u>tukumu <strong>al</strong>l<u>aa</u>tii ar<u>dh</u>a'nakum wa-akhaw<u>aa</u>tukum mina <strong>al</strong>rra<u>daa</u>'ati waummah<u>aa</u>tu nis<u>aa</u>-ikum warab<u>aa</u>-ibukumu <strong>al</strong>l<u>aa</u>tii fii <u>h</u>ujuurikum min nis<u>aa</u>-ikumu <strong>al</strong>l<u>aa</u>tii dakhaltum bihinna fa-in lam takuunuu dakhaltum bihinna fal<u>aa</u> jun<u>aah</u>a 'alaykum wa<u>h</u>al<u>aa</u>-ilu abn<u>aa</u>-ikumu <strong>al</strong>la<u>dz</u>iina min a<u>sh</u>l<u>aa</u>bikum wa-an tajma'uu bayna <strong>a</strong>l-ukhtayni ill<u>aa</u> m<u>aa</u> qad salafa inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَالْمُحْصَنَاتُ مِنَ النِّسَاءِ إِلَّا مَا مَلَكَتْ أَيْمَانُكُمْ ۖ كِتَابَ اللَّهِ عَلَيْكُمْ ۚ وَأُحِلَّ لَكُمْ مَا وَرَاءَ ذَٰلِكُمْ أَنْ تَبْتَغُوا بِأَمْوَالِكُمْ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ ۚ فَمَا اسْتَمْتَعْتُمْ بِهِ مِنْهُنَّ فَآتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَاضَيْتُمْ بِهِ مِنْ بَعْدِ الْفَرِيضَةِ ۚ إِنَّ اللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+  "id" : "dan (diharamkan juga kamu mengawini) wanita yang bersuami, kecuali budak-budak yang kamu miliki (Allah telah menetapkan hukum itu) sebagai ketetapan-Nya atas kamu. Dan dihalalkan bagi kamu selain yang demikian (yaitu) mencari isteri-isteri dengan hartamu untuk dikawini bukan untuk berzina. Maka isteri-isteri yang telah kamu ni'mati (campuri) di antara mereka, berikanlah kepada mereka maharnya (dengan sempurna), sebagai suatu kewajiban; dan tiadalah mengapa bagi kamu terhadap sesuatu yang kamu telah saling merelakannya, sesudah menentukan mahar itu. Sesungguhnya Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "24",
+  "tr" : "wa<strong>a</strong>lmu<u>hs</u>an<u>aa</u>tu mina <strong>al</strong>nnis<u>aa</u>-i ill<u>aa</u> m<u>aa</u> malakat aym<u>aa</u>nukum kit<u>aa</u>ba <strong>al</strong>l<u>aa</u>hi 'alaykum wau<u>h</u>illa lakum m<u>aa</u> war<u>aa</u>-a <u>dzaa</u>likum an tabtaghuu bi-amw<u>aa</u>likum mu<u>hs</u>iniina ghayra mus<u>aa</u>fi<u>h</u>iina fam<u>aa</u> istamta'tum bihi minhunna fa<u>aa</u>tuuhunna ujuurahunna farii<u>dh</u>atan wal<u>aa</u> jun<u>aah</u>a 'alaykum fiim<u>aa</u> tar<u>aad</u>aytum bihi min ba'di <strong>a</strong>lfarii<u>dh</u>ati inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ لَمْ يَسْتَطِعْ مِنْكُمْ طَوْلًا أَنْ يَنْكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ فَتَيَاتِكُمُ الْمُؤْمِنَاتِ ۚ وَاللَّهُ أَعْلَمُ بِإِيمَانِكُمْ ۚ بَعْضُكُمْ مِنْ بَعْضٍ ۚ فَانْكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَآتُوهُنَّ أُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ ۚ فَإِذَا أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنْكُمْ ۚ وَأَنْ تَصْبِرُوا خَيْرٌ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+  "id" : "Dan barangsiapa diantara kamu (orang merdeka) yang tidak cukup perbelanjaannya untuk mengawini wanita merdeka lagi beriman, ia boleh mengawini wanita yang beriman, dari budak-budak yang kamu miliki. Allah mengetahui keimananmu; sebahagian kamu adalah dari sebahagian yang lain, karena itu kawinilah mereka dengan seizin tuan mereka, dan berilah maskawin mereka menurut yang patut, sedang merekapun wanita-wanita yang memelihara diri, bukan pezina dan bukan (pula) wanita yang mengambil laki-laki lain sebagai piaraannya; dan apabila mereka telah menjaga diri dengan kawin, kemudian mereka melakukan perbuatan yang keji (zina), maka atas mereka separo hukuman dari hukuman wanita-wanita merdeka yang bersuami. (Kebolehan mengawini budak) itu, adalah bagi orang-orang yang takut kepada kemasyakatan menjaga diri (dari perbuatan zina) di antara kamu, dan kesabaran itu lebih baik bagimu. Dan Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "25",
+  "tr" : "waman lam yasta<u>th</u>i' minkum <u>th</u>awlan an yanki<u>h</u>a <strong>a</strong>lmu<u>hs</u>an<u>aa</u>ti <strong>a</strong>lmu/min<u>aa</u>ti famin m<u>aa</u> malakat aym<u>aa</u>nukum min fatay<u>aa</u>tikumu <strong>a</strong>lmu/min<u>aa</u>ti wa<strong>al</strong>l<u>aa</u>hu a'lamu bi-iim<u>aa</u>nikum ba'<u>dh</u>ukum min ba'<u>dh</u>in fa<strong>i</strong>nki<u>h</u>uuhunna bi-i<u>dz</u>ni ahlihinna wa<u>aa</u>tuuhunna ujuurahunna bi<strong>a</strong>lma'ruufi mu<u>hs</u>an<u>aa</u>tin ghayra mas<u>aa</u>fi<u>haa</u>tin wal<u>aa</u> muttakhi<u>dzaa</u>ti akhd<u>aa</u>nin fa-i<u>dzaa</u> u<u>hs</u>inna fa-in atayna bif<u>aah</u>isyatin fa'alayhinna ni<u>sh</u>fu m<u>aa</u> 'al<u>aa</u> <strong>a</strong>lmu<u>hs</u>an<u>aa</u>ti mina <strong>a</strong>l'a<u>dzaa</u>bi <u>dzaa</u>lika liman khasyiya <strong>a</strong>l'anata minkum wa-an ta<u>sh</u>biruu khayrun lakum wa<strong>al</strong>l<u>aa</u>hu ghafuurun ra<u>h</u>iim<strong>un</strong>"
+}, {
+  "ar" : "يُرِيدُ اللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذِينَ مِنْ قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ ۗ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+  "id" : "Allah hendak menerangkan (hukum syari'at-Nya) kepadamu, dan menunjukimu kepada jalan-jalan orang yang sebelum kamu (para nabi dan shalihin) dan (hendak) menerima taubatmu. Dan Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "26",
+  "tr" : "yuriidu <strong>al</strong>l<u>aa</u>hu liyubayyina lakum wayahdiyakum sunana <strong>al</strong>la<u>dz</u>iina min qablikum wayatuuba 'alaykum wa<strong>al</strong>l<u>aa</u>hu 'aliimun <u>h</u>akiim<strong>un</strong>"
+}, {
+  "ar" : "وَاللَّهُ يُرِيدُ أَنْ يَتُوبَ عَلَيْكُمْ وَيُرِيدُ الَّذِينَ يَتَّبِعُونَ الشَّهَوَاتِ أَنْ تَمِيلُوا مَيْلًا عَظِيمًا",
+  "id" : "Dan Allah hendak menerima taubatmu, sedang orang-orang yang mengikuti hawa nafsunya bermaksud supaya kamu berpaling sejauh-jauhnya (dari kebenaran).",
+  "nomor" : "27",
+  "tr" : "wa<strong>al</strong>l<u>aa</u>hu yuriidu an yatuuba 'alaykum wayuriidu <strong>al</strong>la<u>dz</u>iina yattabi'uuna <strong>al</strong>sysyahaw<u>aa</u>ti an tamiiluu maylan 'a<u>zh</u>iim<strong>an</strong>v"
+}, {
+  "ar" : "يُرِيدُ اللَّهُ أَنْ يُخَفِّفَ عَنْكُمْ ۚ وَخُلِقَ الْإِنْسَانُ ضَعِيفًا",
+  "id" : "Allah hendak memberikan keringanan kepadamu, dan manusia dijadikan bersifat lemah.",
+  "nomor" : "28",
+  "tr" : "yuriidu <strong>al</strong>l<u>aa</u>hu an yukhaffifa 'ankum wakhuliqa <strong>a</strong>l-ins<u>aa</u>nu <u>dh</u>a'iif<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا أَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ إِلَّا أَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ ۚ وَلَا تَقْتُلُوا أَنْفُسَكُمْ ۚ إِنَّ اللَّهَ كَانَ بِكُمْ رَحِيمًا",
+  "id" : "Hai orang-orang yang beriman, janganlah kami saling memakan harta sesamamu dengan jalan yang batil, kecuali dengan jalan perniagaan yang berlaku dengan suka sama-suka di antara kamu. Dan janganlah kamu membunuh dirimu; sesungguhnya Allah adalah Maha Penyayang kepadamu.",
+  "nomor" : "29",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> ta/kuluu amw<u>aa</u>lakum baynakum bi<strong>a</strong>lb<u>aath</u>ili ill<u>aa</u> an takuuna tij<u>aa</u>ratan 'an tar<u>aad</u>in minkum wal<u>aa</u> taqtuluu anfusakum inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na bikum ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يَفْعَلْ ذَٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+  "id" : "Dan barangsiapa berbuat demikian dengan melanggar hak dan aniaya, maka Kami kelak akan memasukkannya ke dalam neraka. Yang demikian itu adalah mudah bagi Allah.",
+  "nomor" : "30",
+  "tr" : "waman yaf'al <u>dzaa</u>lika 'udw<u>aa</u>nan wa<u>zh</u>ulman fasawfa nu<u>sh</u>liihi n<u>aa</u>ran wak<u>aa</u>na <u>dzaa</u>lika 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi yasiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنْ تَجْتَنِبُوا كَبَائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّئَاتِكُمْ وَنُدْخِلْكُمْ مُدْخَلًا كَرِيمًا",
+  "id" : "Jika kamu menjauhi dosa-dosa besar di antara dosa-dosa yang dilarang kamu mengerjakannya, niscaya Kami hapus kesalahan-kesalahanmu (dosa-dosamu yang kecil) dan Kami masukkan kamu ke tempat yang mulia (surga).",
+  "nomor" : "31",
+  "tr" : "in tajtanibuu kab<u>aa</u>-ira m<u>aa</u> tunhawna 'anhu nukaffir 'ankum sayyi-<u>aa</u>tikum wanudkhilkum mudkhalan kariim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ ۚ لِلرِّجَالِ نَصِيبٌ مِمَّا اكْتَسَبُوا ۖ وَلِلنِّسَاءِ نَصِيبٌ مِمَّا اكْتَسَبْنَ ۚ وَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ ۗ إِنَّ اللَّهَ كَانَ بِكُلِّ شَيْءٍ عَلِيمًا",
+  "id" : "Dan janganlah kamu iri hati terhadap apa yang dikaruniakan Allah kepada sebahagian kamu lebih banyak dari sebahagian yang lain. (Karena) bagi orang laki-laki ada bahagian dari pada apa yang mereka usahakan, dan bagi para wanita (pun) ada bahagian dari apa yang mereka usahakan, dan mohonlah kepada Allah sebagian dari karunia-Nya. Sesungguhnya Allah Maha Mengetahui segala sesuatu.",
+  "nomor" : "32",
+  "tr" : "wal<u>aa</u> tatamannaw m<u>aa</u> fa<u>dhdh</u>ala <strong>al</strong>l<u>aa</u>hu bihi ba'<u>dh</u>akum 'al<u>aa</u> ba'<u>dh</u>in li<strong>l</strong>rrij<u>aa</u>li na<u>sh</u>iibun mimm<u>aa</u> iktasabuu wali<strong>l</strong>nnis<u>aa</u>-i na<u>sh</u>iibun mimm<u>aa</u> iktasabna wa<strong>i</strong>s-aluu <strong>al</strong>l<u>aa</u>ha min fa<u>dh</u>lihi inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na bikulli syay-in 'aliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ وَالْأَقْرَبُونَ ۚ وَالَّذِينَ عَقَدَتْ أَيْمَانُكُمْ فَآتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدًا",
+  "id" : "Bagi tiap-tiap harta peninggalan dari harta yang ditinggalkan ibu bapak dan karib kerabat, Kami jadikan pewaris-pewarisnya. Dan (jika ada) orang-orang yang kamu telah bersumpah setia dengan mereka, maka berilah kepada mereka bahagiannya. Sesungguhnya Allah menyaksikan segala sesuatu.",
+  "nomor" : "33",
+  "tr" : "walikullin ja'aln<u>aa</u> maw<u>aa</u>liya mimm<u>aa</u> taraka <strong>a</strong>lw<u>aa</u>lid<u>aa</u>ni wa<strong>a</strong>l-aqrabuuna wa<strong>a</strong>lla<u>dz</u>iina 'aqadat aym<u>aa</u>nukum fa<u>aa</u>tuuhum na<u>sh</u>iibahum inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'al<u>aa</u> kulli syay-in syahiid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ بِمَا فَضَّلَ اللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَا أَنْفَقُوا مِنْ أَمْوَالِهِمْ ۚ فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللَّهُ ۚ وَاللَّاتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ اللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+  "id" : "Kaum laki-laki itu adalah pemimpin bagi kaum wanita, oleh karena Allah telah melebihkan sebahagian mereka (laki-laki) atas sebahagian yang lain (wanita), dan karena mereka (laki-laki) telah menafkahkan sebagian dari harta mereka. Sebab itu maka wanita yang saleh, ialah yang ta'at kepada Allah lagi memelihara diri ketika suaminya tidak ada, oleh karena Allah telah memelihara (mereka). Wanita-wanita yang kamu khawatirkan nusyuznya, maka nasehatilah mereka dan pisahkanlah mereka di tempat tidur mereka, dan pukullah mereka. Kemudian jika mereka mentaatimu, maka janganlah kamu mencari-cari jalan untuk menyusahkannya. Sesungguhnya Allah Maha Tinggi lagi Maha Besar.",
+  "nomor" : "34",
+  "tr" : "a<strong>l</strong>rrij<u>aa</u>lu qaww<u>aa</u>muuna 'al<u>aa</u> <strong>al</strong>nnis<u>aa</u>-i bim<u>aa</u> fa<u>dhdh</u>ala <strong>al</strong>l<u>aa</u>hu ba'<u>dh</u>ahum 'al<u>aa</u> ba'<u>dh</u>in wabim<u>aa</u> anfaquu min amw<u>aa</u>lihim fa<strong>al</strong><u>shshaa</u>li<u>haa</u>tu q<u>aa</u>nit<u>aa</u>tun <u>haa</u>fi<u>zhaa</u>tun lilghaybi bim<u>aa</u> <u>h</u>afi<u>zh</u>a <strong>al</strong>l<u>aa</u>hu wa<strong>a</strong>ll<u>aa</u>tii takh<u>aa</u>fuuna nusyuuzahunna fa'i<u>zh</u>uuhunna wa<strong>u</strong>hjuruuhunna fii <strong>a</strong>lma<u>daa</u>ji'i wa<strong>i</strong><u>dh</u>ribuuhunna fa-in a<u>th</u>a'nakum fal<u>aa</u> tabghuu 'alayhinna sabiilan inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'aliyyan kabiir<u>aa</u><strong>n</strong>v"
+}, {
+  "ar" : "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ أَهْلِهِ وَحَكَمًا مِنْ أَهْلِهَا إِنْ يُرِيدَا إِصْلَاحًا يُوَفِّقِ اللَّهُ بَيْنَهُمَا ۗ إِنَّ اللَّهَ كَانَ عَلِيمًا خَبِيرًا",
+  "id" : "Dan jika kamu khawatirkan ada persengketaan antara keduanya, maka kirimlah seorang hakam dari keluarga laki-laki dan seorang hakam dari keluarga perempuan. Jika kedua orang hakam itu bermaksud mengadakan perbaikan, niscaya Allah memberi taufik kepada suami-isteri itu. Sesungguhnya Allah Maha Mengetahui lagi Maha Mengenal.",
+  "nomor" : "35",
+  "tr" : "wa-in khiftum syiq<u>aa</u>qa baynihim<u>aa</u> fa<strong>i</strong>b'atsuu <u>h</u>akaman min ahlihi wa<u>h</u>akaman min ahlih<u>aa</u> in yuriid<u>aa</u> i<u>sh</u>l<u>aah</u>an yuwaffiqi <strong>al</strong>l<u>aa</u>hu baynahum<u>aa</u> inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'aliiman khabiir<u>aa</u><strong>n</strong>v"
+}, {
+  "ar" : "وَاعْبُدُوا اللَّهَ وَلَا تُشْرِكُوا بِهِ شَيْئًا ۖ وَبِالْوَالِدَيْنِ إِحْسَانًا وَبِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَالْجَارِ ذِي الْقُرْبَىٰ وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّبِيلِ وَمَا مَلَكَتْ أَيْمَانُكُمْ ۗ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًا",
+  "id" : "Sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatupun. Dan berbuat baiklah kepada dua orang ibu-bapa, karib-kerabat, anak-anak yatim, orang-orang miskin, tetangga yang dekat dan tetangga yang jauh, dan teman sejawat, ibnu sabil dan hamba sahayamu. Sesungguhnya Allah tidak menyukai orang-orang yang sombong dan membangga-banggakan diri,",
+  "nomor" : "36",
+  "tr" : "wa<strong>u</strong>'buduu <strong>al</strong>l<u>aa</u>ha wal<u>aa</u> tusyrikuu bihi syay-an wabi<strong>a</strong>lw<u>aa</u>lidayni i<u>h</u>s<u>aa</u>nan wabi<u>dz</u>ii <strong>a</strong>lqurb<u>aa</u> wa<strong>a</strong>lyat<u>aa</u>m<u>aa</u> wa<strong>a</strong>lmas<u>aa</u>kiini wa<strong>a</strong>lj<u>aa</u>ri <u>dz</u>ii <strong>a</strong>lqurb<u>aa</u> wa<strong>a</strong>lj<u>aa</u>ri <strong>a</strong>ljunubi wa<strong>al</strong><u>ssah</u>ibi bi<strong>a</strong>ljanbi wa<strong>i</strong>bni <strong>al</strong>ssabiili wam<u>aa</u> malakat aym<u>aa</u>nukum inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yu<u>h</u>ibbu man k<u>aa</u>na mukht<u>aa</u>lan fakhuur<u>aa</u><strong>n</strong><strong>al</strong>la<u>dz</u>iina yabkhaluuna waya/muruuna <strong>al</strong>nn<u>aa</u>sa bi<strong>a</strong>lbukhli wayaktumuuna m<u>aa</u> <u>aa</u>t<u>aa</u>humu <strong>al</strong>l<u>aa</u>hu min fa<u>dh</u>lihi wa-a'tadn<u>aa</u> lilk<u>aa</u>firiina 'a<u>dzaa</u>ban muhiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+  "id" : "(yaitu) orang-orang yang kikir, dan menyuruh orang lain berbuat kikir, dan menyembunyikan karunia Allah yang telah diberikan-Nya kepada mereka. Dan Kami telah menyediakan untuk orang-orang kafir siksa yang menghinakan.",
+  "nomor" : "37",
+  "tr" : "<strong>al</strong>la<u>dz</u>iina yabkhaluuna waya/muruuna <strong>al</strong>nn<u>aa</u>sa bi<strong>a</strong>lbukhli wayaktumuuna m<u>aa</u> <u>aa</u>t<u>aa</u>humu <strong>al</strong>l<u>aa</u>hu min fa<u>dh</u>lihi wa-a'tadn<u>aa</u> lilk<u>aa</u>firiina 'a<u>dzaa</u>ban muhiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَالَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ رِئَاءَ النَّاسِ وَلَا يُؤْمِنُونَ بِاللَّهِ وَلَا بِالْيَوْمِ الْآخِرِ ۗ وَمَنْ يَكُنِ الشَّيْطَانُ لَهُ قَرِينًا فَسَاءَ قَرِينًا",
+  "id" : "Dan (juga) orang-orang yang menafkahkan harta-harta mereka karena riya kepada manusia, dan orang-orang yang tidak beriman kepada Allah dan kepada hari kemudian. Barangsiapa yang mengambil syaitan itu menjadi temannya, maka syaitan itu adalah teman yang seburuk-buruknya.",
+  "nomor" : "38",
+  "tr" : "wa<strong>a</strong>lla<u>dz</u>iina yunfiquuna amw<u>aa</u>lahum ri-<u>aa</u>-a <strong>al</strong>nn<u>aa</u>si wal<u>aa</u> yu/minuuna bi<strong>al</strong>l<u>aa</u>hi wal<u>aa</u> bi<strong>a</strong>lyawmi <strong>a</strong>l-<u>aa</u>khiri waman yakuni <strong>al</strong>sysyay<u>th</u><u>aa</u>nu lahu qariinan fas<u>aa</u>-a qariin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَاذَا عَلَيْهِمْ لَوْ آمَنُوا بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَنْفَقُوا مِمَّا رَزَقَهُمُ اللَّهُ ۚ وَكَانَ اللَّهُ بِهِمْ عَلِيمًا",
+  "id" : "Apakah kemudharatannya bagi mereka, kalau mereka beriman kepada Allah dan hari kemudian dan menafkahkan sebahagian rezki yang telah diberikan Allah kepada mereka ? Dan adalah Allah Maha Mengetahui keadaan mereka.",
+  "nomor" : "39",
+  "tr" : "wam<u>aatsaa</u> 'alayhim law <u>aa</u>manuu bi<strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lyawmi <strong>a</strong>l-<u>aa</u>khiri wa-anfaquu mimm<u>aa</u> razaqahumu <strong>al</strong>l<u>aa</u>hu wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu bihim 'aliim<u>aa</u><strong>n</strong>inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> ya<u>zh</u>limu mitsq<u>aa</u>la <u>dz</u>arratin wa-in taku <u>h</u>asanatan yu<u>daa</u>'ifh<u>aa</u> wayu/ti min ladunhu ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ ۖ وَإِنْ تَكُ حَسَنَةً يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ أَجْرًا عَظِيمًا",
+  "id" : "Sesungguhnya Allah tidak menganiaya seseorang walaupun sebesar zarrah, dan jika ada kebajikan sebesar zarrah, niscaya Allah akan melipat gandakannya dan memberikan dari sisi-Nya pahala yang besar.",
+  "nomor" : "40",
+  "tr" : "inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> ya<u>zh</u>limu mitsq<u>aa</u>la <u>dz</u>arratin wa-in taku <u>h</u>asanatan yu<u>daa</u>'ifh<u>aa</u> wayu/ti min ladunhu ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَكَيْفَ إِذَا جِئْنَا مِنْ كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰؤُلَاءِ شَهِيدًا",
+  "id" : "Maka bagaimanakah (halnya orang kafir nanti), apabila Kami mendatangkan seseorang saksi (rasul) dari tiap-tiap umat dan Kami mendatangkan kamu (Muhammad) sebagai saksi atas mereka itu (sebagai umatmu).",
+  "nomor" : "41",
+  "tr" : "fakayfa i<u>dzaa</u> ji/n<u>aa</u> min kulli ummatin bisyahiidin waji/n<u>aa</u> bika 'al<u>aa</u> h<u>aa</u>ul<u>aa</u>-i syahiid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَوْمَئِذٍ يَوَدُّ الَّذِينَ كَفَرُوا وَعَصَوُا الرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ الْأَرْضُ وَلَا يَكْتُمُونَ اللَّهَ حَدِيثًا",
+  "id" : "Di hari itu orang-orang kafir dan orang-orang yang mendurhakai rasul, ingin supaya mereka disamaratakan dengan tanah, dan mereka tidak dapat menyembunyikan (dari Allah) sesuatu kejadianpun.",
+  "nomor" : "42",
+  "tr" : "yawma-i<u>dz</u>in yawaddu <strong>al</strong>la<u>dz</u>iina kafaruu wa'a<u>sh</u>awuu <strong>al</strong>rrasuula law tusaww<u>aa</u> bihimu <strong>a</strong>l-ar<u>dh</u>u wal<u>aa</u> yaktumuuna <strong>al</strong>l<u>aa</u>ha <u>h</u>adiits<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَىٰ حَتَّىٰ تَعْلَمُوا مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ اللَّهَ كَانَ عَفُوًّا غَفُورًا",
+  "id" : "Hai orang-orang yang beriman, janganlah kamu shalat, sedang kamu dalam keadaan mabuk, sehingga kamu mengerti apa yang kamu ucapkan, (jangan pula hampiri mesjid) sedang kamu dalam keadaan junub, terkecuali sekedar berlalu saja, hingga kamu mandi. Dan jika kamu sakit atau sedang dalam musafir atau datang dari tempat buang air atau kamu telah menyentuh perempuan, kemudian kamu tidak mendapat air, maka bertayamumlah kamu dengan tanah yang baik (suci); sapulah mukamu dan tanganmu. Sesungguhnya Allah Maha Pema'af lagi Maha Pengampun.",
+  "nomor" : "43",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> taqrabuu <strong>al</strong><u>shsh</u>al<u>aa</u>ta wa-antum suk<u>aa</u>r<u>aa</u> <u>h</u>att<u>aa</u> ta'lamuu m<u>aa</u> taquuluuna wal<u>aa</u> junuban ill<u>aa</u> '<u>aa</u>birii sabiilin <u>h</u>att<u>aa</u> taghtasiluu wa-in kuntum mar<u>daa</u> aw 'al<u>aa</u> safarin aw j<u>aa</u>-a a<u>h</u>adun minkum mina <strong>a</strong>lgh<u>aa</u>-i<u>th</u>i aw l<u>aa</u>mastumu <strong>al</strong>nnis<u>aa</u>-a falam tajiduu m<u>aa</u>-an fatayammamuu <u>sh</u>a'iidan <u>th</u>ayyiban fa<strong>i</strong>msa<u>h</u>uu biwujuuhikum wa-aydiikum inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'afuwwan ghafuur<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يَشْتَرُونَ الضَّلَالَةَ وَيُرِيدُونَ أَنْ تَضِلُّوا السَّبِيلَ",
+  "id" : "Apakah kamu tidak melihat orang-orang yang telah diberi bahagian dari Al Kitab (Taurat) ? Mereka membeli (memilih) kesesatan (dengan petunjuk) dan mereka bermaksud supaya kamu tersesat (menyimpang) dari jalan (yang benar).",
+  "nomor" : "44",
+  "tr" : "alam tara il<u>aa</u> <strong>al</strong>la<u>dz</u>iina uutuu na<u>sh</u>iiban mina <strong>a</strong>lkit<u>aa</u>bi yasytaruuna <strong>al</strong><u>dhdh</u>al<u>aa</u>lata wayuriiduuna an ta<u>dh</u>illuu <strong>al</strong>ssabiil<strong>a</strong>"
+}, {
+  "ar" : "وَاللَّهُ أَعْلَمُ بِأَعْدَائِكُمْ ۚ وَكَفَىٰ بِاللَّهِ وَلِيًّا وَكَفَىٰ بِاللَّهِ نَصِيرًا",
+  "id" : "Dan Allah lebih mengetahui (dari pada kamu) tentang musuh-musuhmu. Dan cukuplah Allah menjadi Pelindung (bagimu). Dan cukuplah Allah menjadi Penolong (bagimu).",
+  "nomor" : "45",
+  "tr" : "wa<strong>al</strong>l<u>aa</u>hu a'lamu bi-a'd<u>aa</u>-ikum wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi waliyyan wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "مِنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ ۚ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَأَقْوَمَ وَلَٰكِنْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+  "id" : "Yaitu orang-orang Yahudi, mereka mengubah perkataan dari tempat-tempatnya. Mereka berkata : \"Kami mendengar\", tetapi kami tidak mau menurutinya. Dan (mereka mengatakan pula) : \"Dengarlah\" sedang kamu sebenarnya tidak mendengar apa-apa. Dan (mereka mengatakan) : \"Raa'ina\", dengan memutar-mutar lidahnya dan mencela agama. Sekiranya mereka mengatakan : \"Kami mendengar dan menurut, dan dengarlah, dan perhatikanlah kami\", tentulah itu lebih baik bagi mereka dan lebih tepat, akan tetapi Allah mengutuk mereka, karena kekafiran mereka. Mereka tidak beriman kecuali iman yang sangat tipis.",
+  "nomor" : "46",
+  "tr" : "mina <strong>al</strong>la<u>dz</u>iina h<u>aa</u>duu yu<u>h</u>arrifuuna <strong>a</strong>lkalima 'an maw<u>aad</u>i'ihi wayaquuluuna sami'n<u>aa</u> wa'a<u>sh</u>ayn<u>aa</u> wa<strong>i</strong>sma' ghayra musma'in war<u>aa</u>'in<u>aa</u> layyan bi-alsinatihim wa<u>th</u>a'nan fii <strong>al</strong>ddiini walaw annahum q<u>aa</u>luu sami'n<u>aa</u> wa-a<u>th</u>a'n<u>aa</u> wa<strong>i</strong>sma' wa<strong>u</strong>n<u>zh</u>urn<u>aa</u> lak<u>aa</u>na khayran lahum wa-aqwama wal<u>aa</u>kin la'anahumu <strong>al</strong>l<u>aa</u>hu bikufrihim fal<u>aa</u> yu/minuuna ill<u>aa</u> qaliil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ أُوتُوا الْكِتَابَ آمِنُوا بِمَا نَزَّلْنَا مُصَدِّقًا لِمَا مَعَكُمْ مِنْ قَبْلِ أَنْ نَطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰ أَدْبَارِهَا أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّا أَصْحَابَ السَّبْتِ ۚ وَكَانَ أَمْرُ اللَّهِ مَفْعُولًا",
+  "id" : "Hai orang-orang yang telah diberi Al Kitab, berimanlah kamu kepada apa yang telah Kami turunkan (Al Qur'an) yang membenarkan Kitab yang ada pada kamu sebelum Kami mengubah muka (mu), lalu Kami putarkan ke belakang atau Kami kutuki mereka sebagaimana Kami telah mengutuki orang-orang (yang berbuat ma'siat) pada hari Sabtu. Dan ketetapan Allah pasti berlaku.",
+  "nomor" : "47",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina uutuu <strong>a</strong>lkit<u>aa</u>ba <u>aa</u>minuu bim<u>aa</u> nazzaln<u>aa</u> mu<u>sh</u>addiqan lim<u>aa</u> ma'akum min qabli an na<u>th</u>misa wujuuhan fanaruddah<u>aa</u> 'al<u>aa</u> adb<u>aa</u>rih<u>aa</u> aw nal'anahum kam<u>aa</u> la'ann<u>aa</u> a<u>sh</u>-<u>haa</u>ba <strong>al</strong>ssabti wak<u>aa</u>na amru <strong>al</strong>l<u>aa</u>hi maf'uul<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدِ افْتَرَىٰ إِثْمًا عَظِيمًا",
+  "id" : "Sesungguhnya Allah tidak akan mengampuni dosa syirik, dan Dia mengampuni segala dosa yang selain dari (syirik) itu, bagi siapa yang dikehendaki-Nya. Barangsiapa yang mempersekutukan Allah, maka sungguh ia telah berbuat dosa yang besar.",
+  "nomor" : "48",
+  "tr" : "inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yaghfiru an yusyraka bihi wayaghfiru m<u>aa</u> duuna <u>dzaa</u>lika liman yasy<u>aa</u>u waman yusyrik bi<strong>al</strong>l<u>aa</u>hi faqadi iftar<u>aa</u> itsman 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَلَمْ تَرَ إِلَى الَّذِينَ يُزَكُّونَ أَنْفُسَهُمْ ۚ بَلِ اللَّهُ يُزَكِّي مَنْ يَشَاءُ وَلَا يُظْلَمُونَ فَتِيلًا",
+  "id" : "Apakah kamu tidak memperhatikan orang yang menganggap dirinya bersih ?. Sebenarnya Allah membersihkan siapa yang dikehendaki-Nya dan mereka tidak aniaya sedikitpun.",
+  "nomor" : "49",
+  "tr" : "alam tara il<u>aa</u> <strong>al</strong>la<u>dz</u>iina yuzakkuuna anfusahum bali <strong>al</strong>l<u>aa</u>hu yuzakkii man yasy<u>aa</u>u wal<u>aa</u> yu<u>zh</u>lamuuna fatiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "انْظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُبِينًا",
+  "id" : "Perhatikanlah, betapakah mereka mengada-adakan dusta terhadap Allah ? Dan cukuplah perbuatan itu menjadi dosa yang nyata (bagi mereka).",
+  "nomor" : "50",
+  "tr" : "un<u>zh</u>ur kayfa yaftaruuna 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi <strong>a</strong>lka<u>dz</u>iba wakaf<u>aa</u> bihi itsman mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا هَٰؤُلَاءِ أَهْدَىٰ مِنَ الَّذِينَ آمَنُوا سَبِيلًا",
+  "id" : "Apakah kamu tidak memperhatikan orang-orang yang diberi bahagian dari Al kitab ? Mereka percaya kepada jibt dan thaghut, dan mengatakan kepada orang-orang Kafir (musyrik Mekah), bahwa mereka itu lebih benar jalannya dari orang-orang yang beriman.",
+  "nomor" : "51",
+  "tr" : "alam tara il<u>aa</u> <strong>al</strong>la<u>dz</u>iina uutuu na<u>sh</u>iiban mina <strong>a</strong>lkit<u>aa</u>bi yu/minuuna bi<strong>a</strong>ljibti wa<strong>al</strong><u>ththaa</u>ghuuti wayaquuluuna lilla<u>dz</u>iina kafaruu h<u>aa</u>ul<u>aa</u>-i ahd<u>aa</u> mina <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ ۖ وَمَنْ يَلْعَنِ اللَّهُ فَلَنْ تَجِدَ لَهُ نَصِيرًا",
+  "id" : "Mereka itulah orang yang dikutuki Allah. Barangsiapa yang dikutuki Allah, niscaya kamu sekali-kali tidak akan memperoleh penolong baginya.",
+  "nomor" : "52",
+  "tr" : "ul<u>aa</u>-ika <strong>al</strong>la<u>dz</u>iina la'anahumu <strong>al</strong>l<u>aa</u>hu waman yal'ani <strong>al</strong>l<u>aa</u>hu falan tajida lahu na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَمْ لَهُمْ نَصِيبٌ مِنَ الْمُلْكِ فَإِذًا لَا يُؤْتُونَ النَّاسَ نَقِيرًا",
+  "id" : "Ataukah ada bagi mereka bahagian dari kerajaan (kekuasaan) ? Kendatipun ada, mereka tidak akan memberikan sedikitpun (kebajikan) kepada manusia.",
+  "nomor" : "53",
+  "tr" : "am lahum na<u>sh</u>iibun mina <strong>a</strong>lmulki fa-i<u>dz</u>an l<u>aa</u> yu/tuuna <strong>al</strong>nn<u>aa</u>sa naqiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ ۖ فَقَدْ آتَيْنَا آلَ إِبْرَاهِيمَ الْكِتَابَ وَالْحِكْمَةَ وَآتَيْنَاهُمْ مُلْكًا عَظِيمًا",
+  "id" : "ataukah mereka dengki kepada manusia (Muhammad) lantaran karunia yang Allah telah berikan kepadanya ? Sesungguhnya Kami telah memberikan Kitab dan Hikmah kepada keluarga Ibrahim, dan Kami telah memberikan kepadanya kerajaan yang besar.",
+  "nomor" : "54",
+  "tr" : "am ya<u>h</u>suduuna <strong>al</strong>nn<u>aa</u>sa 'al<u>aa</u> m<u>aa</u> <u>aa</u>t<u>aa</u>humu <strong>al</strong>l<u>aa</u>hu min fa<u>dh</u>lihi faqad <u>aa</u>tayn<u>aa</u> <u>aa</u>la ibr<u>aa</u>hiima <strong>a</strong>lkit<u>aa</u>ba wa<strong>a</strong>l<u>h</u>ikmata wa<u>aa</u>tayn<u>aa</u>hum mulkan 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَمِنْهُمْ مَنْ آمَنَ بِهِ وَمِنْهُمْ مَنْ صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا",
+  "id" : "Maka di antara mereka (orang-orang yang dengki itu), ada orang-orang yang beriman kepadanya, dan di antara mereka ada orang-orang yang menghalangi (manusia) dari beriman kepadanya. Dan cukuplah (bagi mereka) Jahannam yang menyala-nyala apinya.",
+  "nomor" : "55",
+  "tr" : "faminhum man <u>aa</u>mana bihi waminhum man <u>sh</u>adda 'anhu wakaf<u>aa</u> bijahannama sa'iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ كَفَرُوا بِآيَاتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُمْ بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَ ۗ إِنَّ اللَّهَ كَانَ عَزِيزًا حَكِيمًا",
+  "id" : "Sesungguhnya orang-orang yang kafir kepada ayat-ayat Kami, kelak akan Kami masukkan mereka ke dalam neraka. Setiap kali kulit mereka hangus, Kami ganti kulit mereka dengan kulit yang lain, supaya mereka merasakan azab. Sesungguhnya Allah Maha Perkasa lagi Maha Bijaksana.",
+  "nomor" : "56",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina kafaruu bi-<u>aa</u>y<u>aa</u>tin<u>aa</u> sawfa nu<u>sh</u>liihim n<u>aa</u>ran kullam<u>aa</u> na<u>dh</u>ijat juluuduhum baddaln<u>aa</u>hum juluudan ghayrah<u>aa</u> liya<u>dz</u>uuquu <strong>a</strong>l'a<u>dzaa</u>ba inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'aziizan <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ لَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+  "id" : "Dan orang-orang yang beriman dan mengerjakan amalan-amalan yang shaleh, kelak akan Kami masukkan mereka ke dalam surga yang di dalamnya mengalir sungai-sungai; kekal mereka di dalamnya; mereka di dalamnya mempunyai isteri-isteri yang suci, dan Kami masukkan mereka ke tempat yang teduh lagi nyaman.",
+  "nomor" : "57",
+  "tr" : "wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti sanudkhiluhum jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> abadan lahum fiih<u>aa</u> azw<u>aa</u>jun mu<u>th</u>ahharatun wanudkhiluhum <u>zh</u>illan <u>zh</u>aliil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ ۚ إِنَّ اللَّهَ نِعِمَّا يَعِظُكُمْ بِهِ ۗ إِنَّ اللَّهَ كَانَ سَمِيعًا بَصِيرًا",
+  "id" : "Sesungguhnya Allah menyuruh kamu menyampaikan amanat kepada yang berhak menerimanya, dan (menyuruh kamu) apabila menetapkan hukum di antara manusia supaya kamu menetapkan dengan adil. Sesungguhnya Allah memberi pengajaran yang sebaik-baiknya kepadamu. Sesungguhnya Allah adalah Maha Mendengar lagi Maha Melihat.",
+  "nomor" : "58",
+  "tr" : "inna <strong>al</strong>l<u>aa</u>ha ya/murukum an tu-adduu <strong>a</strong>l-am<u>aa</u>n<u>aa</u>ti il<u>aa</u> ahlih<u>aa</u> wa-i<u>dzaa</u> <u>h</u>akamtum bayna <strong>al</strong>nn<u>aa</u>si an ta<u>h</u>kumuu bi<strong>a</strong>l'adli inna <strong>al</strong>l<u>aa</u>ha ni'imm<u>aa</u> ya'i<u>zh</u>ukum bihi inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na samii'an ba<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنْكُمْ ۖ فَإِنْ تَنَازَعْتُمْ فِي شَيْءٍ فَرُدُّوهُ إِلَى اللَّهِ وَالرَّسُولِ إِنْ كُنْتُمْ تُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+  "id" : "Hai orang-orang yang beriman, ta'atilah Allah dan ta'atilah Rasul (Nya), dan ulil amri di antara kamu. Kemudian jika kamu berlainan pendapat tentang sesuatu, maka kembalikanlah ia kepada Allah (Al Qur'an) dan Rasul (sunnahnya), jika kamu benar-benar beriman kepada Allah dan hari kemudian. Yang demikian itu lebih utama (bagimu) dan lebih baik akibatnya.",
+  "nomor" : "59",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu a<u>th</u>ii'uu <strong>al</strong>l<u>aa</u>ha wa-a<u>th</u>ii'uu <strong>al</strong>rrasuula waulii <strong>a</strong>l-amri minkum fa-in tan<u>aa</u>za'tum fii syay-in farudduuhu il<u>aa</u> <strong>al</strong>l<u>aa</u>hi wa<strong>al</strong>rrasuuli in kuntum tu/minuuna bi<strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lyawmi <strong>a</strong>l-<u>aa</u>khiri <u>dzaa</u>lika khayrun wa-a<u>h</u>sanu ta/wiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَلَمْ تَرَ إِلَى الَّذِينَ يَزْعُمُونَ أَنَّهُمْ آمَنُوا بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ يُرِيدُونَ أَنْ يَتَحَاكَمُوا إِلَى الطَّاغُوتِ وَقَدْ أُمِرُوا أَنْ يَكْفُرُوا بِهِ وَيُرِيدُ الشَّيْطَانُ أَنْ يُضِلَّهُمْ ضَلَالًا بَعِيدًا",
+  "id" : "Apakah kamu tidak memperhatikan orang-orang yang mengaku dirinya telah beriman kepada apa yang diturunkan kepadamu dan kepada apa yang diturunkan sebelum kamu ? Mereka hendak berhakim kepada thaghut, padahal mereka telah diperintah mengingkari thaghut itu. Dan syaitan bermaksud menyesatkan mereka (dengan) penyesatan yang sejauh-jauhnya.",
+  "nomor" : "60",
+  "tr" : "alam tara il<u>aa</u> <strong>al</strong>la<u>dz</u>iina yaz'umuuna annahum <u>aa</u>manuu bim<u>aa</u> unzila ilayka wam<u>aa</u> unzila min qablika yuriiduuna an yata<u>haa</u>kamuu il<u>aa</u> <strong>al</strong><u>ththaa</u>ghuuti waqad umiruu an yakfuruu bihi wayuriidu <strong>al</strong>sysyay<u>th</u><u>aa</u>nu an yu<u>dh</u>illahum <u>dh</u>al<u>aa</u>lan ba'iid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى الرَّسُولِ رَأَيْتَ الْمُنَافِقِينَ يَصُدُّونَ عَنْكَ صُدُودًا",
+  "id" : "Apabila dikatakan kepada mereka : \"Marilah kamu (tunduk) kepada hukum yang Allah telah turunkan dan kepada hukum Rasul\", niscaya kamu lihat orang-orang munafik menghalangi (manusia) dengan sekuat-kuatnya dari (mendekati) kamu.",
+  "nomor" : "61",
+  "tr" : "wa-i<u>dzaa</u> qiila lahum ta'<u>aa</u>law il<u>aa</u> m<u>aa</u> anzala <strong>al</strong>l<u>aa</u>hu wa-il<u>aa</u> <strong>al</strong>rrasuuli ra-ayta <strong>a</strong>lmun<u>aa</u>fiqiina ya<u>sh</u>udduuna 'anka <u>sh</u>uduud<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَكَيْفَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَاءُوكَ يَحْلِفُونَ بِاللَّهِ إِنْ أَرَدْنَا إِلَّا إِحْسَانًا وَتَوْفِيقًا",
+  "id" : "Maka bagaimanakah halnya apabila mereka (orang-orang munafik) ditimpa sesuatu musibah disebabkan perbuatan tangan mereka sendiri, kemudian mereka datang kepadamu sambil bersumpah : \"Demi Allah, kami sekali-kali tidak menghendaki selain penyelesaian yang baik dan perdamaian yang sempurna\".",
+  "nomor" : "62",
+  "tr" : "fakayfa i<u>dzaa</u> a<u>shaa</u>bat-hum mu<u>sh</u>iibatun bim<u>aa</u> qaddamat aydiihim tsumma j<u>aa</u>uuka ya<u>h</u>lifuuna bi<strong>al</strong>l<u>aa</u>hi in aradn<u>aa</u> ill<u>aa</u> i<u>h</u>s<u>aa</u>nan watawfiiq<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أُولَٰئِكَ الَّذِينَ يَعْلَمُ اللَّهُ مَا فِي قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُلْ لَهُمْ فِي أَنْفُسِهِمْ قَوْلًا بَلِيغًا",
+  "id" : "Mereka itu adalah orang-orang yang Allah mengetahui apa yang di dalam hati mereka. Karena itu berpalinglah kamu dari mereka, dan berilah mereka pelajaran, dan katakanlah kepada mereka perkataan yang berbekas pada jiwa mereka.",
+  "nomor" : "63",
+  "tr" : "ul<u>aa</u>-ika <strong>al</strong>la<u>dz</u>iina ya'lamu <strong>al</strong>l<u>aa</u>hu m<u>aa</u> fii quluubihim fa-a'ri<u>dh</u> 'anhum wa'i<u>zh</u>hum waqul lahum fii anfusihim qawlan baliigh<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ اللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذْ ظَلَمُوا أَنْفُسَهُمْ جَاءُوكَ فَاسْتَغْفَرُوا اللَّهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللَّهَ تَوَّابًا رَحِيمًا",
+  "id" : "Dan Kami tidak mengutus seseorang rasul melainkan untuk dita'ati dengan seizin Allah. Sesungguhnya jikalau mereka ketika menganiaya dirinya datang kepadamu, lalu memohon ampun kepada Allah, dan Rasulpun memohonkan ampun untuk mereka, tentulah mereka mendapati Allah Maha Penerima Taubat lagi Maha Penyayang.",
+  "nomor" : "64",
+  "tr" : "wam<u>aa</u> arsaln<u>aa</u> min rasuulin ill<u>aa</u> liyu<u>th</u><u>aa</u>'a bi-i<u>dz</u>ni <strong>al</strong>l<u>aa</u>hi walaw annahum i<u>dz</u> <u>zh</u>alamuu anfusahum j<u>aa</u>uuka fa<strong>i</strong>staghfaruu <strong>al</strong>l<u>aa</u>ha wa<strong>i</strong>staghfara lahumu <strong>al</strong>rrasuulu lawajaduu <strong>al</strong>l<u>aa</u>ha taww<u>aa</u>ban ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْلِيمًا",
+  "id" : "Maka demi Tuhanmu, mereka (pada hakekatnya) tidak beriman hingga mereka menjadikan kamu hakim terhadap perkara yang mereka perselisihkan, kemudian mereka tidak merasa dalam hati mereka sesuatu keberatan terhadap putusan yang kamu berikan, dan mereka menerima dengan sepenuhnya.",
+  "nomor" : "65",
+  "tr" : "fal<u>aa</u> warabbika l<u>aa</u> yu/minuuna <u>h</u>att<u>aa</u> yu<u>h</u>akkimuuka fiim<u>aa</u> syajara baynahum tsumma l<u>aa</u> yajiduu fii anfusihim <u>h</u>arajan mimm<u>aa</u> qa<u>dh</u>ayta wayusallimuu tasliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ اقْتُلُوا أَنْفُسَكُمْ أَوِ اخْرُجُوا مِنْ دِيَارِكُمْ مَا فَعَلُوهُ إِلَّا قَلِيلٌ مِنْهُمْ ۖ وَلَوْ أَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِهِ لَكَانَ خَيْرًا لَهُمْ وَأَشَدَّ تَثْبِيتًا",
+  "id" : "Dan sesungguhnya kalau Kami perintahkan kepada mereka : \"Bunuhlah dirimu atau keluarlah kamu dari kampungmu\", niscaya mereka tidak akan melakukannya kecuali sebagian kecil dari mereka. Dan sesungguhnya kalau mereka melaksanakan pelajaran yang diberikan kepada mereka, tentulah hal yang demikian itu lebih baik bagi mereka dan lebih menguatkan (iman mereka),",
+  "nomor" : "66",
+  "tr" : "walaw ann<u>aa</u> katabn<u>aa</u> 'alayhim ani uqtuluu anfusakum awi ukhrujuu min diy<u>aa</u>rikum m<u>aa</u> fa'aluuhu ill<u>aa</u> qaliilun minhum walaw annahum fa'aluu m<u>aa</u> yuu'a<u>zh</u>uuna bihi lak<u>aa</u>na khayran lahum wa-asyadda tatsbiit<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذًا لَآتَيْنَاهُمْ مِنْ لَدُنَّا أَجْرًا عَظِيمًا",
+  "id" : "dan kalau demikian, pasti Kami berikan kepada mereka pahala yang besar dari sisi Kami,",
+  "nomor" : "67",
+  "tr" : "wa-i<u>dz</u>an la<u>aa</u>tayn<u>aa</u>hum min ladunn<u>aa</u> ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَقِيمًا",
+  "id" : "dan pasti Kami tunjuki mereka kepada jalan yang lurus.",
+  "nomor" : "68",
+  "tr" : "walahadayn<u>aa</u>hum <u>sh</u>ir<u>aath</u>an mustaqiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يُطِعِ اللَّهَ وَالرَّسُولَ فَأُولَٰئِكَ مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ مِنَ النَّبِيِّينَ وَالصِّدِّيقِينَ وَالشُّهَدَاءِ وَالصَّالِحِينَ ۚ وَحَسُنَ أُولَٰئِكَ رَفِيقًا",
+  "id" : "Dan barangsiapa yang menta'ati Allah dan Rasul(Nya), mereka itu akan bersama-sama dengan orang-orang yang dianugerahi ni'mat oleh Allah, yaitu : Nabi-nabi, para shiddiiqiin, orang-orang yang mati syahid, dan orang-orang saleh. Dan mereka itulah teman yang sebaik-baiknya.",
+  "nomor" : "69",
+  "tr" : "waman yu<u>th</u>i'i <strong>al</strong>l<u>aa</u>ha wa<strong>al</strong>rrasuula faul<u>aa</u>-ika ma'a <strong>al</strong>la<u>dz</u>iina an'ama <strong>al</strong>l<u>aa</u>hu 'alayhim mina <strong>al</strong>nnabiyyiina wa<strong>al</strong><u>shsh</u>iddiiqiina wa<strong>al</strong>sysyuhad<u>aa</u>-i wa<strong>al</strong><u>shshaa</u>li<u>h</u>iina wa<u>h</u>asuna ul<u>aa</u>-ika rafiiq<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "ذَٰلِكَ الْفَضْلُ مِنَ اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ عَلِيمًا",
+  "id" : "Yang demikian itu adalah karunia dari Allah, dan Allah cukup mengetahui.",
+  "nomor" : "70",
+  "tr" : "<u>dzaa</u>lika <strong>a</strong>lfa<u>dh</u>lu mina <strong>al</strong>l<u>aa</u>hi wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi 'aliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا",
+  "id" : "Hai orang-orang yang beriman, bersiap siagalah kamu, dan majulah (ke medan pertempuran) berkelompok-kelompok, atau majulah bersama-sama !",
+  "nomor" : "71",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu khu<u>dz</u>uu <u>h</u>i<u>dz</u>rakum fa<strong>i</strong>nfiruu tsub<u>aa</u>tin awi infiruu jamii'<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِنَّ مِنْكُمْ لَمَنْ لَيُبَطِّئَنَّ فَإِنْ أَصَابَتْكُمْ مُصِيبَةٌ قَالَ قَدْ أَنْعَمَ اللَّهُ عَلَيَّ إِذْ لَمْ أَكُنْ مَعَهُمْ شَهِيدًا",
+  "id" : "Dan sesungguhnya di antara kamu ada orang yang sangat berlambat-lambat (ke medan pertempuran). Maka jika kamu ditimpa musibah ia berkata : \"Sesungguhnya Tuhan telah menganugerahkan ni'mat kepada saya karena saya tidak ikut berperang bersama mereka.",
+  "nomor" : "72",
+  "tr" : "wa-inna minkum laman layuba<u>ththh</u>i-anna fa-in a<u>shaa</u>batkum mu<u>sh</u>iibatun q<u>aa</u>la qad an'ama <strong>al</strong>l<u>aa</u>hu 'alayya i<u>dz</u> lam akun ma'ahum syahiid<u>aa</u><strong>n</strong>wala-in a<u>shaa</u>bakum fa<u>dh</u>lun mina <strong>al</strong>l<u>aa</u>hi layaquulanna ka-an lam takun baynakum wabaynahu mawaddatun y<u>aa</u> laytanii kuntu ma'ahum fa-afuuza fawzan 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَئِنْ أَصَابَكُمْ فَضْلٌ مِنَ اللَّهِ لَيَقُولَنَّ كَأَنْ لَمْ تَكُنْ بَيْنَكُمْ وَبَيْنَهُ مَوَدَّةٌ يَا لَيْتَنِي كُنْتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا",
+  "id" : "Dan sungguh jika kamu beroleh karunia (kemenangan) dari Allah, tentulah dia mengatakan seolah-oleh belum pernah ada hubungan kasih sayang antara kamu dengan dia : \"Wahai kiranya saya ada bersama-sama mereka, tentu saya mendapat kemenangan yang besar (pula)\".",
+  "nomor" : "73",
+  "tr" : "wala-in a<u>shaa</u>bakum fa<u>dh</u>lun mina <strong>al</strong>l<u>aa</u>hi layaquulanna ka-an lam takun baynakum wabaynahu mawaddatun y<u>aa</u> laytanii kuntu ma'ahum fa-afuuza fawzan 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَلْيُقَاتِلْ فِي سَبِيلِ اللَّهِ الَّذِينَ يَشْرُونَ الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۚ وَمَنْ يُقَاتِلْ فِي سَبِيلِ اللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+  "id" : "Karena itu hendaklah orang-orang yang menukar kehidupan dunia dengan kehidupan akhirat berperang di jalan Allah. Barangsiapa yang berperang di jalan Allah, lalu gugur atau memperoleh kemenangan maka kelak akan Kami berikan kepadanya pahala yang besar.",
+  "nomor" : "74",
+  "tr" : "falyuq<u>aa</u>til fii sabiili <strong>al</strong>l<u>aa</u>hi <strong>al</strong>la<u>dz</u>iina yasyruuna <strong>a</strong>l<u>h</u>ay<u>aa</u>ta <strong>al</strong>dduny<u>aa</u> bi<strong>a</strong>l-<u>aa</u>khirati waman yuq<u>aa</u>til fii sabiili <strong>al</strong>l<u>aa</u>hi fayuqtal aw yaghlib fasawfa nu/tiihi ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَا لَكُمْ لَا تُقَاتِلُونَ فِي سَبِيلِ اللَّهِ وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ الَّذِينَ يَقُولُونَ رَبَّنَا أَخْرِجْنَا مِنْ هَٰذِهِ الْقَرْيَةِ الظَّالِمِ أَهْلُهَا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا",
+  "id" : "Mengapa kamu tidak mau berperang di jalan Allah dan (membela) orang-orang yang lemah baik laki-laki, wanita-wanita maupun anak-anak yang semuanya berdo'a : \"Ya Tuhan kami, keluarkanlah kami dari negeri ini (Mekah) yang zalim penduduknya dan berilah kami pelindung dari sisi Engkau, dan berilah kami penolong dari sisi Engkau !\".",
+  "nomor" : "75",
+  "tr" : "wam<u>aa</u> lakum l<u>aa</u> tuq<u>aa</u>tiluuna fii sabiili <strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lmusta<u>dh</u>'afiina mina <strong>al</strong>rrij<u>aa</u>li wa<strong>al</strong>nnis<u>aa</u>-i wa<strong>a</strong>lwild<u>aa</u>ni <strong>al</strong>la<u>dz</u>iina yaquuluuna rabban<u>aa</u> akhrijn<u>aa</u> min h<u>aadz</u>ihi <strong>a</strong>lqaryati <strong>al</strong><u>zhzhaa</u>limi ahluh<u>aa</u> wa<strong>i</strong>j'al lan<u>aa</u> min ladunka waliyyan wa<strong>i</strong>j'al lan<u>aa</u> min ladunka na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ وَالَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ فَقَاتِلُوا أَوْلِيَاءَ الشَّيْطَانِ ۖ إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا",
+  "id" : "Orang-orang yang beriman berperang di jalan Allah, dan orang-orang yang kafir berperang di jalan thaghut, sebab itu perangilah kawan-kawan syaitan itu, karena sesungguhnya tipu daya syaitan itu adalah lemah.",
+  "nomor" : "76",
+  "tr" : "<strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu yuq<u>aa</u>tiluuna fii sabiili <strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lla<u>dz</u>iina kafaruu yuq<u>aa</u>tiluuna fii sabiili <strong>al</strong><u>ththaa</u>ghuuti faq<u>aa</u>tiluu awliy<u>aa</u>-a <strong>al</strong>sysyay<u>th</u><u>aa</u>ni inna kayda <strong>al</strong>sysyay<u>th</u><u>aa</u>ni k<u>aa</u>na <u>dh</u>a'iif<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَلَمْ تَرَ إِلَى الَّذِينَ قِيلَ لَهُمْ كُفُّوا أَيْدِيَكُمْ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ إِذَا فَرِيقٌ مِنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَ لَوْلَا أَخَّرْتَنَا إِلَىٰ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَاعُ الدُّنْيَا قَلِيلٌ وَالْآخِرَةُ خَيْرٌ لِمَنِ اتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+  "id" : "Tidakkah kamu perhatikan orang-orang yang dikatakan kepada mereka : \"Tahanlah tanganmu (dari berperang), dirikanlah sembahyang dan tunaikanlah zakat !\" Setelah diwajibkan kepada mereka berperang, tiba-tiba sebahagian dari mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih sangat dari itu takutnya. Mereka berkata : \"Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami ? Mengapa tidak Engkau tangguhkan (kewajiban berperang) kepada kami sampai kepada beberapa waktu lagi ?\" Katakanlah : \"Kesenangan di dunia ini hanya sebentar dan akhirat itu lebih baik untuk orang-orang yang bertakwa, dan kamu tidak akan dianiaya sedikitpun.",
+  "nomor" : "77",
+  "tr" : "alam tara il<u>aa</u> <strong>al</strong>la<u>dz</u>iina qiila lahum kuffuu aydiyakum wa-aqiimuu <strong>al</strong><u>shsh</u>al<u>aa</u>ta wa<u>aa</u>tuu <strong>al</strong>zzak<u>aa</u>ta falamm<u>aa</u> kutiba 'alayhimu <strong>a</strong>lqit<u>aa</u>lu i<u>dzaa</u> fariiqun minhum yakhsyawna <strong>al</strong>nn<u>aa</u>sa kakhasyyati <strong>al</strong>l<u>aa</u>hi aw asyadda khasyyatan waq<u>aa</u>luu rabban<u>aa</u> lima katabta 'alayn<u>aa</u> <strong>a</strong>lqit<u>aa</u>la lawl<u>aa</u> akhkhartan<u>aa</u> il<u>aa</u> ajalin qariibin qul mat<u>aa</u>'u <strong>al</strong>dduny<u>aa</u> qaliilun wa<strong>a</strong>l-<u>aa</u>khiratu khayrun limani ittaq<u>aa</u> wal<u>aa</u> tu<u>zh</u>lamuuna fatiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ وَلَوْ كُنْتُمْ فِي بُرُوجٍ مُشَيَّدَةٍ ۗ وَإِنْ تُصِبْهُمْ حَسَنَةٌ يَقُولُوا هَٰذِهِ مِنْ عِنْدِ اللَّهِ ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا هَٰذِهِ مِنْ عِنْدِكَ ۚ قُلْ كُلٌّ مِنْ عِنْدِ اللَّهِ ۖ فَمَالِ هَٰؤُلَاءِ الْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا",
+  "id" : "Di mana saja kamu berada, kematian akan mendapatkan kamu, kendatipun kamu di dalam benteng yang tinggi lagi kokoh, dan jika mereka memperoleh kebaikan, mereka mengatakan : \"Ini adalah dari sisi Allah\", dan kalau mereka ditimpa sesuatu bencana mereka mengatakan : \"Ini (datangnya) dari sisi kamu (Muhammad)\". Katakanlah : \"Semuanya (datang) dari sisi Allah\". Maka mengapa orang-orang itu (orang munafik) hampir-hampir tidak memahami pembicaraan sedikitpun ?",
+  "nomor" : "78",
+  "tr" : "aynam<u>aa</u> takuunuu yudrikkumu <strong>a</strong>lmawtu walaw kuntum fii buruujin musyayyadatin wa-in tu<u>sh</u>ibhum <u>h</u>asanatun yaquuluu h<u>aadz</u>ihi min 'indi <strong>al</strong>l<u>aa</u>hi wa-in tu<u>sh</u>ibhum sayyi-atun yaquuluu h<u>aadz</u>ihi min 'indika qul kullun min 'indi <strong>al</strong>l<u>aa</u>hi fam<u>aa</u>li h<u>aa</u>ul<u>aa</u>-i <strong>a</strong>lqawmi l<u>aa</u> yak<u>aa</u>duuna yafqahuuna <u>h</u>adiits<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "مَا أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللَّهِ ۖ وَمَا أَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَ ۚ وَأَرْسَلْنَاكَ لِلنَّاسِ رَسُولًا ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+  "id" : "Apa saja ni'mat yang kamu peroleh adalah dari Allah, dan apa saja bencana yang menimpamu, maka dari (kesalahan) dirimu sendiri. Kami mengutusmu menjadi Rasul kepada segenap manusia. Dan cukuplah Allah menjadi saksi.",
+  "nomor" : "79",
+  "tr" : "m<u>aa</u> a<u>shaa</u>baka min <u>h</u>asanatin famina <strong>al</strong>l<u>aa</u>hi wam<u>aa</u> a<u>shaa</u>baka min sayyi-atin famin nafsika wa-arsaln<u>aa</u>ka li<strong>l</strong>nn<u>aa</u>si rasuulan wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi syahiidan"
+}, {
+  "ar" : "مَنْ يُطِعِ الرَّسُولَ فَقَدْ أَطَاعَ اللَّهَ ۖ وَمَنْ تَوَلَّىٰ فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا",
+  "id" : "Barangsiapa yang menta'ati Rasul itu, sesungguhnya ia telah menta'ati Allah. Dan barangsiapa yang berpaling (dari keta'atan itu), maka Kami tidak mengutusmu untuk menjadi pemelihara bagi mereka.",
+  "nomor" : "80",
+  "tr" : "man yu<u>th</u>i'i <strong>al</strong>rrasuula faqad a<u>th</u><u>aa</u>'a <strong>al</strong>l<u>aa</u>ha waman tawall<u>aa</u> fam<u>aa</u> arsaln<u>aa</u>ka 'alayhim <u>h</u>afii<u>zhaa</u><strong>n</strong>"
+}, {
+  "ar" : "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا مِنْ عِنْدِكَ بَيَّتَ طَائِفَةٌ مِنْهُمْ غَيْرَ الَّذِي تَقُولُ ۖ وَاللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+  "id" : "Dan mereka (orang-orang munafik) mengatakan : \"(Kewajiban kami hanyalah) ta'at\". Tetapi apabila mereka telah pergi dari sisimu, sebahagian dari mereka mengatur siasat di malam hari (mengambil keputusan) lain dari yang telah mereka katakan tadi. Allah menulis siasat yang mereka atur di malam hari itu, maka berpalinglah kamu dari mereka dan tawakallah kepada Allah. Cukuplah Allah menjadi Pelindung.",
+  "nomor" : "81",
+  "tr" : "wayaquuluuna <u>th</u><u>aa</u>'atun fa-i<u>dzaa</u> barazuu min 'indika bayyata <u>th</u><u>aa</u>-ifatun minhum ghayra <strong>al</strong>la<u>dz</u>ii taquulu wa<strong>al</strong>l<u>aa</u>hu yaktubu m<u>aa</u> yubayyituuna fa-a'ri<u>dh</u> 'anhum watawakkal 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi wakiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ ۚ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللَّهِ لَوَجَدُوا فِيهِ اخْتِلَافًا كَثِيرًا",
+  "id" : "Maka apakah mereka tidak memperhatikan Al Qur'an ? Kalau kiranya Al Qur'an itu bukan dari sisi Allah, tentulah mereka mendapat pertentangan yang banyak di dalamnya.",
+  "nomor" : "82",
+  "tr" : "afal<u>aa</u> yatadabbaruuna <strong>a</strong>lqur-<u>aa</u>na walaw k<u>aa</u>na min 'indi ghayri <strong>al</strong>l<u>aa</u>hi lawajaduu fiihi ikhtil<u>aa</u>fan katsiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذَا جَاءَهُمْ أَمْرٌ مِنَ الْأَمْنِ أَوِ الْخَوْفِ أَذَاعُوا بِهِ ۖ وَلَوْ رَدُّوهُ إِلَى الرَّسُولِ وَإِلَىٰ أُولِي الْأَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذِينَ يَسْتَنْبِطُونَهُ مِنْهُمْ ۗ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَاتَّبَعْتُمُ الشَّيْطَانَ إِلَّا قَلِيلًا",
+  "id" : "Dan apabila datang kepada mereka suatu berita tentang keamanan ataupun ketakutan, mereka lalu menyiarkannya. Dan kalau mereka menyerahkannya kepada Rasul dan Ulil Amri di antara mereka, tentulah orang-orang yang ingin mengetahui kebenarannya (akan dapat) mengetahuinya dari mereka (Rasul dan Ulil Amri). Kalau tidaklah karena karunia dan rahmat Allah kepada kamu, tentulah kamu mengikut syaitan, kecuali sebahagian kecil saja (di antaramu).",
+  "nomor" : "83",
+  "tr" : "wa-i<u>dzaa</u> j<u>aa</u>-ahum amrun mina <strong>a</strong>l-amni awi <strong>a</strong>lkhawfi a<u>dzaa</u>'uu bihi walaw radduuhu il<u>aa</u> <strong>al</strong>rrasuuli wa-il<u>aa</u> ulii <strong>a</strong>l-amri minhum la'alimahu <strong>al</strong>la<u>dz</u>iina yastanbi<u>th</u>uunahu minhum walawl<u>aa</u> fa<u>dh</u>lu <strong>al</strong>l<u>aa</u>hi 'alaykum wara<u>h</u>matuhu la<strong>i</strong>ttaba'tumu <strong>al</strong>sysyay<u>th</u><u>aa</u>na ill<u>aa</u> qaliil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَقَاتِلْ فِي سَبِيلِ اللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ الْمُؤْمِنِينَ ۖ عَسَى اللَّهُ أَنْ يَكُفَّ بَأْسَ الَّذِينَ كَفَرُوا ۚ وَاللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنْكِيلًا",
+  "id" : "Maka berperanglah kamu pada jalan Allah, tidaklah kamu dibebani melainkan dengan kewajiban kamu sendiri. Kobarkanlah semangat para mu'min (untuk berperang). Mudah-mudahan Allah menolak serangan orang-orang yang kafir itu. Allah amat besar kekuatan dan amat keras siksaan(Nya).",
+  "nomor" : "84",
+  "tr" : "faq<u>aa</u>til fii sabiili <strong>al</strong>l<u>aa</u>hi l<u>aa</u> tukallafu ill<u>aa</u> nafsaka wa<u>h</u>arri<u>dh</u>i <strong>a</strong>lmu/miniina 'as<u>aa</u> <strong>al</strong>l<u>aa</u>hu an yakuffa ba/sa <strong>al</strong>la<u>dz</u>iina kafaruu wa<strong>al</strong>l<u>aa</u>hu asyaddu ba/san wa-asyaddu tankiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَصِيبٌ مِنْهَا ۖ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَا ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقِيتًا",
+  "id" : "Barangsiapa yang memberikan syafa'at yang baik, niscaya ia akan memperoleh bahagian (pahala) dari padanya. Dan barangsiapa memberi syafa'at yang buruk, niscaya ia akan memikul bahagian (dosa) dari padanya. Allah Maha Kuasa atas segala sesuatu.",
+  "nomor" : "85",
+  "tr" : "man yasyfa' syaf<u>aa</u>'atan <u>h</u>asanatan yakun lahu na<u>sh</u>iibun minh<u>aa</u> waman yasyfa' syaf<u>aa</u>'atan sayyi-atan yakun lahu kiflun minh<u>aa</u> wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> kulli syay-in muqiit<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذَا حُيِّيتُمْ بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ رُدُّوهَا ۗ إِنَّ اللَّهَ كَانَ عَلَىٰ كُلِّ شَيْءٍ حَسِيبًا",
+  "id" : "Apabila kamu diberi penghormatan dengan sesuatu penghormatan, maka balaslah penghormatan itu dengan yang lebih baik dari padanya, atau balaslah penghormatan itu (dengan yang serupa). Sesungguhnya Allah memperhitungankan segala sesuatu.",
+  "nomor" : "86",
+  "tr" : "wa-i<u>dzaa</u> <u>h</u>uyyiitum bita<u>h</u>iyyatin fa<u>h</u>ayyuu bi-a<u>h</u>sana minh<u>aa</u> aw rudduuh<u>aa</u> inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'al<u>aa</u> kulli syay-in <u>h</u>asiib<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ اللَّهِ حَدِيثًا",
+  "id" : "Allah, tidak ada Tuhan (yang berhak disembah) selain Dia. Sesungguhnya Dia akan mengumpulkan kamu di hari kiamat, yang tidak ada keraguan terjadinya. Dan siapakah orang yang lebih benar perkataan(nya) dari pada Allah ?",
+  "nomor" : "87",
+  "tr" : "<strong>al</strong>l<u>aa</u>hu l<u>aa</u> il<u>aa</u>ha ill<u>aa</u> huwa layajma'annakum il<u>aa</u> yawmi <strong>a</strong>lqiy<u>aa</u>mati l<u>aa</u> rayba fiihi waman a<u>sh</u>daqu mina <strong>al</strong>l<u>aa</u>hi <u>h</u>adiits<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُمْ بِمَا كَسَبُوا ۚ أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ ۖ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+  "id" : "Maka mengapa kamu (terpecah) menjadi dua golongan dalam (menghadapi) orang-orang munafik, padahal Allah telah membalikkan mereka kepada kekafiran, disebabkan usaha mereka sendiri ? Apakah kamu bermaksud memberi petunjuk kepada orang-orang yang telah disesatkan Allah ? Barangsiapa yang disesatkan Allah, sekali-kali kamu tidak mendapatkan jalan (untuk memberi petunjuk) kepadanya.",
+  "nomor" : "88",
+  "tr" : "fam<u>aa</u> lakum fii <strong>a</strong>lmun<u>aa</u>fiqiina fi-atayni wa<strong>al</strong>l<u>aa</u>hu arkasahum bim<u>aa</u> kasabuu aturiiduuna an tahduu man a<u>dh</u>alla <strong>al</strong>l<u>aa</u>hu waman yu<u>dh</u>lili <strong>al</strong>l<u>aa</u>hu falan tajida lahu sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَدُّوا لَوْ تَكْفُرُونَ كَمَا كَفَرُوا فَتَكُونُونَ سَوَاءً ۖ فَلَا تَتَّخِذُوا مِنْهُمْ أَوْلِيَاءَ حَتَّىٰ يُهَاجِرُوا فِي سَبِيلِ اللَّهِ ۚ فَإِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْ ۖ وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+  "id" : "Mereka ingin supaya kamu menjadi kafir sebagaimana mereka telah menjadi kafir, lalu kamu menjadi sama (dengan mereka). Maka janganlah kamu jadikan di antara mereka penolong-penolong(mu), hingga mereka berhijrah pada jalan Allah. Maka jika mereka berpaling, tawan dan bunuhlah mereka di mana saja kamu menemuinya, dan janganlah kamu ambil seorangpun di antara mereka menjadi pelindung, dan jangan (pula) menjadi penolong,",
+  "nomor" : "89",
+  "tr" : "wadduu law takfuruuna kam<u>aa</u> kafaruu fatakuunuuna saw<u>aa</u>-an fal<u>aa</u> tattakhi<u>dz</u>uu minhum awliy<u>aa</u>-a <u>h</u>att<u>aa</u> yuh<u>aa</u>jiruu fii sabiili <strong>al</strong>l<u>aa</u>hi fa-in tawallaw fakhu<u>dz</u>uuhum wa<strong>u</strong>qtuluuhum <u>h</u>aytsu wajadtumuuhum wal<u>aa</u> tattakhi<u>dz</u>uu minhum waliyyan wal<u>aa</u> na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِلَّا الَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ أَوْ جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا قَوْمَهُمْ ۚ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَاتَلُوكُمْ ۚ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا",
+  "id" : "kecuali orang-orang yang meminta perlindungan kepada sesuatu kaum, yang antara kamu dan kaum itu telah ada perjanjian (damai) atau orang-orang yang datang kepada kamu sedang hati mereka merasa keberatan untuk memerangi kamu dan memerangi kaumnya. Kalau Allah menghendaki, tentu Dia memberi kekuasaan kepada mereka terhadap kamu, lalu pastilah mereka memerangimu. tetapi jika mereka membiarkan kamu, dan tidak memerangi kamu serta mengemukakan perdamaian kepadamu maka Allah tidak memberi jalan bagimu (untuk menawan dan membunuh) mereka.",
+  "nomor" : "90",
+  "tr" : "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina ya<u>sh</u>iluuna il<u>aa</u> qawmin baynakum wabaynahum miits<u>aa</u>qun aw j<u>aa</u>uukum <u>h</u>a<u>sh</u>irat <u>sh</u>uduuruhum an yuq<u>aa</u>tiluukum aw yuq<u>aa</u>tiluu qawmahum walaw sy<u>aa</u>-a <strong>al</strong>l<u>aa</u>hu lasalla<u>th</u>ahum 'alaykum falaq<u>aa</u>taluukum fa-ini i'tazaluukum falam yuq<u>aa</u>tiluukum wa-alqaw ilaykumu <strong>al</strong>ssalama fam<u>aa</u> ja'ala <strong>al</strong>l<u>aa</u>hu lakum 'alayhim sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَنْ يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْ كُلَّ مَا رُدُّوا إِلَى الْفِتْنَةِ أُرْكِسُوا فِيهَا ۚ فَإِنْ لَمْ يَعْتَزِلُوكُمْ وَيُلْقُوا إِلَيْكُمُ السَّلَمَ وَيَكُفُّوا أَيْدِيَهُمْ فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُولَٰئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَانًا مُبِينًا",
+  "id" : "Kelak kamu akan dapati (golongan-golongan) yang lain, yang bermaksud supaya mereka aman dari pada kamu dan aman (pula) dari kaumnya. Setiap mereka diajak kembali kepada fitnah (syirik), merekapun terjun kedalamnya. Karena itu jika mereka tidak membiarkan kamu dan (tidak) mau mengemukakan perdamaian kepadamu, serta (tidak) menahan tangan mereka (dari memerangimu), maka tawanlah mereka dan bunuhlah mereka dan merekalah orang-orang yang Kami berikan kepadamu alasan yang nyata (untuk menawan dan membunuh) mereka.",
+  "nomor" : "91",
+  "tr" : "satajiduuna <u>aa</u>khariina yuriiduuna an ya/manuukum waya/manuu qawmahum kulla m<u>aa</u> rudduu il<u>aa</u> <strong>a</strong>lfitnati urkisuu fiih<u>aa</u> fa-in lam ya'taziluukum wayulquu ilaykumu <strong>al</strong>ssalama wayakuffuu aydiyahum fakhu<u>dz</u>uuhum wa<strong>u</strong>qtuluuhum <u>h</u>aytsu tsaqiftumuuhum waul<u>aa</u>-ikum ja'aln<u>aa</u> lakum 'alayhim sul<u>th</u><u>aa</u>nan mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا ۚ فَإِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ وَإِنْ كَانَ مِنْ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ فَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ وَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِنَ اللَّهِ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+  "id" : "Dan tidak layak bagi seorang mu'min membunuh seorang mu'min (yang lain), kecuali karena tersalah (tidak sengaja), dan barangsiapa membunuh seorang mu'min karena tersalah (hendaklah) ia memerdekakan seorang hamba sahaya yang beriman serta membayar diat yang diserahkan kepada keluarganya (si terbunuh itu), kecuali jika mereka (keluarga terbunuh) bersedekah. Jika ia (si terbunuh) dari kaum (kafir) yang ada perjanjian (damai) antara mereka dengan kamu, maka (hendaklah si pembunuh) membayar diat yang diserahkan kepada keluarganya (si terbunuh) serta memerdekakan hamba sahaya yang beriman. Barangsiapa yang tidak memperolehnya, maka hendaklah ia (si pembunuh) berpuasa dua bulan berturut-turut untuk penerimaan taubat dari pada Allah. Dan adalah Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "92",
+  "tr" : "wam<u>aa</u> k<u>aa</u>na limu/minin an yaqtula mu/minan ill<u>aa</u> kha<u>th</u>a-an waman qatala mu/minan kha<u>th</u>a-an fata<u>h</u>riiru raqabatin mu/minatin wadiyatun musallamatun il<u>aa</u> ahlihi ill<u>aa</u> an ya<u>shsh</u>addaquu fa-in k<u>aa</u>na min qawmin 'aduwwin lakum wahuwa mu/minun fata<u>h</u>riiru raqabatin mu/minatin wa-in k<u>aa</u>na min qawmin baynakum wabaynahum miits<u>aa</u>qun fadiyatun musallamatun il<u>aa</u> ahlihi wata<u>h</u>riiru raqabatin mu/minatin faman lam yajid fa<u>sh</u>iy<u>aa</u>mu syahrayni mutat<u>aa</u>bi'ayni tawbatan mina <strong>al</strong>l<u>aa</u>hi wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا عَظِيمًا",
+  "id" : "Dan barangsiapa yang membunuh seorang mu'min dengan sengaja maka balasannya ialah Jahannam, kekal ia di dalamnya dan Allah murka kepadanya, dan mengutukinya serta menyediakan azab yang besar baginya.",
+  "nomor" : "93",
+  "tr" : "waman yaqtul mu/minan muta'ammidan fajaz<u>aa</u>uhu jahannamu kh<u>aa</u>lidan fiih<u>aa</u> wagha<u>dh</u>iba <strong>al</strong>l<u>aa</u>hu 'alayhi wala'anahu wa-a'adda lahu 'a<u>dzaa</u>ban 'a<u>zh</u>iim<u>aa</u><strong>n </strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا فَعِنْدَ اللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنْتُمْ مِنْ قَبْلُ فَمَنَّ اللَّهُ عَلَيْكُمْ فَتَبَيَّنُوا ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+  "id" : "Hai orang-orang yang beriman, apabila kamu pergi (berperang) di jalan Allah, maka telitilah dan janganlah kamu mengatakan kepada orang yang mengucapkan \"salam\" kepadamu : \"Kamu bukan seorang mu'min\" (lalu kamu membunuhnya), dengan maksud mencari harta benda kehidupan di dunia, karena di sisi Allah ada harta yang banyak. Begitu jugalah keadaan kamu dahulu, lalu Allah menganugerahkan ni'mat-Nya atas kamu, maka telitilah. Sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan.",
+  "nomor" : "94",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu i<u>dzaa</u> <u>dh</u>arabtum fii sabiili <strong>al</strong>l<u>aa</u>hi fatabayyanuu wal<u>aa</u> taquuluu liman <strong>a</strong>lq<u>aa</u> ilaykumu <strong>al</strong>ssal<u>aa</u>ma lasta mu/minan tabtaghuuna 'ara<u>dh</u>a <strong>a</strong>l<u>h</u>ay<u>aa</u>ti <strong>al</strong>dduny<u>aa</u> fa'inda <strong>al</strong>l<u>aa</u>hi magh<u>aa</u>nimu katsiiratun ka<u>dzaa</u>lika kuntum min qablu famanna <strong>al</strong>l<u>aa</u>hu 'alaykum fatabayyanuu inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na bim<u>aa</u> ta'maluuna khabiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ ۚ فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا",
+  "id" : "Tidaklah sama antara mu'min yang duduk (yang tidak ikut berperang) yang tidak mempunyai 'uzur dengan orang-orang yang berjihad di jalan Allah dengan harta mereka dan jiwanya. Allah melebihkan orang-orang yang berjihad dengan harta dan jiwanya atas orang-orang yang duduk satu derajat. Kepada masing-masing mereka Allah menjanjikan pahala yang baik (surga) dan Allah melebihkan orang-orang yang berjihad atas orang yang duduk dengan pahala yang besar,",
+  "nomor" : "95",
+  "tr" : "l<u>aa</u> yastawii <strong>a</strong>lq<u>aa</u>'iduuna mina <strong>a</strong>lmu/miniina ghayru ulii <strong>al</strong><u>dhdh</u>arari wa<strong>a</strong>lmuj<u>aa</u>hiduuna fii sabiili <strong>al</strong>l<u>aa</u>hi bi-amw<u>aa</u>lihim wa-anfusihim fa<u>dhdh</u>ala <strong>al</strong>l<u>aa</u>hu <strong>a</strong>lmuj<u>aa</u>hidiina bi-amw<u>aa</u>lihim wa-anfusihim 'al<u>aa</u> <strong>a</strong>lq<u>aa</u>'idiina darajatan wakullan wa'ada <strong>al</strong>l<u>aa</u>hu <strong>a</strong>l<u>h</u>usn<u>aa</u> wafa<u>dhdh</u>ala <strong>al</strong>l<u>aa</u>hu <strong>a</strong>lmuj<u>aa</u>hidiina 'al<u>aa</u> <strong>a</strong>lq<u>aa</u>'idiina ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+  "id" : "(yaitu) beberapa derajat dari pada-Nya, ampunan serta rahmat. Dan adalah Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "96",
+  "tr" : "daraj<u>aa</u>tin minhu wamaghfiratan wara<u>h</u>matan wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu ghafuuran ra<u>h</u>iim<u>aa</u><strong></strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ قَالُوا فِيمَ كُنْتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا ۚ فَأُولَٰئِكَ مَأْوَاهُمْ جَهَنَّمُ ۖ وَسَاءَتْ مَصِيرًا",
+  "id" : "Sesungguhnya orang-orang yang diwafatkan malaikat dalam keadaan menganiaya diri sendiri, (kepada mereka) malaikat bertanya : \"Dalam keadaan bagaimana kamu ini ?\". Mereka menjawab : \"Adalah kami orang-orang yang tertindas di negeri (Mekah)\". Para malaikat berkata : \"Bukankah bumi Allah itu luas, sehingga kamu dapat berhijrah di bumi itu ?\". Orang-orang itu tempatnya neraka Jahannam, dan Jahannam itu seburuk-buruk tempat kembali,",
+  "nomor" : "97",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina tawaff<u>aa</u>humu almal<u>aa</u>-ikatu <u>zhaa</u>limii anfusihim q<u>aa</u>luu fiima kuntum q<u>aa</u>luu kunn<u>aa</u> musta<u>dh</u>'afiina fii al-ar<u>dh</u>i q<u>aa</u>luu alam takun ar<u>dh</u>u <strong>al</strong>l<u>aa</u>hi w<u>aa</u>si'atan fatuh<u>aa</u>jiruu fiih<u>aa</u> faul<u>aa</u>-ika ma/w<u>aa</u>hum jahannamu was<u>aa</u>-at ma<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+  "id" : "kecuali mereka yang tertindas baik laki-laki atau wanita ataupun anak-anak yang tidak mampu berdaya upaya dan tidak mengetahui jalan (untuk hijrah),",
+  "nomor" : "98",
+  "tr" : "ill<u>aa</u> <strong>a</strong>lmusta<u>dh</u>'afiina mina <strong>al</strong>rrij<u>aa</u>li wa<strong>al</strong>nnis<u>aa</u>-i wa<strong>a</strong>lwild<u>aa</u>ni l<u>aa</u> yasta<u>th</u>ii'uuna <u>h</u>iilatan wal<u>aa</u> yahtaduuna sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَأُولَٰئِكَ عَسَى اللَّهُ أَنْ يَعْفُوَ عَنْهُمْ ۚ وَكَانَ اللَّهُ عَفُوًّا غَفُورًا",
+  "id" : "mereka itu, mudah-mudahan Allah mema'afkannya. Dan adalah Allah Maha Pema'af lagi Maha Pengampun.",
+  "nomor" : "99",
+  "tr" : "faul<u>aa</u>-ika 'as<u>aa</u> <strong>al</strong>l<u>aa</u>hu an ya'fuwa 'anhum wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'afuwwan ghafuur<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا كَثِيرًا وَسَعَةً ۚ وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+  "id" : "Barangsiapa berhijrah di jalan Allah, niscaya mereka mendapati di muka bumi ini tempat hijrah yang luas dan rezki yang banyak. Barangsiapa keluar dari rumahnya dengan maksud berhijrah kepada Allah dan Rasul-Nya, kemudian kematian menimpanya (sebelum sampai ke tempat yang dituju), maka sungguh telah tetap pahalanya di sisi Allah. Dan adalah Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "100",
+  "tr" : "waman yuh<u>aa</u>jir fii sabiili <strong>al</strong>l<u>aa</u>hi yajid fii <strong>a</strong>l-ar<u>dh</u>i mur<u>aa</u>ghaman katsiiran wasa'atan waman yakhruj min baytihi muh<u>aa</u>jiran il<u>aa</u> <strong>al</strong>l<u>aa</u>hi warasuulihi tsumma yudrik-hu <strong>a</strong>lmawtu faqad waqa'a ajruhu 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا ۚ إِنَّ الْكَافِرِينَ كَانُوا لَكُمْ عَدُوًّا مُبِينًا",
+  "id" : "Dan apabila kamu bepergian di muka bumi, maka tidaklah mengapa kamu men-qashar sembahyang(mu), jika kamu takut diserang orang-orang kafir. Sesungguhnya orang-orang kafir itu adalah musuh yang nyata bagimu.",
+  "nomor" : "101",
+  "tr" : "wa-i<u>dzaa</u> <u>dh</u>arabtum fii <strong>a</strong>l-ar<u>dh</u>i falaysa 'alaykum jun<u>aah</u>un an taq<u>sh</u>uruu mina <strong>al</strong><u>shsh</u>al<u>aa</u>ti in khiftum an yaftinakumu <strong>al</strong>la<u>dz</u>iina kafaruu inna <strong>a</strong>lk<u>aa</u>firiina k<u>aa</u>nuu lakum 'aduwwan mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِنْهُمْ مَعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا فَلْيَكُونُوا مِنْ وَرَائِكُمْ وَلْتَأْتِ طَائِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ ۗ وَدَّ الَّذِينَ كَفَرُوا لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُمْ مَيْلَةً وَاحِدَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ إِنْ كَانَ بِكُمْ أَذًى مِنْ مَطَرٍ أَوْ كُنْتُمْ مَرْضَىٰ أَنْ تَضَعُوا أَسْلِحَتَكُمْ ۖ وَخُذُوا حِذْرَكُمْ ۗ إِنَّ اللَّهَ أَعَدَّ لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+  "id" : "Dan apabila kamu berada di tengah-tengah mereka (sahabatmu) lalu kamu hendak mendirikan shalat bersama-sama mereka, maka hendaklah segolongan dari mereka berdiri (shalat) besertamu dan menyandang senjata, kemudian apabila mereka (yang shalat besertamu) sujud (telah menyempurnakan seraka'at), maka hendaklah mereka pindah dari belakangmu (untuk menghadapi musuh) dan hendaklah datang golongan yang kedua yang belum bersembahyang, lalu bersembahyanglah mereka denganmu, dan hendaklah mereka bersiap siaga dan menyandang senjata. Orang-orang kafir ingin supaya kamu lengah terhadap senjatamu dan harta bendamu, lalu mereka menyerbu kamu dengan sekaligus. Dan tidak ada dosa atasmu meletakkan senjata-senjatamu, jika kamu mendapat sesuatu kesusahan karena hujan atau karena kamu memang sakit; dan siap siagalah kamu. Sesungguhnya Allah telah menyediakan azab yang menghinakan bagi orang-orang kafir itu.",
+  "nomor" : "102",
+  "tr" : "wa-i<u>dzaa</u> kunta fiihim fa-aqamta lahumu <strong>al</strong><u>shsh</u>al<u>aa</u>ta faltaqum <u>th</u><u>aa</u>-ifatun minhum ma'aka walya/khu<u>dz</u>uu asli<u>h</u>atahum fa-i<u>dzaa</u> sajaduu falyakuunuu min war<u>aa</u>-ikum walta/ti <u>th</u><u>aa</u>-ifatun ukhr<u>aa</u> lam yu<u>sh</u>alluu falyu<u>sh</u>alluu ma'aka walya/khu<u>dz</u>uu <u>h</u>i<u>dz</u>rahum wa-asli<u>h</u>atahum wadda <strong>al</strong>la<u>dz</u>iina kafaruu law taghfuluuna 'an asli<u>h</u>atikum wa-amti'atikum fayamiiluuna 'alaykum maylatan w<u>aah</u>idatan wal<u>aa</u> jun<u>aah</u>a 'alaykum in k<u>aa</u>na bikum a<u>dz</u>an min ma<u>th</u>arin aw kuntum mar<u>daa</u> an ta<u>dh</u>a'uu asli<u>h</u>atakum wakhu<u>dz</u>uu <u>h</u>i<u>dz</u>rakum inna <strong>al</strong>l<u>aa</u>ha a'adda lilk<u>aa</u>firiina 'a<u>dzaa</u>ban muhiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+  "id" : "Maka apabila kamu telah menyelesaikan shalat(mu), ingatlah Allah di waktu berdiri, di waktu duduk dan di waktu berbaring. Kemudian apabila kamu telah merasa aman, maka dirikanlah shalat itu (sebagaimana biasa). Sesungguhnya shalat itu adalah fardhu yang ditentukan waktunya atas orang-orang yang beriman.",
+  "nomor" : "103",
+  "tr" : "fa-i<u>dzaa</u> qa<u>dh</u>aytumu <strong>al</strong><u>shsh</u>al<u>aa</u>ta fa<strong>u</strong><u>dz</u>kuruu <strong>al</strong>l<u>aa</u>ha qiy<u>aa</u>man waqu'uudan wa'al<u>aa</u> junuubikum fa-i<u>dzaa</u> i<u>th</u>ma/nantum fa-aqiimuu <strong>al</strong><u>shsh</u>al<u>aa</u>ta inna <strong>al</strong><u>shsh</u>al<u>aa</u>ta k<u>aa</u>nat 'al<u>aa</u> <strong>a</strong>lmu/miniina kit<u>aa</u>ban mawquut<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَا تَهِنُوا فِي ابْتِغَاءِ الْقَوْمِ ۖ إِنْ تَكُونُوا تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ اللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+  "id" : "Janganlah kamu berhati lemah dalam mengejar mereka (musuhmu). Jika kamu menderita kesakitan, maka sesungguhnya merekapun menderita kesakitan (pula), sebagaimana kamu menderitanya, sedang kamu mengharap dari pada Allah apa yang tidak mereka harapkan. Dan adalah Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "104",
+  "tr" : "wal<u>aa</u> tahinuu fii ibtigh<u>aa</u>-i <strong>a</strong>lqawmi in takuunuu ta/lamuuna fa-innahum ya/lamuuna kam<u>aa</u> ta/lamuuna watarjuuna mina <strong>al</strong>l<u>aa</u>hi m<u>aa</u> l<u>aa</u> yarjuuna wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ لِلْخَائِنِينَ خَصِيمًا",
+  "id" : "Sesungguhnya Kami telah menurunkan kitab kepadamu dengan membawa kebenaran, supaya kamu mengadili antara manusia dengan apa yang telah Allah wahyukan kepadamu, dan janganlah kamu menjadi penantang (orang yang tidak bersalah), karena (membela) orang-orang yang khianat,",
+  "nomor" : "105",
+  "tr" : "inn<u>aa</u> anzaln<u>aa</u> ilayka <strong>a</strong>lkit<u>aa</u>ba bi<strong>a</strong>l<u>h</u>aqqi lita<u>h</u>kuma bayna <strong>al</strong>nn<u>aa</u>si bim<u>aa</u> ar<u>aa</u>ka <strong>al</strong>l<u>aa</u>hu wal<u>aa</u> takun lilkh<u>aa</u>-iniina kha<u>sh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+  "id" : "dan mohonlah ampun kepada Allah. Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "106",
+  "tr" : "wa<strong>i</strong>staghfiri <strong>al</strong>l<u>aa</u>ha inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنْفُسَهُمْ ۚ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ خَوَّانًا أَثِيمًا",
+  "id" : "Dan janganlah kamu berdebat (untuk membela) orang-orang yang mengkhianati dirinya. Sesungguhnya Allah tidak menyukai orang-orang yang selalu berkhianat lagi bergelimang dosa,",
+  "nomor" : "107",
+  "tr" : "wal<u>aa</u> tuj<u>aa</u>dil 'ani <strong>al</strong>la<u>dz</u>iina yakht<u>aa</u>nuuna anfusahum inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yu<u>h</u>ibbu man k<u>aa</u>na khaww<u>aa</u>nan atsiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَسْتَخْفُونَ مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ الْقَوْلِ ۚ وَكَانَ اللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+  "id" : "mereka bersembunyi dari manusia, tetapi mereka tidak bersembunyi dari Allah, padahal Allah beserta mereka, ketika pada suatu malam mereka menetapkan keputusan rahasia yang Allah tidak redlai. Dan adalah Allah Maha Meliputi (ilmu-Nya) terhadap apa yang mereka kerjakan.",
+  "nomor" : "108",
+  "tr" : "yastakhfuuna mina <strong>al</strong>nn<u>aa</u>si wal<u>aa</u> yastakhfuuna mina <strong>al</strong>l<u>aa</u>hi wahuwa ma'ahum i<u>dz</u> yubayyituuna m<u>aa</u> l<u>aa</u> yar<u>daa</u> mina <strong>a</strong>lqawli wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu bim<u>aa</u> ya'maluuna mu<u>h</u>ii<u>th</u><u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "هَا أَنْتُمْ هَٰؤُلَاءِ جَادَلْتُمْ عَنْهُمْ فِي الْحَيَاةِ الدُّنْيَا فَمَنْ يُجَادِلُ اللَّهَ عَنْهُمْ يَوْمَ الْقِيَامَةِ أَمْ مَنْ يَكُونُ عَلَيْهِمْ وَكِيلًا",
+  "id" : "Beginilah kamu, kamu sekalian adalah orang-orang yang berdebat untuk (membela) mereka dalam kehidupan dunia ini. Maka siapakah yang akan mendebat Allah untuk (membela) mereka pada hari kiamat ? Atau siapakah yang menjadi pelindung mereka (terhadap siksa Allah) ?",
+  "nomor" : "109",
+  "tr" : "h<u>aa</u>-antum h<u>aa</u>ul<u>aa</u>-i j<u>aa</u>daltum 'anhum fii <strong>a</strong>l<u>h</u>ay<u>aa</u>ti <strong>al</strong>dduny<u>aa</u> faman yuj<u>aa</u>dilu <strong>al</strong>l<u>aa</u>ha 'anhum yawma <strong>a</strong>lqiy<u>aa</u>mati am man yakuunu 'alayhim wakiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا",
+  "id" : "Dan barangsiapa yang mengerjakan kejahatan dan menganiaya dirinya, kemudian ia mohon ampun kepada Allah, niscaya ia mendapati Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "110",
+  "tr" : "waman ya'mal suu-an aw ya<u>zh</u>lim nafsahu tsumma yastaghfiri <strong>al</strong>l<u>aa</u>ha yajidi <strong>al</strong>l<u>aa</u>ha ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>waman ya'mal suu-an aw ya<u>zh</u>lim nafsahu tsumma yastaghfiri <strong>al</strong>l<u>aa</u>ha yajidi <strong>al</strong>l<u>aa</u>ha ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>v"
+}, {
+  "ar" : "وَمَنْ يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+  "id" : "Barangsiapa yang mengerjakan dosa, maka sesungguhnya ia mengerjakannya untuk (kemudharatan) dirinya sendiri. Dan Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "111",
+  "tr" : "waman yaksib itsman fa-innam<u>aa</u> yaksibuhu 'al<u>aa</u> nafsihi wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا",
+  "id" : "Dan barangsiapa yang mengerjakan kesalahan atau dosa, kemudian dituduhkannya kepada orang yang tidak bersalah, maka sesungguhnya ia telah berbuat suatu kebohongan dan dosa yang nyata.",
+  "nomor" : "112",
+  "tr" : "waman yaksib kha<u>th</u>ii-atan aw itsman tsumma yarmi bihi barii-an faqadi i<u>h</u>tamala buht<u>aa</u>nan wa-itsman mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِنْ شَيْءٍ ۚ وَأَنْزَلَ اللَّهُ عَلَيْكَ الْكِتَابَ وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا",
+  "id" : "Sekiranya bukan karena karunia Allah dan rahmat-Nya kepadamu, tentulah segolongan dari mereka berkeinginan keras untuk menyesatkanmu. Tetapi mereka tidak menyesatkan melainkan dirinya sendiri, dan mereka tidak dapat membahayakanmu sedikitpun kepadamu. Dan (juga karena) Allah telah menurunkan Kitab dan hikmah kepadamu, dan telah mengajarkan kepadamu apa yang belum kamu ketahui. Dan adalah karunia Allah sangat besar atasmu.",
+  "nomor" : "113",
+  "tr" : "walawl<u>aa</u> fa<u>dh</u>lu <strong>al</strong>l<u>aa</u>hi 'alayka wara<u>h</u>matuhu lahammat <u>th</u><u>aa</u>-ifatun minhum an yu<u>dh</u>illuuka wam<u>aa</u> yu<u>dh</u>illuuna ill<u>aa</u> anfusahum wam<u>aa</u> ya<u>dh</u>urruunaka min syay-in wa-anzala <strong>al</strong>l<u>aa</u>hu 'alayka <strong>a</strong>lkit<u>aa</u>ba wa<strong>a</strong>l<u>h</u>ikmata wa'allamaka m<u>aa</u> lam takun ta'lamu wak<u>aa</u>na fa<u>dh</u>lu <strong>al</strong>l<u>aa</u>hi 'alayka 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَا خَيْرَ فِي كَثِيرٍ مِنْ نَجْوَاهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَاحٍ بَيْنَ النَّاسِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ ابْتِغَاءَ مَرْضَاتِ اللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+  "id" : "Tidak ada kebaikan pada kebanyakan bisikan-bisikan mereka, kecuali bisikan-bisikan dari orang yang menyuruh (manusia) memberi sedekah, atau berbuat ma'ruf, atau mengadakan perdamaian di antara manusia. Dan barangsiapa yang berbuat demikian karena mencari keredhaan Allah, maka kelak Kami memberi kepadanya pahala yang besar.",
+  "nomor" : "114",
+  "tr" : "l<u>aa</u> khayra fii katsiirin min najw<u>aa</u>hum ill<u>aa</u> man amara bi<u>sh</u>adaqatin aw ma'ruufin aw i<u>sh</u>l<u>aah</u>in bayna <strong>al</strong>nn<u>aa</u>si waman yaf'al <u>dzaa</u>lika ibtigh<u>aa</u>-a mar<u>daa</u>ti <strong>al</strong>l<u>aa</u>hi fasawfa nu/tiihi ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+  "id" : "Dan barangsiapa yang menentang Rasul sesudah jelas kebenaran baginya, dan mengikuti jalan yang bukan jalan orang-orang mu'min, Kami biarkan ia leluasa terhadap kesesatan yang telah dikuasainya itu dan Kami masukkan ia ke dalam Jahannam, dan Jahannam itu seburuk-buruk tempat kembali.",
+  "nomor" : "115",
+  "tr" : "waman yusy<u>aa</u>qiqi <strong>al</strong>rrasuula min ba'di m<u>aa</u> tabayyana lahu <strong>a</strong>lhud<u>aa</u> wayattabi' ghayra sabiili <strong>a</strong>lmu/miniina nuwallihi m<u>aa</u> tawall<u>aa</u> wanu<u>sh</u>lihi jahannama was<u>aa</u>-at ma<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ اللَّهَ لَا يَغْفِرُ أَنْ يُشْرَكَ بِهِ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَنْ يَشَاءُ ۚ وَمَنْ يُشْرِكْ بِاللَّهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+  "id" : "Sesungguhnya Allah tidak mengampuni dosa mempersekutukan (sesuatu) dengan Dia, dan dia mengampuni dosa yang selain syirik bagi siapa yang dikehendaki-Nya. Barangsiapa yang mempersekutukan (sesuatu) dengan Allah, maka sesungguhnya ia telah tersesat sejauh-jauhnya.",
+  "nomor" : "116",
+  "tr" : "inna <strong>al</strong>l<u>aa</u>ha l<u>aa</u> yaghfiru an yusyraka bihi wayaghfiru m<u>aa</u> duuna <u>dzaa</u>lika liman yasy<u>aa</u>u waman yusyrik bi<strong>al</strong>l<u>aa</u>hi faqad <u>dh</u>alla <u>dh</u>al<u>aa</u>lan ba'iid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنْ يَدْعُونَ مِنْ دُونِهِ إِلَّا إِنَاثًا وَإِنْ يَدْعُونَ إِلَّا شَيْطَانًا مَرِيدًا",
+  "id" : "Yang mereka sembah selain Allah itu, tidak lain hanyalah berhala, dan (dengan menyembah berhala itu) mereka tidak lain hanyalah menyembah syaitan yang durhaka,",
+  "nomor" : "117",
+  "tr" : "in yad'uuna min duunihi ill<u>aa</u> in<u>aa</u>tsan wa-in yad'uuna ill<u>aa</u> syay<u>th</u><u>aa</u>nan mariid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَعَنَهُ اللَّهُ ۘ وَقَالَ لَأَتَّخِذَنَّ مِنْ عِبَادِكَ نَصِيبًا مَفْرُوضًا",
+  "id" : "yang dila'nati Allah dan syaitan itu mengatakan : \"Saya benar-benar akan mengambil dari hamba-hamba Engkau bahagian yang sudah ditentukan (untuk saya),",
+  "nomor" : "118",
+  "tr" : "la'anahu <strong>al</strong>l<u>aa</u>hu waq<u>aa</u>la la-attakhi<u>dz</u>anna min 'ib<u>aa</u>dika na<u>sh</u>iiban mafruu<u>daa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ وَلَآمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللَّهِ ۚ وَمَنْ يَتَّخِذِ الشَّيْطَانَ وَلِيًّا مِنْ دُونِ اللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُبِينًا",
+  "id" : "dan aku benar-benar akan menyesatkan mereka, dan akan membangkitkan angan-angan kosong pada mereka dan menyuruh mereka (memotong telinga-telinga binatang ternak), lalu mereka benar-benar memotongnya, dan akan aku suruh mereka (mengubah ciptaan Allah), lalu benar-benar mereka merubahnya\". Barangsiapa yang menjadikan syaitan menjadi pelindung selain Allah, maka sesungguhnya ia menderita kerugian yang nyata.",
+  "nomor" : "119",
+  "tr" : "walau<u>dh</u>illannahum walaumanniyannahum wala<u>aa</u>murannahum falayubattikunna <u>aatsaa</u>na <strong>a</strong>l-an'<u>aa</u>mi wala<u>aa</u>murannahum falayughayyirunna khalqa <strong>al</strong>l<u>aa</u>hi waman yattakhi<u>dz</u>i <strong>al</strong>sysyay<u>th</u><u>aa</u>na waliyyan min duuni <strong>al</strong>l<u>aa</u>hi faqad khasira khusr<u>aa</u>nan mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا",
+  "id" : "Syaitan itu memberikan janji-janji kepada mereka dan membangkitkan angan-angan kosong pada mereka, padahal syaitan itu tidak menjanjikan kepada mereka selain dari tipuan belaka.",
+  "nomor" : "120",
+  "tr" : "ya'iduhum wayumanniihim wam<u>aa</u> ya'iduhumu <strong>al</strong>sysyay<u>th</u><u>aa</u>nu ill<u>aa</u> ghuruur<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أُولَٰئِكَ مَأْوَاهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًا",
+  "id" : "Mereka itu tempatnya Jahannam dan mereka tidak memperoleh tempat lari dari padanya.",
+  "nomor" : "121",
+  "tr" : "ul<u>aa</u>-ika ma/w<u>aa</u>hum jahannamu wal<u>aa</u> yajiduuna 'anh<u>aa</u> ma<u>h</u>ii<u>shaa</u><strong>n</strong>"
+}, {
+  "ar" : "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَمَنْ أَصْدَقُ مِنَ اللَّهِ قِيلًا",
+  "id" : "Orang-orang yang beriman dan mengerjakan amalan saleh, kelak akan Kami masukkan ke dalam surga yang mengalir sungai-sungai di dalamnya, mereka kekal di dalamnya selama-lamanya. Allah telah membuat suatu janji yang benar. Dan siapakah yang lebih benar perkataannya dari pada Allah ?",
+  "nomor" : "122",
+  "tr" : "wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti sanudkhiluhum jann<u>aa</u>tin tajrii min ta<u>h</u>tih<u>aa</u> <strong>a</strong>l-anh<u>aa</u>ru kh<u>aa</u>lidiina fiih<u>aa</u> abadan wa'da <strong>al</strong>l<u>aa</u>hi <u>h</u>aqqan waman a<u>sh</u>daqu mina <strong>al</strong>l<u>aa</u>hi qiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَيْسَ بِأَمَانِيِّكُمْ وَلَا أَمَانِيِّ أَهْلِ الْكِتَابِ ۗ مَنْ يَعْمَلْ سُوءًا يُجْزَ بِهِ وَلَا يَجِدْ لَهُ مِنْ دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+  "id" : "(Pahala dari Allah) itu bukanlah menurut angan-anganmu yang kosong dan tidak (pula) menurut angan-angan Ahli Kitab. Barangsiapa yang mengerjakan kejahatan, niscaya akan diberi pembalasan dengan kejahatan itu dan ia tidak mendapat pelindung dan tidak (pula) penolong baginya selain dari Allah.",
+  "nomor" : "123",
+  "tr" : "laysa bi-am<u>aa</u>niyyikum wal<u>aa</u> am<u>aa</u>niyyi ahli <strong>a</strong>lkit<u>aa</u>bi man ya'mal suu-an yujza bihi wal<u>aa</u> yajid lahu min duuni <strong>al</strong>l<u>aa</u>hi waliyyan wal<u>aa</u> na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ أَوْ أُنْثَىٰ وَهُوَ مُؤْمِنٌ فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا",
+  "id" : "Barangsiapa yang mengerjakan amal-amal saleh, baik laki-laki maupun wanita sedang ia orang yang beriman, maka mereka itu masuk ke dalam surga dan mereka tidak dianiaya walau sedikitpun.",
+  "nomor" : "124",
+  "tr" : "waman ya'mal mina <strong>al</strong><u>shshaa</u>li<u>haa</u>ti min <u>dz</u>akarin aw unts<u>aa</u> wahuwa mu/minun faul<u>aa</u>-ika yadkhuluuna <strong>a</strong>ljannata wal<u>aa</u> yu<u>zh</u>lamuuna naqiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَمَنْ أَحْسَنُ دِينًا مِمَّنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۗ وَاتَّخَذَ اللَّهُ إِبْرَاهِيمَ خَلِيلًا",
+  "id" : "Dan siapakah yang lebih baik agamanya dari pada orang yang ikhlas menyerahkan dirinya kepada Allah, sedang diapun mengerjakan kebaikan, dan ia mengikuti agama Ibrahim yang lurus ? Dan Allah mengambil Ibrahim menjadi kesayanganNya.",
+  "nomor" : "125",
+  "tr" : "waman a<u>h</u>sanu diinan mimman aslama wajhahu lill<u>aa</u>hi wahuwa mu<u>h</u>sinun wa<strong>i</strong>ttaba'a millata ibr<u>aa</u>hiima <u>h</u>aniifan wa<strong>i</strong>ttakha<u>dz</u>a <strong>al</strong>l<u>aa</u>hu ibr<u>aa</u>hiima khaliil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَانَ اللَّهُ بِكُلِّ شَيْءٍ مُحِيطًا",
+  "id" : "Kepunyaan Allah-lah apa yang di langit dan apa yang di bumi, dan adalah (pengetahuan) Allah Maha Meliputi segala sesuatu.",
+  "nomor" : "126",
+  "tr" : "walill<u>aa</u>hi m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wam<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu bikulli syay-in mu<u>h</u>ii<u>th</u><u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَيَسْتَفْتُونَكَ فِي النِّسَاءِ ۖ قُلِ اللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِي الْكِتَابِ فِي يَتَامَى النِّسَاءِ اللَّاتِي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَفِينَ مِنَ الْوِلْدَانِ وَأَنْ تَقُومُوا لِلْيَتَامَىٰ بِالْقِسْطِ ۚ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَإِنَّ اللَّهَ كَانَ بِهِ عَلِيمًا",
+  "id" : "Dan mereka minta fatwa kepadamu tentang para wanita. Katakanlah : \"Allah memberi fatwa kepadamu tentang mereka, dan apa yang dibacakan kepadamu dalam Al Qur'an (juga memfatwakan) tentang para wanita yatim yang kamu tidak memberikan kepada mereka apa yang ditetapkan untuk mereka, sedang kamu ingin mengawini mereka dan tentang anak-anak yang masih dipandang lemah. Dan (Allah menyuruh kamu) supaya kamu mengurus anak-anak yatim secara adil. Dan kebajikan apa saja yang kamu kerjakan, maka sesungguhnya Allah adalah Maha Mengetahuinya.",
+  "nomor" : "127",
+  "tr" : "wayastaftuunaka fii <strong>al</strong>nnis<u>aa</u>-i quli <strong>al</strong>l<u>aa</u>hu yuftiikum fiihinna wam<u>aa</u> yutl<u>aa</u> 'alaykum fii <strong>a</strong>lkit<u>aa</u>bi fii yat<u>aa</u>m<u>aa</u> <strong>al</strong>nnis<u>aa</u>-i <strong>al</strong>l<u>aa</u>tii l<u>aa</u> tu/tuunahunna m<u>aa</u> kutiba lahunna watarghabuuna an tanki<u>h</u>uuhunna wa<strong>a</strong>lmusta<u>dh</u>'afiina mina <strong>a</strong>lwild<u>aa</u>ni wa-an taquumuu lilyat<u>aa</u>m<u>aa</u> bi<strong>a</strong>lqis<u>th</u>i wam<u>aa</u> taf'aluu min khayrin fa-inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na bihi 'aliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِنِ امْرَأَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَا أَنْ يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَالصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ الْأَنْفُسُ الشُّحَّ ۚ وَإِنْ تُحْسِنُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+  "id" : "Dan jika seorang wanita khawatir akan nusyuz atau sikap tidak acuh dari suaminya, maka tidak mengapa bagi keduanya mengadakan perdamaian yang sebenar-benarnya, dan perdamaian itu lebih baik (bagi mereka) walaupun manusia itu menurut tabiatnya kikir. Dan jika kamu bergaul dengan isterimu secara baik dan memelihara dirimu (dari nusyuz dan sikap tak acuh), maka sesungguhnya Allah adalah Maha Mengetahui apa yang kamu kerjakan.",
+  "nomor" : "128",
+  "tr" : "wa-ini imra-atun kh<u>aa</u>fat min ba'lih<u>aa</u> nusyuuzan aw i'r<u>aad</u>an fal<u>aa</u> jun<u>aah</u>a 'alayhim<u>aa</u> an yu<u>sh</u>li<u>haa</u> baynahum<u>aa</u> <u>sh</u>ul<u>h</u>an wa<strong>al</strong><u>shsh</u>ul<u>h</u>u khayrun wau<u>hd</u>irati <strong>a</strong>l-anfusu <strong>al</strong>sysyu<u>hh</u>a wa-in tu<u>h</u>sinuu watattaquu fa-inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na bim<u>aa</u> ta'maluuna khabiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلَنْ تَسْتَطِيعُوا أَنْ تَعْدِلُوا بَيْنَ النِّسَاءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ ۚ وَإِنْ تُصْلِحُوا وَتَتَّقُوا فَإِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+  "id" : "Dan kamu sekali-kali tidak akan dapat berlaku adil di antara isteri-isteri(mu), walaupun kamu sangat ingin berbuat demikian, karena itu janganlah kamu terlalu cenderung (kepada yang kamu cintai), sehingga kamu biarkan yang lain terkatung-katung. Dan jika kamu mengadakan perbaikan dan memelihara diri (dari kecurangan), maka sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "129",
+  "tr" : "walan tasta<u>th</u>ii'uu an ta'diluu bayna <strong>al</strong>nnis<u>aa</u>-i walaw <u>h</u>ara<u>sh</u>tum fal<u>aa</u> tamiiluu kulla <strong>a</strong>lmayli fata<u>dz</u>aruuh<u>aa</u> ka<strong>a</strong>lmu'allaqati wa-in tu<u>sh</u>li<u>h</u>uu watattaquu fa-inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِنْ يَتَفَرَّقَا يُغْنِ اللَّهُ كُلًّا مِنْ سَعَتِهِ ۚ وَكَانَ اللَّهُ وَاسِعًا حَكِيمًا",
+  "id" : "Jika keduanya bercerai, maka Allah akan memberi kecukupan kepada masing-masingnya dari limpahan karunia-Nya. Dan adalah Allah Maha Luas (karunia-Nya) lagi Maha Bijaksana.",
+  "nomor" : "130",
+  "tr" : "wa-in yatafarraq<u>aa</u> yughni <strong>al</strong>l<u>aa</u>hu kullan min sa'atihi wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu w<u>aa</u>si'an <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَإِيَّاكُمْ أَنِ اتَّقُوا اللَّهَ ۚ وَإِنْ تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَانَ اللَّهُ غَنِيًّا حَمِيدًا",
+  "id" : "Dan kepunyaan Allah-lah apa yang di langit dan yang di bumi, dan sungguh Kami telah memerintahkan kepada orang-orang yang diberi kitab sebelum kamu dan (juga) kepada kamu; bertakwalah kepada Allah. Tetapi jika kamu kafir maka (ketahuilah), sesungguhnya apa yang di langit dan apa yang di bumi hanyalah kepunyaan Allah dan Allah Maha Kaya dan Maha Terpuji.",
+  "nomor" : "131",
+  "tr" : "walill<u>aa</u>hi m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wam<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i walaqad wa<u>shsh</u>ayn<u>aa</u> <strong>al</strong>la<u>dz</u>iina uutuu <strong>a</strong>lkit<u>aa</u>ba min qablikum wa-iyy<u>aa</u>kum ani ittaquu <strong>al</strong>l<u>aa</u>ha wa-in takfuruu fa-inna lill<u>aa</u>hi m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wam<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu ghaniyyan <u>h</u>amiid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+  "id" : "Dan kepunyaan Allah-lah apa yang di langit dan apa yang di bumi. Cukuplah Allah sebagai Pemelihara.",
+  "nomor" : "132",
+  "tr" : "walill<u>aa</u>hi m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wam<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi wakiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنْ يَشَأْ يُذْهِبْكُمْ أَيُّهَا النَّاسُ وَيَأْتِ بِآخَرِينَ ۚ وَكَانَ اللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا",
+  "id" : "Jika Allah menghendaki, niscaya Dia musnahkan kamu wahai manusia, dan Dia datangkan umat yang lain (sebagai penggantimu). Dan adalah Allah Maha Kuasa berbuat demikian.",
+  "nomor" : "133",
+  "tr" : "in yasya/ yu<u>dz</u>hibkum ayyuh<u>aa</u> <strong>al</strong>nn<u>aa</u>su waya/ti bi-<u>aa</u>khariina wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'al<u>aa</u> <u>dzaa</u>lika qadiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "مَنْ كَانَ يُرِيدُ ثَوَابَ الدُّنْيَا فَعِنْدَ اللَّهِ ثَوَابُ الدُّنْيَا وَالْآخِرَةِ ۚ وَكَانَ اللَّهُ سَمِيعًا بَصِيرًا",
+  "id" : "Barangsiapa yang menghendaki pahala di dunia saja (maka ia merugi), karena di sisi Allah ada pahala dunia dan akhirat. Dan Allah Maha Mendengar lagi Maha Melihat.",
+  "nomor" : "134",
+  "tr" : "man k<u>aa</u>na yuriidu tsaw<u>aa</u>ba <strong>al</strong>dduny<u>aa</u> fa'inda <strong>al</strong>l<u>aa</u>hi tsaw<u>aa</u>bu <strong>al</strong>dduny<u>aa</u> wa<strong>a</strong>l-<u>aa</u>khirati wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu samii'an ba<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنْفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِنْ يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا الْهَوَىٰ أَنْ تَعْدِلُوا ۚ وَإِنْ تَلْوُوا أَوْ تُعْرِضُوا فَإِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+  "id" : "Wahai orang-orang yang beriman, jadilah kamu orang yang benar-benar penegak keadilan, menjadi saksi karena Allah biarpun terhadap dirimu sendiri atau ibu bapa dan kaum kerabatmu. Jika ia kaya ataupun miskin, maka Allah lebih tahu kemaslahatannya. Maka janganlah kamu mengikuti hawa nafsu karena ingin menyimpang dari kebenaran. Dan jika kamu memutar balikkan (kata-kata) atau enggan menjadi saksi, maka sesungguhnya Allah adalah Maha Mengetahui segala apa yang kamu kerjakan.",
+  "nomor" : "135",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu kuunuu qaww<u>aa</u>miina bi<strong>a</strong>lqis<u>th</u>i syuhad<u>aa</u>-a lill<u>aa</u>hi walaw 'al<u>aa</u> anfusikum awi <strong>a</strong>lw<u>aa</u>lidayni wa<strong>a</strong>l-aqrabiina in yakun ghaniyyan aw faqiiran fa<strong>al</strong>l<u>aa</u>hu awl<u>aa</u> bihim<u>aa</u> fal<u>aa</u> tattabi'uu <strong>a</strong>lhaw<u>aa</u> an ta'diluu wa-in talwuu aw tu'ri<u>dh</u>uu fa-inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na bim<u>aa</u> ta'maluuna khabiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا آمِنُوا بِاللَّهِ وَرَسُولِهِ وَالْكِتَابِ الَّذِي نَزَّلَ عَلَىٰ رَسُولِهِ وَالْكِتَابِ الَّذِي أَنْزَلَ مِنْ قَبْلُ ۚ وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا",
+  "id" : "Wahai orang-orang yang beriman, tetaplah beriman kepada Allah dan Rasul-Nya dan kepada kitab yang Allah turunkan kepada Rasul-Nya, serta kitab yang Allah turunkan sebelumnya. Barangsiapa yang kafir kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, dan hari kemudian, maka sesungguhnya orang itu telah sesat sejauh-jauhnya.",
+  "nomor" : "136",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu <u>aa</u>minuu bi<strong>al</strong>l<u>aa</u>hi warasuulihi wa<strong>a</strong>lkit<u>aa</u>bi <strong>al</strong>la<u>dz</u>ii nazzala 'al<u>aa</u> rasuulihi wa<strong>a</strong>lkit<u>aa</u>bi <strong>al</strong>la<u>dz</u>ii anzala min qablu waman yakfur bi<strong>al</strong>l<u>aa</u>hi wamal<u>aa</u>-ikatihi wakutubihi warusulihi wa<strong>a</strong>lyawmi <strong>a</strong>l-<u>aa</u>khiri faqad <u>dh</u>alla <u>dh</u>al<u>aa</u>lan ba'iid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ آمَنُوا ثُمَّ كَفَرُوا ثُمَّ ازْدَادُوا كُفْرًا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَبِيلًا",
+  "id" : "Sesungguhnya orang-orang yang beriman kemudian kafir, kemudian beriman (pula), kamudian kafir lagi, kemudian bertambah kekafirannya, maka sekali-kali Allah tidak akan memberi ampunan kepada mereka, dan tidak (pula) menunjuki mereka kepada jalan yang lurus.",
+  "nomor" : "137",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu tsumma kafaruu tsumma <u>aa</u>manuu tsumma kafaruu tsumma izd<u>aa</u>duu kufran lam yakuni <strong>al</strong>l<u>aa</u>hu liyaghfira lahum wal<u>aa</u> liyahdiyahum sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "بَشِّرِ الْمُنَافِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا",
+  "id" : "Kabarkanlah kepada orang-orang munafik bahwa mereka akan mendapat siksaan yang pedih,",
+  "nomor" : "138",
+  "tr" : "basysyiri <strong>a</strong>lmun<u>aa</u>fiqiina bi-anna lahum 'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "الَّذِينَ يَتَّخِذُونَ الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِنْدَهُمُ الْعِزَّةَ فَإِنَّ الْعِزَّةَ لِلَّهِ جَمِيعًا",
+  "id" : "(yaitu) orang-orang yang mengambil orang-orang kafir menjadi teman-teman penolong dengan meninggalkan orang-orang mu'min. Apakah mereka mencari kekuatan di sisi orang kafir itu ? Maka sesungguhnya semua kekuatan kepunyaan Allah.",
+  "nomor" : "139",
+  "tr" : "<strong>al</strong>la<u>dz</u>iina yattakhi<u>dz</u>uuna <strong>a</strong>lk<u>aa</u>firiina awliy<u>aa</u>-a min duuni <strong>a</strong>lmu/miniina ayabtaghuuna 'indahumu <strong>a</strong>l'izzata fa-inna <strong>a</strong>l'izzata lill<u>aa</u>hi jamii'<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ أَنْ إِذَا سَمِعْتُمْ آيَاتِ اللَّهِ يُكْفَرُ بِهَا وَيُسْتَهْزَأُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ حَتَّىٰ يَخُوضُوا فِي حَدِيثٍ غَيْرِهِ ۚ إِنَّكُمْ إِذًا مِثْلُهُمْ ۗ إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ وَالْكَافِرِينَ فِي جَهَنَّمَ جَمِيعًا",
+  "id" : "Dan sungguh Allah telah menurunkan kekuatan kepada kamu di dalam Al Qur'an bahwa apabila kamu mendengar ayat-ayat Allah diingkari dan diperolok-olokkan (oleh orang-orang kafir), maka janganlah kamu duduk beserta mereka, sehingga mereka memasuki pembicaraan yang lain. Karena sesungguhnya (kalau kamu berbuat demikian), tentulah kamu serupa dengan mereka. Sesungguhnya Allah akan mengumpulkan semua orang-orang munafik dan orang-orang kafir di dalam Jahannam,",
+  "nomor" : "140",
+  "tr" : "waqad nazzala 'alaykum fii <strong>a</strong>lkit<u>aa</u>bi an i<u>dzaa</u> sami'tum <u>aa</u>y<u>aa</u>ti <strong>al</strong>l<u>aa</u>hi yukfaru bih<u>aa</u> wayustahzau bih<u>aa</u> fal<u>aa</u> taq'uduu ma'ahum <u>h</u>att<u>aa</u> yakhuu<u>dh</u>uu fii <u>h</u>adiitsin ghayrihi innakum i<u>dz</u>an mitsluhum inna <strong>al</strong>l<u>aa</u>ha j<u>aa</u>mi'u <strong>a</strong>lmun<u>aa</u>fiqiina wa<strong>a</strong>lk<u>aa</u>firiina fii jahannama jamii'<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "الَّذِينَ يَتَرَبَّصُونَ بِكُمْ فَإِنْ كَانَ لَكُمْ فَتْحٌ مِنَ اللَّهِ قَالُوا أَلَمْ نَكُنْ مَعَكُمْ وَإِنْ كَانَ لِلْكَافِرِينَ نَصِيبٌ قَالُوا أَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُمْ مِنَ الْمُؤْمِنِينَ ۚ فَاللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ ۗ وَلَنْ يَجْعَلَ اللَّهُ لِلْكَافِرِينَ عَلَى الْمُؤْمِنِينَ سَبِيلًا",
+  "id" : "(yaitu) orang-orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu (hai orang-orang mu'min). Maka jika terjadi bagimu kemenangan dari Allah mereka berkata : \"Bukankah kami (turut berperang) beserta kamu ?\" Dan jika orang-orang kafir mendapat keberuntungan (kemenangan) mereka berkata : \"Bukankah kami turut memenangkanmu, dan membela kamu dari orang-orang mu'min ?\" Maka Allah akan memberi keputusan di antara kamu di hari kiamat dan Allah sekali-kali tidak akan memberi jalan kepada orang-orang kafir untuk memusnahkan orang-orang yang beriman.",
+  "nomor" : "141",
+  "tr" : "<strong>al</strong>la<u>dz</u>iina yatarabba<u>sh</u>uuna bikum fa-in k<u>aa</u>na lakum fat<u>h</u>un mina <strong>al</strong>l<u>aa</u>hi q<u>aa</u>luu alam nakun ma'akum wa-in k<u>aa</u>na lilk<u>aa</u>firiina na<u>sh</u>iibun q<u>aa</u>luu alam nasta<u>h</u>wi<u>dz</u> 'alaykum wanamna'kum mina almu/miniina fa<strong>al</strong>l<u>aa</u>hu ya<u>h</u>kumu baynakum yawma alqiy<u>aa</u>mati walan yaj'ala <strong>al</strong>l<u>aa</u>hu lilk<u>aa</u>firiina 'al<u>aa</u> almu/miniina sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الْمُنَافِقِينَ يُخَادِعُونَ اللَّهَ وَهُوَ خَادِعُهُمْ وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ وَلَا يَذْكُرُونَ اللَّهَ إِلَّا قَلِيلًا",
+  "id" : "Sesungguhnya orang-orang munafik itu menipu Allah, dan Allah akan membalas tipuan mereka. Dan apabila mereka berdiri untuk shalat mereka berdiri dengan malas. Mereka bermaksud riya (dengan shalat) di hadapan manusia. Dan tidaklah mereka menyebut Allah kecuali sedikit sekali.",
+  "nomor" : "142",
+  "tr" : "inna <strong>a</strong>lmun<u>aa</u>fiqiina yukh<u>aa</u>di'uuna <strong>al</strong>l<u>aa</u>ha wahuwa kh<u>aa</u>di'uhum wa-i<u>dzaa</u> q<u>aa</u>muu il<u>aa</u> <strong>al</strong><u>shsh</u>al<u>aa</u>ti q<u>aa</u>muu kus<u>aa</u>l<u>aa</u> yur<u>aa</u>uuna <strong>al</strong>nn<u>aa</u>sa wal<u>aa</u> ya<u>dz</u>kuruuna <strong>al</strong>l<u>aa</u>ha ill<u>aa</u> qaliil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "مُذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَا إِلَىٰ هَٰؤُلَاءِ وَلَا إِلَىٰ هَٰؤُلَاءِ ۚ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+  "id" : "Mereka dalam keadaan ragu-ragu antara yang demikian (iman atau kafir): tidak masuk kepada golongan ini (orang-orang beriman) dan tidak (pula) kepada golongan itu (orang-orang kafir), maka kamu sekali-kali tidak akan mendapat jalan (untuk memberi petunjuk) baginya.",
+  "nomor" : "143",
+  "tr" : "mu<u>dz</u>ab<u>dz</u>abiina bayna <u>dzaa</u>lika l<u>aa</u> il<u>aa</u> h<u>aa</u>ul<u>aa</u>-i wal<u>aa</u> il<u>aa</u> h<u>aa</u>ul<u>aa</u>-i waman yu<u>dh</u>lili <strong>al</strong>l<u>aa</u>hu falan tajida lahu sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ ۚ أَتُرِيدُونَ أَنْ تَجْعَلُوا لِلَّهِ عَلَيْكُمْ سُلْطَانًا مُبِينًا",
+  "id" : "Hai orang-orang yang beriman, janganlah kamu mengambil orang-orang kafir menjadi wali dengan meninggalkan orang-orang mu'min. Inginkah kamu mengadakan alasan yang nyata bagi Allah (untuk menyiksamu) ?",
+  "nomor" : "144",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu l<u>aa</u> tattakhi<u>dz</u>uu <strong>a</strong>lk<u>aa</u>firiina awliy<u>aa</u>-a min duuni <strong>a</strong>lmu/miniina aturiiduuna an taj'aluu lill<u>aa</u>hi 'alaykum sul<u>th</u><u>aa</u>nan mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الْمُنَافِقِينَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ وَلَنْ تَجِدَ لَهُمْ نَصِيرًا",
+  "id" : "Sesungguhnya orang-orang munafik itu (ditempatkan) pada tingkatan yang paling bawah dari neraka. Dan kamu sekali-kali tidak akan mendapat seorang penolongpun bagi mereka.",
+  "nomor" : "145",
+  "tr" : "inna <strong>a</strong>lmun<u>aa</u>fiqiina fii <strong>al</strong>ddarki <strong>a</strong>l-asfali mina <strong>al</strong>nn<u>aa</u>ri walan tajida lahum na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَاعْتَصَمُوا بِاللَّهِ وَأَخْلَصُوا دِينَهُمْ لِلَّهِ فَأُولَٰئِكَ مَعَ الْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ اللَّهُ الْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+  "id" : "Kecuali orang-orang yang taubat dan mengadakan perbaikan dan berpegang teguh pada (agama) Allah dan tulus ikhlas (mengerjakan) agama mereka karena Allah. Maka mereka itu adalah bersama-sama orang yang beriman dan kelak Allah akan memberikan kepada orang-orang yang beriman pahala yang besar.",
+  "nomor" : "146",
+  "tr" : "ill<u>aa</u> <strong>al</strong>la<u>dz</u>iina t<u>aa</u>buu wa-a<u>sh</u>la<u>h</u>uu wa<strong>i</strong>'ta<u>sh</u>amuu bi<strong>al</strong>l<u>aa</u>hi wa-akhla<u>sh</u>uu diinahum lill<u>aa</u>hi faul<u>aa</u>-ika ma'a <strong>a</strong>lmu/miniina wasawfa yu/ti <strong>al</strong>l<u>aa</u>hu <strong>a</strong>lmu/miniina ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "مَا يَفْعَلُ اللَّهُ بِعَذَابِكُمْ إِنْ شَكَرْتُمْ وَآمَنْتُمْ ۚ وَكَانَ اللَّهُ شَاكِرًا عَلِيمًا",
+  "id" : "Mengapa Allah akan menyiksamu, jika kamu bersyukur dan beriman ? Dan Allah adalah Maha Mensyukuri lagi Maha Mengetahui.",
+  "nomor" : "147",
+  "tr" : "m<u>aa</u> yaf'alu <strong>al</strong>l<u>aa</u>hu bi'a<u>dzaa</u>bikum in syakartum wa<u>aa</u>mantum wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu sy<u>aa</u>kiran 'aliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَا يُحِبُّ اللَّهُ الْجَهْرَ بِالسُّوءِ مِنَ الْقَوْلِ إِلَّا مَنْ ظُلِمَ ۚ وَكَانَ اللَّهُ سَمِيعًا عَلِيمًا",
+  "id" : "Allah tidak menyukai ucapan buruk, (yang diucapkan) dengan terus terang kecuali oleh orang yang dianiaya. Allah adalah Maha Mendengar lagi Maha Mengetahui.",
+  "nomor" : "148",
+  "tr" : "l<u>aa</u> yu<u>h</u>ibbu <strong>al</strong>l<u>aa</u>hu <strong>a</strong>ljahra bi<strong>al</strong>ssuu-i mina <strong>a</strong>lqawli ill<u>aa</u> man <u>zh</u>ulima wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu samii'an 'aliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنْ تُبْدُوا خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا عَنْ سُوءٍ فَإِنَّ اللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+  "id" : "Jika kamu melahirkan sesuatu kebaikan atau menyembunyikan atau memaafkan sesuatu kesalahan (orang lain), maka sesungguhnya Allah Maha Pema'af lagi Maha Kuasa.",
+  "nomor" : "149",
+  "tr" : "in tubduu khayran aw tukhfuuhu aw ta'fuu 'an suu-in fa-inna <strong>al</strong>l<u>aa</u>ha k<u>aa</u>na 'afuwwan qadiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ يَكْفُرُونَ بِاللَّهِ وَرُسُلِهِ وَيُرِيدُونَ أَنْ يُفَرِّقُوا بَيْنَ اللَّهِ وَرُسُلِهِ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍ وَيُرِيدُونَ أَنْ يَتَّخِذُوا بَيْنَ ذَٰلِكَ سَبِيلًا",
+  "id" : "Sesungguhnya orang-orang yang kafir kepada Allah dan rasul-rasul-Nya, dan bermaksud memperbedakan antara (keimanan kepada) Allah dan rasul-rasul-Nya, dengan mengatakan : \"Kami beriman kepada yang sebahagian dan kami kafir terhadap sebahagian (yang lain)\", serta bermaksud (dengan perkataan itu) mengambil jalan (tengah) di antara yang demikian (iman atau kafir),",
+  "nomor" : "150",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina yakfuruuna bi<strong>al</strong>l<u>aa</u>hi warusulihi wayuriiduuna an yufarriquu bayna <strong>al</strong>l<u>aa</u>hi warusulihi wayaquuluuna nu/minu biba'<u>dh</u>in wanakfuru biba'<u>dh</u>in wayuriiduuna an yattakhi<u>dz</u>uu bayna <u>dzaa</u>lika sabiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "أُولَٰئِكَ هُمُ الْكَافِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+  "id" : "merekalah orang-orang yang kafir sebenar-benarnya. Kami telah menyediakan untuk orang-orang yang kafir itu siksaan yang menghinakan.",
+  "nomor" : "151",
+  "tr" : "ul<u>aa</u>-ika humu <strong>a</strong>lk<u>aa</u>firuuna <u>h</u>aqqan wa-a'tadn<u>aa</u> lilk<u>aa</u>firiina 'a<u>dzaa</u>ban muhiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ وَلَمْ يُفَرِّقُوا بَيْنَ أَحَدٍ مِنْهُمْ أُولَٰئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+  "id" : "Orang-orang yang beriman kepada Allah dan para rasul-Nya dan tidak membeda-bedakan seorangpun di antara mereka, kelak Allah akan memberikan kepada mereka pahalanya. Dan adalah Allah Maha Pengampun lagi Maha Penyayang.",
+  "nomor" : "152",
+  "tr" : "wa<strong>a</strong>lla<u>dz</u>iina <u>aa</u>manuu bi<strong>al</strong>l<u>aa</u>hi warusulihi walam yufarriquu bayna a<u>h</u>adin minhum ul<u>aa</u>-ika sawfa yu/tiihim ujuurahum wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu ghafuuran ra<u>h</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَسْأَلُكَ أَهْلُ الْكِتَابِ أَنْ تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِنَ السَّمَاءِ ۚ فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِنْ ذَٰلِكَ فَقَالُوا أَرِنَا اللَّهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ اتَّخَذُوا الْعِجْلَ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَنْ ذَٰلِكَ ۚ وَآتَيْنَا مُوسَىٰ سُلْطَانًا مُبِينًا",
+  "id" : "Ahli Kitab meminta kepadamu agar kamu menurunkan kepada mereka sebuah Kitab dari langit. Maka sesungguhnya mereka telah meminta kepada Musa yang lebih besar dari itu. Mereka berkata : \"Perlihatkanlah Allah kepada kami dengan nyata\". Maka mereka disambar petir karena kezalimannya, dan mereka menyembah anak sapi, sesudah datang kepada mereka bukti-bukti yang nyata, lalu Kami ma'afkan (mereka) dari yang demikian. Dan telah Kami berikan kepada Musa keterangan yang nyata.",
+  "nomor" : "153",
+  "tr" : "yas-aluka ahlu <strong>a</strong>lkit<u>aa</u>bi an tunazzila 'alayhim kit<u>aa</u>ban mina <strong>al</strong>ssam<u>aa</u>-i faqad sa-aluu muus<u>aa</u> akbara min <u>dzaa</u>lika faq<u>aa</u>luu arin<u>aa</u> <strong>al</strong>l<u>aa</u>ha jahratan fa-akha<u>dz</u>at-humu <strong>al</strong><u>shshaa</u>'iqatu bi<u>zh</u>ulmihim tsumma ittakha<u>dz</u>uu <strong>a</strong>l'ijla min ba'di m<u>aa</u> j<u>aa</u>-at-humu <strong>a</strong>lbayyin<u>aa</u>tu fa'afawn<u>aa</u> 'an <u>dzaa</u>lika wa<u>aa</u>tayn<u>aa</u> muus<u>aa</u> sul<u>th</u><u>aa</u>nan mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَرَفَعْنَا فَوْقَهُمُ الطُّورَ بِمِيثَاقِهِمْ وَقُلْنَا لَهُمُ ادْخُلُوا الْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا فِي السَّبْتِ وَأَخَذْنَا مِنْهُمْ مِيثَاقًا غَلِيظًا",
+  "id" : "Dan telah Kami angkat ke atas (kepala) mereka bukit Thursina untuk (menerima) perjanjian (yang telah Kami ambil dari) mereka. Dan kami perintahkan kepada mereka : \"Masuklah pintu gerbang itu sambil bersujud\", dan Kami perintahkan (pula) kepada mereka : \"Janganlah kamu melanggar peraturan mengenai hari Sabtu\", dan Kami telah mengambil dari mereka perjanjian yang kokoh.",
+  "nomor" : "154",
+  "tr" : "warafa'n<u>aa</u> fawqahumu <strong>al</strong><u>ththh</u>uura bimiits<u>aa</u>qihim waquln<u>aa</u> lahumu udkhuluu <strong>a</strong>lb<u>aa</u>ba sujjadan waquln<u>aa</u> lahum l<u>aa</u> ta'duu fii <strong>al</strong>ssabti wa-akha<u>dz</u>n<u>aa</u> minhum miits<u>aa</u>qan ghalii<u>zhaa</u><strong>n</strong>"
+}, {
+  "ar" : "فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ وَكُفْرِهِمْ بِآيَاتِ اللَّهِ وَقَتْلِهِمُ الْأَنْبِيَاءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌ ۚ بَلْ طَبَعَ اللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+  "id" : "Maka (Kami lakukan terhadap mereka beberapa tindakan), disebabkan mereka melanggar perjanjian itu, dan karena kekafiran mereka terhadap keterangan-keterangan Allah dan mereka membunuh nabi-nabi tanpa (alasan) yang benar dan mengatakan : \"Hati kami tertutup.\" Bahkan, sebenarnya Allah telah mengunci mati hati mereka karena kekafirannya, karena itu mereka tidak beriman kecuali sebahagian kecil dari mereka.",
+  "nomor" : "155",
+  "tr" : "fabim<u>aa</u> naq<u>dh</u>ihim miits<u>aa</u>qahum wakufrihim bi-<u>aa</u>y<u>aa</u>ti <strong>al</strong>l<u>aa</u>hi waqatlihimu <strong>a</strong>l-anbiy<u>aa</u>-a bighayri <u>h</u>aqqin waqawlihim quluubun<u>aa</u> ghulfun bal <u>th</u>aba'a <strong>al</strong>l<u>aa</u>hu 'alayh<u>aa</u> bikufrihim fal<u>aa</u> yu/minuuna ill<u>aa</u> qaliil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَانًا عَظِيمًا",
+  "id" : "Dan karena kekafiran mereka (terhadap 'Isa) dan tuduhan mereka terhadap Maryam dengan kedustaan besar (zina),",
+  "nomor" : "156",
+  "tr" : "wabikufrihim waqawlihim 'al<u>aa</u> maryama buht<u>aa</u>nan 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِنْ شُبِّهَ لَهُمْ ۚ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِيهِ لَفِي شَكٍّ مِنْهُ ۚ مَا لَهُمْ بِهِ مِنْ عِلْمٍ إِلَّا اتِّبَاعَ الظَّنِّ ۚ وَمَا قَتَلُوهُ يَقِينًا",
+  "id" : "dan karena ucapan mereka : \"Sesungguhnya kami telah membunuh Al Masih, 'Isa putra Maryam, Rasul Allah\", padahal mereka tidak membunuhnya dan tidak (pula) menyalibnya, tetapi (yang mereka bunuh ialah) orang yang diserupakan dengan 'Isa bagi mereka. Sesungguhnya orang-orang yang berselisih paham tentang (pembunuhan) 'Isa, benar-benar dalam keragu-raguan tentang yang dibunuh itu. Mereka tidak mempunyai keyakinan tentang siapa yang dibunuh itu, kecuali mengikuti persangkaan belaka, mereka tidak (pula) yakin bahwa yang mereka bunuh itu adalah 'Isa.",
+  "nomor" : "157",
+  "tr" : "waqawlihim inn<u>aa</u> qataln<u>aa</u> <strong>a</strong>lmasii<u>h</u>a 'iis<u>aa</u> ibna maryama rasuula <strong>al</strong>l<u>aa</u>hi wam<u>aa</u> qataluuhu wam<u>aa</u> <u>sh</u>alabuuhu wal<u>aa</u>kin syubbiha lahum wa-inna <strong>al</strong>la<u>dz</u>iina ikhtalafuu fiihi lafii syakkin minhu m<u>aa</u> lahum bihi min 'ilmin ill<u>aa</u> ittib<u>aa</u>'a <strong>al</strong><u>zhzh</u>anni wam<u>aa</u> qataluuhu yaqiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "بَلْ رَفَعَهُ اللَّهُ إِلَيْهِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+  "id" : "Tetapi (yang sebenarnya), Allah telah mengangkat 'Isa kepada-Nya. Dan adalah Allah Maha Perkasa lagi Maha Bijaksana.",
+  "nomor" : "158",
+  "tr" : "bal rafa'ahu <strong>al</strong>l<u>aa</u>hu ilayhi wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aziizan <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَإِنْ مِنْ أَهْلِ الْكِتَابِ إِلَّا لَيُؤْمِنَنَّ بِهِ قَبْلَ مَوْتِهِ ۖ وَيَوْمَ الْقِيَامَةِ يَكُونُ عَلَيْهِمْ شَهِيدًا",
+  "id" : "Tidak ada seorangpun dari Ahli Kitab, kecuali akan beriman kepadanya ('Isa) sebelum kematiannya. Dan di hari kiamat nanti 'Isa itu akan menjadi saksi terhadap mereka.",
+  "nomor" : "159",
+  "tr" : "wa-in min ahli <strong>a</strong>lkit<u>aa</u>bi ill<u>aa</u> layu/minanna bihi qabla mawtihi wayawma <strong>a</strong>lqiy<u>aa</u>mati yakuunu 'alayhim syahiid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَبِظُلْمٍ مِنَ الَّذِينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَنْ سَبِيلِ اللَّهِ كَثِيرًا",
+  "id" : "Maka disebabkan kezaliman orang-orang Yahudi, kami haramkan atas (memakan makanan) yang baik-baik (yang dahulunya) dihalalkan bagi mereka, dan karena mereka banyak menghalangi (manusia) dari jalan Allah,",
+  "nomor" : "160",
+  "tr" : "fabi<u>zh</u>ulmin mina <strong>al</strong>la<u>dz</u>iina h<u>aa</u>duu <u>h</u>arramn<u>aa</u> 'alayhim <u>th</u>ayyib<u>aa</u>tin u<u>h</u>illat lahum wabi<u>sh</u>addihim 'an sabiili <strong>al</strong>l<u>aa</u>hi katsiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا",
+  "id" : "dan disebabkan mereka memakan riba, padahal sesungguhnya mereka telah dilarang daripadanya, dan karena mereka memakan harta benda orang dengan jalan yang batil. Kami telah menyediakan untuk orang-orang yang kafir di antara mereka itu siksa yang pedih.",
+  "nomor" : "161",
+  "tr" : "wa-akh<u>dz</u>ihimu <strong>al</strong>rrib<u>aa</u> waqad nuhuu 'anhu wa-aklihim amw<u>aa</u>la <strong>al</strong>nn<u>aa</u>si bi<strong>a</strong>lb<u>aath</u>ili wa-a'tadn<u>aa</u> lilk<u>aa</u>firiina minhum 'a<u>dzaa</u>ban <strong>a</strong>liim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَٰكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ ۚ وَالْمُقِيمِينَ الصَّلَاةَ ۚ وَالْمُؤْتُونَ الزَّكَاةَ وَالْمُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أُولَٰئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+  "id" : "Tetapi orang-orang yang mendalam ilmunya di antara mereka dan orang-orang mu'min, mereka beriman kepada apa yang telah diturunkan kepadamu (Al Qur'an), dan apa yang telah diturunkan sebelummu dan orang-orang yang mendirikan shalat, menunaikan zakat, dan yang beriman kepada Allah dan hari kemudian. Orang-orang itulah yang akan Kami berikan kepada mereka pahala yang besar.",
+  "nomor" : "162",
+  "tr" : "l<u>aa</u>kini <strong>al</strong>rr<u>aa</u>sikhuuna fii <strong>a</strong>l'ilmi minhum wa<strong>a</strong>lmu/minuuna yu/minuuna bim<u>aa</u> unzila ilayka wam<u>aa</u> unzila min qablika wa<strong>a</strong>lmuqiimiina <strong>al</strong><u>shsh</u>al<u>aa</u>ta wa<strong>a</strong>lmu/tuuna <strong>al</strong>zzak<u>aa</u>ta wa<strong>a</strong>lmu/minuuna bi<strong>al</strong>l<u>aa</u>hi wa<strong>a</strong>lyawmi <strong>a</strong>l-<u>aa</u>khiri ul<u>aa</u>-ika sanu/tiihim ajran 'a<u>zh</u>iim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّا أَوْحَيْنَا إِلَيْكَ كَمَا أَوْحَيْنَا إِلَىٰ نُوحٍ وَالنَّبِيِّينَ مِنْ بَعْدِهِ ۚ وَأَوْحَيْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَارُونَ وَسُلَيْمَانَ ۚ وَآتَيْنَا دَاوُودَ زَبُورًا",
+  "id" : "Sesungguhnya Kami telah memberikan wahyu kepadamu sebagaimana Kami telah memberikan wahyu kepada Nuh dan nabi-nabi yang kemudiannya, dan Kami telah memberikan wahyu (pula) kepada Ibrahim, Isma'il, Ishak, Ya'qub dan anak cucunya, 'Isa, Ayyub, Yunus, Harun dan Sulaiman. Dan Kami berikan Zabur kepada Daud.",
+  "nomor" : "163",
+  "tr" : "inn<u>aa</u> aw<u>h</u>ayn<u>aa</u> ilayka kam<u>aa</u> aw<u>h</u>ayn<u>aa</u> il<u>aa</u> nuu<u>h</u>in wa<strong>al</strong>nnabiyyiina min ba'dihi wa-aw<u>h</u>ayn<u>aa</u> il<u>aa</u> ibr<u>aa</u>hiima wa-ism<u>aa</u>'iila wa-is<u>haa</u>qa waya'quuba wa<strong>a</strong>l-asb<u>aath</u>i wa'iis<u>aa</u> wa-ayyuuba wayuunusa wah<u>aa</u>ruuna wasulaym<u>aa</u>na wa<u>aa</u>tayn<u>aa</u> d<u>aa</u>wuuda zabuur<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِنْ قَبْلُ وَرُسُلًا لَمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ اللَّهُ مُوسَىٰ تَكْلِيمًا",
+  "id" : "Dan (Kami telah mengutus) rasul-rasul yang sungguh telah Kami kisahkan tentang mereka kepadamu dahulu, dan rasul-rasul yang tidak Kami kisahkan tentang mereka kepadamu. Dan Allah telah berbicara kepada Musa dengan langsung.",
+  "nomor" : "164",
+  "tr" : "warusulan qad qa<u>sh</u>a<u>sh</u>n<u>aa</u>hum 'alayka min qablu warusulan lam naq<u>sh</u>u<u>sh</u>hum 'alayka wakallama <strong>al</strong>l<u>aa</u>hu muus<u>aa</u> takliim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "رُسُلًا مُبَشِّرِينَ وَمُنْذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللَّهِ حُجَّةٌ بَعْدَ الرُّسُلِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+  "id" : "(Mereka Kami utus) selaku rasul-rasul pembawa berita gembira dan pemberi peringatan agar supaya tidak ada alasan bagi manusia membantah Allah sesudah diutusnya rasul-rasul itu. Dan adalah Allah Maha Perkasa lagi Maha Bijaksana.",
+  "nomor" : "165",
+  "tr" : "rusulan mubasysyiriina wamun<u>dz</u>iriina li-all<u>aa</u> yakuuna li<strong>l</strong>nn<u>aa</u>si 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi <u>h</u>ujjatun ba'da <strong>al</strong>rrusuli wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aziizan <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَٰكِنِ اللَّهُ يَشْهَدُ بِمَا أَنْزَلَ إِلَيْكَ ۖ أَنْزَلَهُ بِعِلْمِهِ ۖ وَالْمَلَائِكَةُ يَشْهَدُونَ ۚ وَكَفَىٰ بِاللَّهِ شَهِيدًا",
+  "id" : "(Mereka tidak mau mengakui yang diturunkan kepadamu itu), tetapi Allah mengakui Al Qur'an yang diturunkan-Nya kepadamu. Allah menurunkannya dengan ilmu-Nya; dan malaikat-malaikat pun menjadi saksi (pula). Cukuplah Allah yang mengakuinya.",
+  "nomor" : "166",
+  "tr" : "l<u>aa</u>kini <strong>al</strong>l<u>aa</u>hu yasyhadu bim<u>aa</u> anzala ilayka anzalahu bi'ilmihi wa<strong>a</strong>lmal<u>aa</u>-ikatu yasyhaduuna wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi syahiid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ قَدْ ضَلُّوا ضَلَالًا بَعِيدًا",
+  "id" : "Sesungguhnya orang-orang yang kafir dan menghalang-halangi (manusia) dari jalan Allah, benar-benar telah sesat sejauh-jauhnya.",
+  "nomor" : "167",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina kafaruu wa<u>sh</u>adduu 'an sabiili <strong>al</strong>l<u>aa</u>hi qad <u>dh</u>alluu <u>dh</u>al<u>aa</u>lan ba'iid<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِنَّ الَّذِينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللَّهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَرِيقًا",
+  "id" : "Sesungguhnya orang-orang yang kafir dan melakukan kezaliman, Allah sekali-kali tidak akan mengampuni (dosa) mereka dan tidak (pula) akan menunjukkan jalan kepada mereka,",
+  "nomor" : "168",
+  "tr" : "inna <strong>al</strong>la<u>dz</u>iina kafaruu wa<u>zh</u>alamuu lam yakuni <strong>al</strong>l<u>aa</u>hu liyaghfira lahum wal<u>aa</u> liyahdiyahum <u>th</u>ariiq<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "إِلَّا طَرِيقَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا ۚ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+  "id" : "kecuali jalan ke neraka Jahannam; mereka kekal di dalamnya selama-lamanya. Dan yang demikian itu adalah mudah bagi Allah.",
+  "nomor" : "169",
+  "tr" : "ill<u>aa</u> <u>th</u>ariiqa jahannama kh<u>aa</u>lidiina fiih<u>aa</u> abadan wak<u>aa</u>na <u>dzaa</u>lika 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi yasiir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمُ الرَّسُولُ بِالْحَقِّ مِنْ رَبِّكُمْ فَآمِنُوا خَيْرًا لَكُمْ ۚ وَإِنْ تَكْفُرُوا فَإِنَّ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+  "id" : "Wahai manusia, sesungguhnya telah datang Rasul (Muhammad) itu kepadamu dengan (membawa) kebenaran dari Tuhanmu, maka berimanlah kamu, itulah yang lebih baik bagimu. Dan jika kamu kafir, (maka kekafiran itu tidak merugikan Allah sedikitpun) karena sesungguhnya apa yang di langit dan di bumi itu adalah kepunyaan Allah. Dan adalah Allah Maha Mengetahui lagi Maha Bijaksana.",
+  "nomor" : "170",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nn<u>aa</u>su qad j<u>aa</u>-akumu <strong>al</strong>rrasuulu bi<strong>a</strong>l<u>h</u>aqqi min rabbikum fa<u>aa</u>minuu khayran lakum wa-in takfuruu fa-inna lill<u>aa</u>hi m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wa<strong>a</strong>l-ar<u>dh</u>i wak<u>aa</u>na <strong>al</strong>l<u>aa</u>hu 'aliiman <u>h</u>akiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ وَلَا تَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ ۚ إِنَّمَا الْمَسِيحُ عِيسَى ابْنُ مَرْيَمَ رَسُولُ اللَّهِ وَكَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ وَرُوحٌ مِنْهُ ۖ فَآمِنُوا بِاللَّهِ وَرُسُلِهِ ۖ وَلَا تَقُولُوا ثَلَاثَةٌ ۚ انْتَهُوا خَيْرًا لَكُمْ ۚ إِنَّمَا اللَّهُ إِلَٰهٌ وَاحِدٌ ۖ سُبْحَانَهُ أَنْ يَكُونَ لَهُ وَلَدٌ ۘ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَكَفَىٰ بِاللَّهِ وَكِيلًا",
+  "id" : "Wahai Ahli Kitab, janganlah kamu melampaui batas dalam agamamu, dan janganlah kamu mengatakan terhadap Allah kecuali yang benar. Sesungguhnya Al Masih, 'Isa putera Maryam itu, adalah utusan Allah dan (yang diciptakan dengan) kalimat-Nya yang disampaikan-Nya kepada Maryam, dan (dengan tiupan) roh dari-Nya. Maka berimanlah kamu kepada Allah dan rasul-rasul-Nya dan janganlah kamu mengatakan : \"(Tuhan itu) tiga\", berhentilah (dari ucapan itu). (Itu) lebih baik bagimu. Sesungguhnya Allah Tuhan Yang Maha Esa, Maha Suci Allah dari mempunyai anak, segala yang di langit dan di bumi adalah kepunyaan-Nya. Cukuplah Allah menjadi Pemelihara.",
+  "nomor" : "171",
+  "tr" : "y<u>aa</u> ahla <strong>a</strong>lkit<u>aa</u>bi l<u>aa</u> taghluu fii diinikum wal<u>aa</u> taquuluu 'al<u>aa</u> <strong>al</strong>l<u>aa</u>hi ill<u>aa</u> <strong>a</strong>l<u>h</u>aqqa innam<u>aa</u> <strong>a</strong>lmasii<u>h</u>u 'iis<u>aa</u> ibnu maryama rasuulu <strong>al</strong>l<u>aa</u>hi wakalimatuhu <strong>a</strong>lq<u>aa</u>h<u>aa</u> il<u>aa</u> maryama waruu<u>h</u>un minhu fa<u>aa</u>minuu bi<strong>al</strong>l<u>aa</u>hi warusulihi wal<u>aa</u> taquuluu tsal<u>aa</u>tsatun intahuu khayran lakum innam<u>aa</u> <strong>al</strong>l<u>aa</u>hu il<u>aa</u>hun w<u>aah</u>idun sub<u>haa</u>nahu an yakuuna lahu waladun lahu m<u>aa</u> fii <strong>al</strong>ssam<u>aa</u>w<u>aa</u>ti wam<u>aa</u> fii <strong>a</strong>l-ar<u>dh</u>i wakaf<u>aa</u> bi<strong>al</strong>l<u>aa</u>hi wakiil<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ ۚ وَمَنْ يَسْتَنْكِفْ عَنْ عِبَادَتِهِ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا",
+  "id" : "Al Masih sekali-kali tidak enggan menjadi hamba bagi Allah, dan tidak (pula enggan) malaikat-malaikat yang terdekat (kepada Allah). Barangsiapa yang enggan dari menyembah-Nya, dan menyombongkan diri, nanti Allah akan mengumpulkan mereka semua kepada-Nya.",
+  "nomor" : "172",
+  "tr" : "lan yastankifa <strong>a</strong>lmasii<u>h</u>u an yakuuna 'abdan lill<u>aa</u>hi wal<u>aa</u> <strong>a</strong>lmal<u>aa</u>-ikatu <strong>a</strong>lmuqarrabuuna waman yastankif 'an 'ib<u>aa</u>datihi wayastakbir fasaya<u>h</u>syuruhum ilayhi jamii'<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُمْ مِنْ فَضْلِهِ ۖ وَأَمَّا الَّذِينَ اسْتَنْكَفُوا وَاسْتَكْبَرُوا فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُمْ مِنْ دُونِ اللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+  "id" : "Adapun orang-orang yang beriman dan berbuat amal saleh, maka Allah akan menyempurnakan pahala mereka dan menambah untuk mereka sebagian dari karunia-Nya. Adapun orang-orang yang enggan dan menyombongkan diri, maka Allah akan menyiksa mereka dengan siksaan yang pedih, dan mereka tidak akan memperoleh bagi diri mereka, pelindung dan penolong selain dari pada Allah.",
+  "nomor" : "173",
+  "tr" : "fa-amm<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu wa'amiluu <strong>al</strong><u>shshaa</u>li<u>haa</u>ti fayuwaffiihim ujuurahum wayaziiduhum min fa<u>dh</u>lihi wa-amm<u>aa</u> <strong>al</strong>la<u>dz</u>iina istankafuu wa<strong>i</strong>stakbaruu fayu'a<u>dzdz</u>ibuhum 'a<u>dzaa</u>ban <strong>a</strong>liiman wal<u>aa</u> yajiduuna lahum min duuni <strong>al</strong>l<u>aa</u>hi waliyyan wal<u>aa</u> na<u>sh</u>iir<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَا أَيُّهَا النَّاسُ قَدْ جَاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ وَأَنْزَلْنَا إِلَيْكُمْ نُورًا مُبِينًا",
+  "id" : "Hai manusia, sesungguhnya telah datang kepadamu bukti kebenaran dari Tuhanmu. (Muhammad dengan mu'jizatnya) dan telah Kami turunkan kepadamu cahaya yang terang benderang (Al Qur'an).",
+  "nomor" : "174",
+  "tr" : "y<u>aa</u> ayyuh<u>aa</u> <strong>al</strong>nn<u>aa</u>su qad j<u>aa</u>-akum burh<u>aa</u>nun min rabbikum wa-anzaln<u>aa</u> ilaykum nuuran mubiin<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "فَأَمَّا الَّذِينَ آمَنُوا بِاللَّهِ وَاعْتَصَمُوا بِهِ فَسَيُدْخِلُهُمْ فِي رَحْمَةٍ مِنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَاطًا مُسْتَقِيمًا",
+  "id" : "Adapun orang-orang yang beriman kepada Allah dan berpegang teguh kepada (agama)-Nya niscaya Allah akan memasukkan mereka ke dalam rahmat yang besar dari-Nya (surga) dan limpahan karunia-Nya. Dan menunjuki mereka kepada jalan yang lurus (untuk sampai) kepada-Nya.",
+  "nomor" : "175",
+  "tr" : "fa-amm<u>aa</u> <strong>al</strong>la<u>dz</u>iina <u>aa</u>manuu bi<strong>al</strong>l<u>aa</u>hi wa<strong>i</strong>'ta<u>sh</u>amuu bihi fasayudkhiluhum fii ra<u>h</u>matin minhu wafa<u>dh</u>lin wayahdiihim ilayhi <u>sh</u>ir<u>aath</u>an mustaqiim<u>aa</u><strong>n</strong>"
+}, {
+  "ar" : "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ۚ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَا إِنْ لَمْ يَكُنْ لَهَا وَلَدٌ ۚ فَإِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِنْ كَانُوا إِخْوَةً رِجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ ۗ يُبَيِّنُ اللَّهُ لَكُمْ أَنْ تَضِلُّوا ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+  "id" : "Mereka meminta fatwa kepadamu (tentang kalalah). Katakanlah : \"Allah memberi fatwa kepadamu tentang kalalah (yaitu) : jika seorang meninggal dunia, dan ia tidak mempunyai anak dan mempunyai saudara perempuan, maka bagi saudaranya yang perempuan itu seperdua dari harta yang ditinggalkannya, dan saudaranya yang laki-laki mempusakai (seluruh harta saudara perempuan), jika ia tidak mempunyai anak; tetapi jika saudara perempuan itu dua orang, maka bagi keduanya dua pertiga dari harta yang ditinggalkan oleh yang meninggal. Dan jika mereka (ahli waris itu terdiri dari) saudara-saudara laki dan perempuan, maka bahagian seorang saudara laki-laki sebanyak bahagian dua orang saudara perempuan. Allah menerangkan (hukum ini) kepadamu, supaya kamu tidak sesat. Dan Allah Maha Mengetahui segala sesuatu.",
+  "nomor" : "176",
+  "tr" : "yastaftuunaka quli <strong>al</strong>l<u>aa</u>hu yuftiikum fii <strong>a</strong>lkal<u>aa</u>lati ini imruun halaka laysa lahu waladun walahu ukhtun falah<u>aa</u> ni<u>sh</u>fu m<u>aa</u> taraka wahuwa yaritsuh<u>aa</u> in lam yakun lah<u>aa</u> waladun fa-in k<u>aa</u>nat<u>aa</u> itsnatayni falahum<u>aa</u> <strong>al</strong>tstsuluts<u>aa</u>ni mimm<u>aa</u> taraka wa-in k<u>aa</u>nuu ikhwatan rij<u>aa</u>lan wanis<u>aa</u>-an fali<strong>l</strong><u>dzdz</u>akari mitslu <u>h</u>a<u>zhzh</u>i <strong>a</strong>luntsayayni yubayyinu <strong>al</strong>l<u>aa</u>hu lakum an ta<u>dh</u>illuu wa<strong>al</strong>l<u>aa</u>hu bikulli syay-in 'aliim<strong>un</strong>yastaftuunaka quli <strong>al</strong>l<u>aa</u>hu yuftiikum fii <strong>a</strong>lkal<u>aa</u>lati ini imruun halaka laysa lahu waladun walahu ukhtun falah<u>aa</u> ni<u>sh</u>fu m<u>aa</u> taraka wahuwa yaritsuh<u>aa</u> in lam yakun lah<u>aa</u> waladun fa-in k<u>aa</u>nat<u>aa</u> itsnatayni falahum<u>aa</u> <strong>al</strong>tstsuluts<u>aa</u>ni mimm<u>aa</u> taraka wa-in k<u>aa</u>nuu ikhwatan rij<u>aa</u>lan wanis<u>aa</u>-an fali<strong>l</strong><u>dzdz</u>akari mitslu <u>h</u>a<u>zhzh</u>i <strong>a</strong>luntsayayni yubayyinu <strong>al</strong>l<u>aa</u>hu lakum an ta<u>dh</u>illuu wa<strong>al</strong>l<u>aa</u>hu bikulli syay-in 'aliim<strong>un</strong>"
+} ]
